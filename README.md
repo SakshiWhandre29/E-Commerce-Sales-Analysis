@@ -2,18 +2,26 @@
 
 🌟 E-Commerce Sales & Customer Insights Analysis
 End-to-End Portfolio Project (Python • Power BI • Data Modeling)
+
 📌 Project Summary
 
 This project demonstrates my complete data analytics workflow — from raw data to a fully interactive business dashboard.
 I performed:
 
 ✔ Data cleaning
+
 ✔ Exploratory Data Analysis (EDA)
+
 ✔ Customer segmentation
+
 ✔ Feature engineering
+
 ✔ DAX modeling
+
 ✔ Power BI dashboard creation
+
 ✔ Business insights + recommendations
+
 
 This showcases the skills I would apply in a real company to analyze e-commerce performance and customer behavior.
 
@@ -32,6 +40,7 @@ When customers purchase the most
 How repeat customers contribute to growth
 
 🧰 Skills Demonstrated
+
 🔹 Python
 
 Data Cleaning
@@ -69,6 +78,8 @@ Insight generation
 RFM-style customer grouping
 
 🗂️ Portfolio Project Workflow
+
+
 📍 Phase 1 — Data Understanding & Cleaning
 
 Removed duplicates
@@ -93,6 +104,7 @@ Basic sanity checks
 
 Files:
 ecommerce_raw.csv → cleaned → ecommerce_cleaned.csv
+
 
 📍 Phase 2 — Exploratory Data Analysis (Python)
 
@@ -128,6 +140,7 @@ Exported final dataset:
 ecommerce_day4_segmented.csv
 
 📍 Phase 4 — Power BI Dashboard Development
+
 ⚡ KPIs Built
 
 Total Sales
@@ -157,18 +170,26 @@ Profit vs Sales Scatterplot
 Filters Panel
 
 🧮 Important DAX
+
 Total Sales = SUM('Data'[Amount])
+
 Total Orders = DISTINCTCOUNT('Data'[OrderID])
+
 AOV = DIVIDE([Total Sales], [Total Orders])
+
 Repeat Customers = CALCULATE(DISTINCTCOUNT(Data[CustomerID]), Data[CustomerType] = "Repeat Customer")
+
 
 🖼️ Final Dashboard Snapshot
 
 (Add your screenshot here)
 
-![Dashboard Preview](dashboard/dashboard.png)
+![Dashboard Preview](E-Commerce-Sales-Analysis
+/Dashboard/
+)
 
 💡 Key Business Insights
+
 📌 1. Strong Repeat Customer Contribution
 
 Repeat customers contributed a significant portion of sales — highlighting strong retention.
@@ -190,6 +211,7 @@ A small group of products drive most sales → classic 80/20 rule.
 Certain months (e.g., Aug–Oct) show strong performance.
 
 📁 Project Folder Structure
+
 📦 E-Commerce-Sales-Portfolio
 │
 ├── data/
