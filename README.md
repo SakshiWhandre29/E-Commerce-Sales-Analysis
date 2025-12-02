@@ -182,7 +182,9 @@ Repeat Customers = CALCULATE(DISTINCTCOUNT(Data[CustomerID]), Data[CustomerType]
 
 🖼️ Final Dashboard Snapshot
 
-(Add your screenshot here)
+
+(E-Commerce-Sales-Analysis/Screenshot.png)
+
 
 ![Dashboard Preview](E-Commerce-Sales-Analysis
 /Dashboard/
