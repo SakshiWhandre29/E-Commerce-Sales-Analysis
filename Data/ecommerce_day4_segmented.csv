@@ -1,0 +1,1201 @@
+OrderID,CustomerID,OrderDate,Product,Quantity,UnitPrice,PaymentMethod,City,State,Category,TotalAmount,DeliveryTime,CustomerRating,Year,Month,Day,Weekday,Profit,CustomerGroup_x,CustomerGroup_y
+10001,5103,2023-02-17,Shoes,1,52796.66,Debit Card,Chennai,Tamil Nadu,Fashion,52796.66,3,3,2023,2,17,Friday,15839.0,Premium / Best Customers,Premium / Best Customers
+10002,5436,2023-03-02,Laptop,1,48584.76,Net Banking,Bangalore,Karnataka,Electronics,48584.76,2,2,2023,3,2,Thursday,14575.43,At Risk / Low Value,At Risk / Low Value
+10003,5861,2023-12-03,Laptop,3,40726.0,Net Banking,Chennai,Tamil Nadu,Electronics,122178.0,7,1,2023,12,3,Sunday,36653.4,Premium / Best Customers,Premium / Best Customers
+10004,5271,2023-01-26,Headphones,4,37614.24,COD,Delhi,Delhi,Electronics,150456.96,9,4,2023,1,26,Thursday,45137.09,Potential Customers,Potential Customers
+10005,5107,2023-10-19,Jeans,3,19198.02,UPI,Hyderabad,Telangana,Fashion,57594.06,6,5,2023,10,19,Thursday,17278.22,Premium / Best Customers,Premium / Best Customers
+10006,5072,2023-09-14,Jeans,1,49039.72,COD,Hyderabad,Telangana,Fashion,49039.72,7,4,2023,9,14,Thursday,14711.92,Loyal Customers,Loyal Customers
+10007,5701,2023-01-08,Camera,2,30240.47,COD,Kolkata,West Bengal,Electronics,60480.94,4,3,2023,1,8,Sunday,18144.28,At Risk / Low Value,At Risk / Low Value
+10008,5021,2023-04-23,Backpack,4,4532.23,Net Banking,Hyderabad,Telangana,Accessories,18128.92,5,4,2023,4,23,Sunday,5438.68,Potential Customers,Potential Customers
+10009,5615,2023-12-21,Mobile,2,18977.93,Net Banking,Hyderabad,Telangana,Electronics,37955.86,3,5,2023,12,21,Thursday,11386.76,Potential Customers,Potential Customers
+10010,5122,2023-09-10,Mobile,4,56137.24,Debit Card,Hyderabad,Telangana,Electronics,224548.96,2,1,2023,9,10,Sunday,67364.69,Loyal Customers,Loyal Customers
+10011,5467,2023-06-29,Shirt,3,51085.61,Debit Card,Hyderabad,Telangana,Fashion,153256.83,3,2,2023,6,29,Thursday,45977.05,Potential Customers,Potential Customers
+10012,5215,2023-07-26,Camera,3,58919.77,COD,Mumbai,Maharashtra,Electronics,176759.31,5,3,2023,7,26,Wednesday,53027.79,Premium / Best Customers,Premium / Best Customers
+10013,5331,2023-10-30,Laptop,3,37791.2,Credit Card,Bangalore,Karnataka,Electronics,113373.6,2,5,2023,10,30,Monday,34012.08,Premium / Best Customers,Premium / Best Customers
+10014,5459,2023-05-07,Camera,3,15076.35,Credit Card,Kolkata,West Bengal,Electronics,45229.05,5,3,2023,5,7,Sunday,13568.72,Potential Customers,Potential Customers
+10015,5088,2023-02-25,Camera,3,10020.06,Debit Card,Hyderabad,Telangana,Electronics,30060.18,3,4,2023,2,25,Saturday,9018.05,At Risk / Low Value,At Risk / Low Value
+10016,5373,2023-08-02,Camera,2,11458.79,Credit Card,Kolkata,West Bengal,Electronics,22917.58,4,3,2023,8,2,Wednesday,6875.27,Premium / Best Customers,Premium / Best Customers
+10017,5100,2023-01-14,Jeans,3,1481.8,Debit Card,Bangalore,Karnataka,Fashion,4445.4,8,5,2023,1,14,Saturday,1333.62,Loyal Customers,Loyal Customers
+10018,5872,2023-01-28,Camera,1,23623.72,Net Banking,Pune,Maharashtra,Electronics,23623.72,3,2,2023,1,28,Saturday,7087.12,Premium / Best Customers,Premium / Best Customers
+10019,5664,2023-03-19,Shoes,1,11728.23,COD,Hyderabad,Telangana,Fashion,11728.23,3,2,2023,3,19,Sunday,3518.47,Premium / Best Customers,Premium / Best Customers
+10020,5131,2023-08-04,Mobile,2,24875.83,UPI,Kolkata,West Bengal,Electronics,49751.66,3,3,2023,8,4,Friday,14925.5,Premium / Best Customers,Premium / Best Customers
+10021,5662,2023-12-31,Shirt,4,56119.17,COD,Chennai,Tamil Nadu,Fashion,224476.68,6,1,2023,12,31,Sunday,67343.0,Premium / Best Customers,Premium / Best Customers
+10022,5309,2023-06-03,Shoes,1,26003.25,Debit Card,Kolkata,West Bengal,Fashion,26003.25,5,3,2023,6,3,Saturday,7800.98,At Risk / Low Value,At Risk / Low Value
+10023,5770,2023-01-14,Shirt,4,52715.67,Debit Card,Hyderabad,Telangana,Fashion,210862.68,9,4,2023,1,14,Saturday,63258.8,Potential Customers,Potential Customers
+10024,5344,2023-07-06,Headphones,2,36448.63,COD,Delhi,Delhi,Electronics,72897.26,5,2,2023,7,6,Thursday,21869.18,Potential Customers,Potential Customers
+10025,5492,2023-11-08,Shirt,4,15053.75,Debit Card,Mumbai,Maharashtra,Fashion,60215.0,7,2,2023,11,8,Wednesday,18064.5,Premium / Best Customers,Premium / Best Customers
+10026,5414,2023-01-07,Mobile,4,21544.53,Credit Card,Chennai,Tamil Nadu,Electronics,86178.12,5,2,2023,1,7,Saturday,25853.44,Potential Customers,Potential Customers
+10027,5806,2023-01-03,Mobile,4,5310.0,Credit Card,Chennai,Tamil Nadu,Electronics,21240.0,7,1,2023,1,3,Tuesday,6372.0,Loyal Customers,Loyal Customers
+10028,5386,2023-04-21,Camera,4,20207.72,Debit Card,Delhi,Delhi,Electronics,80830.88,6,1,2023,4,21,Friday,24249.26,Premium / Best Customers,Premium / Best Customers
+10029,5192,2023-08-26,Watch,2,40749.19,Debit Card,Hyderabad,Telangana,Accessories,81498.38,4,5,2023,8,26,Saturday,24449.51,Premium / Best Customers,Premium / Best Customers
+10030,5956,2023-12-29,Headphones,1,4605.03,Credit Card,Mumbai,Maharashtra,Electronics,4605.03,7,3,2023,12,29,Friday,1381.51,Loyal Customers,Loyal Customers
+10031,5277,2023-08-27,Laptop,3,12562.46,Debit Card,Chennai,Tamil Nadu,Electronics,37687.38,3,3,2023,8,27,Sunday,11306.21,Premium / Best Customers,Premium / Best Customers
+10032,5161,2023-10-01,Tablet,4,23072.03,Debit Card,Mumbai,Maharashtra,Electronics,92288.12,4,4,2023,10,1,Sunday,27686.44,Premium / Best Customers,Premium / Best Customers
+10033,5460,2023-10-21,Shirt,1,58928.36,COD,Chennai,Tamil Nadu,Fashion,58928.36,8,2,2023,10,21,Saturday,17678.51,Loyal Customers,Loyal Customers
+10034,5314,2023-08-15,Watch,1,47156.25,UPI,Hyderabad,Telangana,Accessories,47156.25,6,1,2023,8,15,Tuesday,14146.88,Loyal Customers,Loyal Customers
+10035,5022,2023-01-15,Camera,2,44089.16,Credit Card,Pune,Maharashtra,Electronics,88178.32,5,4,2023,1,15,Sunday,26453.5,Loyal Customers,Loyal Customers
+10036,5253,2023-07-11,Jeans,1,7236.6,COD,Chennai,Tamil Nadu,Fashion,7236.6,7,4,2023,7,11,Tuesday,2170.98,Premium / Best Customers,Premium / Best Customers
+10037,5748,2023-04-29,Laptop,2,46925.45,UPI,Pune,Maharashtra,Electronics,93850.9,9,1,2023,4,29,Saturday,28155.27,Potential Customers,Potential Customers
+10038,5857,2023-01-28,Backpack,4,47180.55,Debit Card,Chennai,Tamil Nadu,Accessories,188722.2,3,3,2023,1,28,Saturday,56616.66,Loyal Customers,Loyal Customers
+10039,5561,2023-07-21,Watch,4,36185.83,Debit Card,Bangalore,Karnataka,Accessories,144743.32,2,2,2023,7,21,Friday,43423.0,Potential Customers,Potential Customers
+10040,5475,2023-02-08,Jeans,3,59424.6,COD,Hyderabad,Telangana,Fashion,178273.8,8,3,2023,2,8,Wednesday,53482.14,Premium / Best Customers,Premium / Best Customers
+10041,5059,2023-09-30,Headphones,3,19717.66,Debit Card,Delhi,Delhi,Electronics,59152.98,2,4,2023,9,30,Saturday,17745.89,Potential Customers,Potential Customers
+10042,5511,2023-08-19,Camera,3,56493.97,Net Banking,Pune,Maharashtra,Electronics,169481.91,4,2,2023,8,19,Saturday,50844.57,Premium / Best Customers,Premium / Best Customers
+10043,5682,2023-03-27,Laptop,1,54909.45,COD,Delhi,Delhi,Electronics,54909.45,5,5,2023,3,27,Monday,16472.84,Premium / Best Customers,Premium / Best Customers
+10044,5476,2023-05-06,Laptop,4,985.4,UPI,Hyderabad,Telangana,Electronics,3941.6,9,4,2023,5,6,Saturday,1182.48,Loyal Customers,Loyal Customers
+10045,5700,2023-10-27,Laptop,2,27171.96,COD,Kolkata,West Bengal,Electronics,54343.92,2,3,2023,10,27,Friday,16303.18,Loyal Customers,Loyal Customers
+10046,5976,2023-01-25,Headphones,3,58633.12,Credit Card,Delhi,Delhi,Electronics,175899.36,4,3,2023,1,25,Wednesday,52769.81,Potential Customers,Potential Customers
+10047,5783,2023-05-25,Shirt,2,6456.35,COD,Hyderabad,Telangana,Fashion,12912.7,6,3,2023,5,25,Thursday,3873.81,Loyal Customers,Loyal Customers
+10048,5190,2023-01-13,Backpack,2,33002.75,Debit Card,Delhi,Delhi,Accessories,66005.5,4,1,2023,1,13,Friday,19801.65,Premium / Best Customers,Premium / Best Customers
+10049,5958,2023-07-31,Headphones,3,58743.76,Debit Card,Pune,Maharashtra,Electronics,176231.28,8,4,2023,7,31,Monday,52869.38,Premium / Best Customers,Premium / Best Customers
+10050,5687,2023-01-25,Tablet,4,33463.08,Net Banking,Bangalore,Karnataka,Electronics,133852.32,9,2,2023,1,25,Wednesday,40155.7,Potential Customers,Potential Customers
+10051,5958,2023-03-09,Backpack,3,11631.97,Net Banking,Delhi,Delhi,Accessories,34895.91,9,3,2023,3,9,Thursday,10468.77,Premium / Best Customers,Premium / Best Customers
+10052,5563,2023-03-08,Mobile,2,35056.34,Net Banking,Pune,Maharashtra,Electronics,70112.68,4,3,2023,3,8,Wednesday,21033.8,Loyal Customers,Loyal Customers
+10053,5876,2023-08-21,Camera,3,12505.1,UPI,Chennai,Tamil Nadu,Electronics,37515.3,8,1,2023,8,21,Monday,11254.59,Loyal Customers,Loyal Customers
+10054,5567,2023-04-19,Headphones,2,31326.34,Net Banking,Hyderabad,Telangana,Electronics,62652.68,4,2,2023,4,19,Wednesday,18795.8,At Risk / Low Value,At Risk / Low Value
+10055,5244,2023-05-26,Jeans,2,4720.32,UPI,Mumbai,Maharashtra,Fashion,9440.64,9,4,2023,5,26,Friday,2832.19,At Risk / Low Value,At Risk / Low Value
+10056,5832,2023-04-21,Backpack,3,36447.32,Net Banking,Kolkata,West Bengal,Accessories,109341.96,9,5,2023,4,21,Friday,32802.59,Potential Customers,Potential Customers
+10057,5505,2023-08-16,Tablet,1,31152.36,UPI,Mumbai,Maharashtra,Electronics,31152.36,3,1,2023,8,16,Wednesday,9345.71,Loyal Customers,Loyal Customers
+10058,5131,2023-04-21,Mobile,3,44487.63,COD,Hyderabad,Telangana,Electronics,133462.89,4,4,2023,4,21,Friday,40038.87,Premium / Best Customers,Premium / Best Customers
+10059,5485,2023-02-03,Shirt,1,37952.82,COD,Bangalore,Karnataka,Fashion,37952.82,7,5,2023,2,3,Friday,11385.85,Potential Customers,Potential Customers
+10060,5819,2023-04-21,Jeans,2,33111.49,Debit Card,Delhi,Delhi,Fashion,66222.98,4,3,2023,4,21,Friday,19866.89,Loyal Customers,Loyal Customers
+10061,5647,2023-09-21,Backpack,2,41479.8,UPI,Bangalore,Karnataka,Accessories,82959.6,9,3,2023,9,21,Thursday,24887.88,Potential Customers,Potential Customers
+10062,5021,2023-08-24,Camera,1,8893.33,Credit Card,Mumbai,Maharashtra,Electronics,8893.33,3,2,2023,8,24,Thursday,2668.0,Potential Customers,Potential Customers
+10063,5841,2023-03-24,Jeans,2,35842.97,Debit Card,Kolkata,West Bengal,Fashion,71685.94,3,5,2023,3,24,Friday,21505.78,Potential Customers,Potential Customers
+10064,5167,2023-02-11,Mobile,1,10575.0,COD,Pune,Maharashtra,Electronics,10575.0,6,3,2023,2,11,Saturday,3172.5,Potential Customers,Potential Customers
+10065,5274,2023-04-11,Jeans,1,55553.68,UPI,Kolkata,West Bengal,Fashion,55553.68,8,3,2023,4,11,Tuesday,16666.1,At Risk / Low Value,At Risk / Low Value
+10066,5388,2023-01-06,Shoes,2,4379.55,Net Banking,Hyderabad,Telangana,Fashion,8759.1,5,2,2023,1,6,Friday,2627.73,Loyal Customers,Loyal Customers
+10067,5601,2023-06-29,Watch,4,25993.37,Credit Card,Hyderabad,Telangana,Accessories,103973.48,2,4,2023,6,29,Thursday,31192.04,Loyal Customers,Loyal Customers
+10068,5316,2023-10-09,Shirt,1,41839.11,COD,Bangalore,Karnataka,Fashion,41839.11,2,3,2023,10,9,Monday,12551.73,Loyal Customers,Loyal Customers
+10069,5014,2023-11-16,Mobile,3,27643.93,Debit Card,Pune,Maharashtra,Electronics,82931.79,4,1,2023,11,16,Thursday,24879.54,Loyal Customers,Loyal Customers
+10070,5242,2023-08-14,Jeans,3,5798.09,UPI,Bangalore,Karnataka,Fashion,17394.27,6,1,2023,8,14,Monday,5218.28,Loyal Customers,Loyal Customers
+10071,5777,2023-11-11,Watch,2,33336.73,Credit Card,Delhi,Delhi,Accessories,66673.46,4,4,2023,11,11,Saturday,20002.04,Potential Customers,Potential Customers
+10072,5346,2023-12-31,Watch,4,38605.42,UPI,Chennai,Tamil Nadu,Accessories,154421.68,2,5,2023,12,31,Sunday,46326.5,Premium / Best Customers,Premium / Best Customers
+10073,5565,2023-08-17,Jeans,2,42316.4,Net Banking,Pune,Maharashtra,Fashion,84632.8,8,2,2023,8,17,Thursday,25389.84,Premium / Best Customers,Premium / Best Customers
+10074,5898,2023-10-16,Camera,4,22583.61,Debit Card,Chennai,Tamil Nadu,Electronics,90334.44,9,1,2023,10,16,Monday,27100.33,Premium / Best Customers,Premium / Best Customers
+10075,5340,2023-05-30,Shoes,1,33950.5,UPI,Kolkata,West Bengal,Fashion,33950.5,8,1,2023,5,30,Tuesday,10185.15,Loyal Customers,Loyal Customers
+10076,5092,2023-10-04,Headphones,1,27205.98,COD,Delhi,Delhi,Electronics,27205.98,8,4,2023,10,4,Wednesday,8161.79,Loyal Customers,Loyal Customers
+10077,5367,2023-07-17,Shoes,1,40421.75,Debit Card,Chennai,Tamil Nadu,Fashion,40421.75,3,5,2023,7,17,Monday,12126.52,Loyal Customers,Loyal Customers
+10078,5956,2023-03-11,Jeans,1,35138.35,COD,Mumbai,Maharashtra,Fashion,35138.35,9,5,2023,3,11,Saturday,10541.5,Loyal Customers,Loyal Customers
+10079,5455,2023-04-22,Shirt,3,31687.65,UPI,Kolkata,West Bengal,Fashion,95062.95,5,4,2023,4,22,Saturday,28518.88,Loyal Customers,Loyal Customers
+10080,5428,2023-01-04,Headphones,3,15196.6,Debit Card,Chennai,Tamil Nadu,Electronics,45589.8,9,1,2023,1,4,Wednesday,13676.94,At Risk / Low Value,At Risk / Low Value
+10081,5509,2023-12-16,Mobile,2,420.51,COD,Delhi,Delhi,Electronics,841.02,6,2,2023,12,16,Saturday,252.31,Potential Customers,Potential Customers
+10082,5776,2023-11-27,Shoes,4,10692.68,Net Banking,Chennai,Tamil Nadu,Fashion,42770.72,3,1,2023,11,27,Monday,12831.22,Premium / Best Customers,Premium / Best Customers
+10083,5943,2023-11-14,Jeans,1,7288.84,Net Banking,Hyderabad,Telangana,Fashion,7288.84,5,5,2023,11,14,Tuesday,2186.65,Premium / Best Customers,Premium / Best Customers
+10084,5035,2023-12-16,Shoes,1,27110.36,UPI,Bangalore,Karnataka,Fashion,27110.36,6,1,2023,12,16,Saturday,8133.11,Loyal Customers,Loyal Customers
+10085,5206,2023-04-05,Headphones,4,36851.81,Debit Card,Mumbai,Maharashtra,Electronics,147407.24,6,2,2023,4,5,Wednesday,44222.17,Potential Customers,Potential Customers
+10086,5081,2023-06-01,Tablet,4,13021.18,Credit Card,Hyderabad,Telangana,Electronics,52084.72,2,3,2023,6,1,Thursday,15625.42,Premium / Best Customers,Premium / Best Customers
+10087,5932,2023-11-07,Backpack,2,56361.71,Debit Card,Hyderabad,Telangana,Accessories,112723.42,3,1,2023,11,7,Tuesday,33817.03,Premium / Best Customers,Premium / Best Customers
+10088,5562,2023-05-17,Shoes,4,698.92,Net Banking,Delhi,Delhi,Fashion,2795.68,6,4,2023,5,17,Wednesday,838.7,At Risk / Low Value,At Risk / Low Value
+10089,5872,2023-09-04,Mobile,1,46406.37,COD,Bangalore,Karnataka,Electronics,46406.37,7,3,2023,9,4,Monday,13921.91,Premium / Best Customers,Premium / Best Customers
+10090,5388,2023-08-31,Mobile,1,37624.72,Credit Card,Bangalore,Karnataka,Electronics,37624.72,8,4,2023,8,31,Thursday,11287.42,Loyal Customers,Loyal Customers
+10091,5002,2023-01-31,Laptop,1,22601.22,UPI,Pune,Maharashtra,Electronics,22601.22,6,4,2023,1,31,Tuesday,6780.37,Premium / Best Customers,Premium / Best Customers
+10092,5390,2023-02-09,Shoes,1,3314.19,Credit Card,Kolkata,West Bengal,Fashion,3314.19,5,4,2023,2,9,Thursday,994.26,Loyal Customers,Loyal Customers
+10093,5566,2023-08-17,Backpack,1,37760.95,UPI,Mumbai,Maharashtra,Accessories,37760.95,2,1,2023,8,17,Thursday,11328.28,Premium / Best Customers,Premium / Best Customers
+10094,5106,2023-02-05,Camera,2,23321.13,Credit Card,Kolkata,West Bengal,Electronics,46642.26,4,5,2023,2,5,Sunday,13992.68,Premium / Best Customers,Premium / Best Customers
+10095,5772,2023-08-11,Watch,1,56195.15,UPI,Delhi,Delhi,Accessories,56195.15,8,3,2023,8,11,Friday,16858.54,Premium / Best Customers,Premium / Best Customers
+10096,5822,2023-01-06,Backpack,2,32656.81,UPI,Mumbai,Maharashtra,Accessories,65313.62,2,2,2023,1,6,Friday,19594.09,Premium / Best Customers,Premium / Best Customers
+10097,5477,2023-11-18,Watch,1,56397.2,Credit Card,Pune,Maharashtra,Accessories,56397.2,4,5,2023,11,18,Saturday,16919.16,Premium / Best Customers,Premium / Best Customers
+10098,5703,2023-08-08,Watch,3,13462.88,Credit Card,Chennai,Tamil Nadu,Accessories,40388.64,3,1,2023,8,8,Tuesday,12116.59,Potential Customers,Potential Customers
+10099,5402,2023-03-16,Tablet,3,43625.84,UPI,Hyderabad,Telangana,Electronics,130877.52,3,4,2023,3,16,Thursday,39263.26,Loyal Customers,Loyal Customers
+10100,5730,2023-01-04,Laptop,3,37149.77,Net Banking,Mumbai,Maharashtra,Electronics,111449.31,6,2,2023,1,4,Wednesday,33434.79,Loyal Customers,Loyal Customers
+10101,5556,2023-12-01,Backpack,3,44442.67,Credit Card,Kolkata,West Bengal,Accessories,133328.01,7,3,2023,12,1,Friday,39998.4,Premium / Best Customers,Premium / Best Customers
+10102,5162,2023-05-14,Backpack,2,13115.67,Debit Card,Hyderabad,Telangana,Accessories,26231.34,3,5,2023,5,14,Sunday,7869.4,At Risk / Low Value,At Risk / Low Value
+10103,5202,2023-04-28,Tablet,2,40000.17,COD,Delhi,Delhi,Electronics,80000.34,9,5,2023,4,28,Friday,24000.1,At Risk / Low Value,At Risk / Low Value
+10104,5958,2023-04-04,Shoes,4,30033.01,UPI,Kolkata,West Bengal,Fashion,120132.04,6,2,2023,4,4,Tuesday,36039.61,Premium / Best Customers,Premium / Best Customers
+10105,5996,2023-03-03,Shoes,1,44646.65,UPI,Chennai,Tamil Nadu,Fashion,44646.65,8,1,2023,3,3,Friday,13394.0,Loyal Customers,Loyal Customers
+10106,5270,2023-07-13,Shoes,3,19824.57,COD,Delhi,Delhi,Fashion,59473.71,2,3,2023,7,13,Thursday,17842.11,At Risk / Low Value,At Risk / Low Value
+10107,5863,2023-12-01,Shirt,2,53436.4,Net Banking,Chennai,Tamil Nadu,Fashion,106872.8,3,2,2023,12,1,Friday,32061.84,Premium / Best Customers,Premium / Best Customers
+10108,5816,2023-07-22,Watch,1,5332.79,COD,Chennai,Tamil Nadu,Accessories,5332.79,9,4,2023,7,22,Saturday,1599.84,Premium / Best Customers,Premium / Best Customers
+10109,5271,2023-01-26,Shirt,1,48489.2,Credit Card,Hyderabad,Telangana,Fashion,48489.2,2,3,2023,1,26,Thursday,14546.76,Potential Customers,Potential Customers
+10110,5456,2023-06-22,Laptop,2,51720.78,COD,Delhi,Delhi,Electronics,103441.56,2,5,2023,6,22,Thursday,31032.47,Premium / Best Customers,Premium / Best Customers
+10111,5462,2023-10-27,Tablet,3,49089.96,UPI,Delhi,Delhi,Electronics,147269.88,7,2,2023,10,27,Friday,44180.96,Premium / Best Customers,Premium / Best Customers
+10112,5727,2023-05-13,Backpack,4,30909.77,COD,Mumbai,Maharashtra,Accessories,123639.08,3,5,2023,5,13,Saturday,37091.72,Loyal Customers,Loyal Customers
+10113,5252,2023-11-22,Watch,1,26471.58,Debit Card,Kolkata,West Bengal,Accessories,26471.58,2,5,2023,11,22,Wednesday,7941.47,Loyal Customers,Loyal Customers
+10114,5702,2023-04-28,Shirt,4,59776.86,Credit Card,Delhi,Delhi,Fashion,239107.44,7,5,2023,4,28,Friday,71732.23,Loyal Customers,Loyal Customers
+10115,5296,2023-11-20,Shirt,3,13981.57,COD,Mumbai,Maharashtra,Fashion,41944.71,7,1,2023,11,20,Monday,12583.41,Potential Customers,Potential Customers
+10116,5725,2023-10-02,Jeans,3,32948.5,UPI,Bangalore,Karnataka,Fashion,98845.5,3,5,2023,10,2,Monday,29653.65,Loyal Customers,Loyal Customers
+10117,5720,2023-07-31,Shirt,4,40339.33,Credit Card,Bangalore,Karnataka,Fashion,161357.32,7,4,2023,7,31,Monday,48407.2,Premium / Best Customers,Premium / Best Customers
+10118,5749,2023-08-13,Camera,3,42141.8,UPI,Bangalore,Karnataka,Electronics,126425.4,3,4,2023,8,13,Sunday,37927.62,Loyal Customers,Loyal Customers
+10119,5338,2023-01-20,Backpack,1,12480.27,Net Banking,Pune,Maharashtra,Accessories,12480.27,9,3,2023,1,20,Friday,3744.08,Premium / Best Customers,Premium / Best Customers
+10120,5879,2023-04-23,Camera,4,39343.45,Debit Card,Delhi,Delhi,Electronics,157373.8,3,5,2023,4,23,Sunday,47212.14,Loyal Customers,Loyal Customers
+10121,5053,2023-05-20,Backpack,3,49156.66,Net Banking,Pune,Maharashtra,Accessories,147469.98,4,5,2023,5,20,Saturday,44240.99,Premium / Best Customers,Premium / Best Customers
+10122,5792,2023-02-16,Tablet,4,3286.11,Debit Card,Kolkata,West Bengal,Electronics,13144.44,2,2,2023,2,16,Thursday,3943.33,Loyal Customers,Loyal Customers
+10123,5922,2023-01-01,Backpack,1,54717.82,COD,Delhi,Delhi,Accessories,54717.82,9,1,2023,1,1,Sunday,16415.35,Loyal Customers,Loyal Customers
+10124,5217,2023-03-31,Camera,3,2061.39,Credit Card,Mumbai,Maharashtra,Electronics,6184.17,5,3,2023,3,31,Friday,1855.25,Loyal Customers,Loyal Customers
+10125,5764,2023-05-22,Backpack,1,21551.47,COD,Pune,Maharashtra,Accessories,21551.47,3,5,2023,5,22,Monday,6465.44,Premium / Best Customers,Premium / Best Customers
+10126,5188,2023-11-16,Tablet,3,1244.05,Debit Card,Pune,Maharashtra,Electronics,3732.15,2,2,2023,11,16,Thursday,1119.64,Potential Customers,Potential Customers
+10127,5380,2023-02-07,Tablet,2,4905.57,Debit Card,Kolkata,West Bengal,Electronics,9811.14,8,1,2023,2,7,Tuesday,2943.34,Potential Customers,Potential Customers
+10128,5493,2023-10-20,Laptop,3,54696.75,Debit Card,Pune,Maharashtra,Electronics,164090.25,7,3,2023,10,20,Friday,49227.08,Premium / Best Customers,Premium / Best Customers
+10129,5041,2023-05-19,Backpack,4,21485.19,UPI,Chennai,Tamil Nadu,Accessories,85940.76,6,3,2023,5,19,Friday,25782.23,Premium / Best Customers,Premium / Best Customers
+10130,5157,2023-12-22,Jeans,3,25658.86,Credit Card,Mumbai,Maharashtra,Fashion,76976.58,3,5,2023,12,22,Friday,23092.97,Potential Customers,Potential Customers
+10131,5015,2023-11-29,Shoes,1,13156.06,COD,Bangalore,Karnataka,Fashion,13156.06,7,3,2023,11,29,Wednesday,3946.82,Premium / Best Customers,Premium / Best Customers
+10132,5813,2023-09-16,Mobile,1,35946.62,COD,Mumbai,Maharashtra,Electronics,35946.62,7,2,2023,9,16,Saturday,10783.99,Premium / Best Customers,Premium / Best Customers
+10133,5065,2023-06-10,Tablet,3,35809.75,Net Banking,Chennai,Tamil Nadu,Electronics,107429.25,7,3,2023,6,10,Saturday,32228.78,Loyal Customers,Loyal Customers
+10134,5857,2023-06-27,Headphones,4,22520.36,Debit Card,Kolkata,West Bengal,Electronics,90081.44,7,4,2023,6,27,Tuesday,27024.43,Loyal Customers,Loyal Customers
+10135,5839,2023-01-10,Shoes,2,20182.18,Debit Card,Kolkata,West Bengal,Fashion,40364.36,7,2,2023,1,10,Tuesday,12109.31,Loyal Customers,Loyal Customers
+10136,5521,2023-09-18,Watch,4,53132.37,Debit Card,Delhi,Delhi,Accessories,212529.48,3,1,2023,9,18,Monday,63758.84,Loyal Customers,Loyal Customers
+10137,5344,2023-05-18,Backpack,2,23182.07,COD,Mumbai,Maharashtra,Accessories,46364.14,8,1,2023,5,18,Thursday,13909.24,Potential Customers,Potential Customers
+10138,5129,2023-06-21,Camera,1,29762.01,Net Banking,Kolkata,West Bengal,Electronics,29762.01,5,5,2023,6,21,Wednesday,8928.6,At Risk / Low Value,At Risk / Low Value
+10139,5648,2023-01-13,Mobile,4,17213.29,UPI,Pune,Maharashtra,Electronics,68853.16,4,5,2023,1,13,Friday,20655.95,Loyal Customers,Loyal Customers
+10140,5472,2023-06-17,Headphones,2,47270.14,Credit Card,Kolkata,West Bengal,Electronics,94540.28,7,4,2023,6,17,Saturday,28362.08,Premium / Best Customers,Premium / Best Customers
+10141,5063,2023-05-10,Shoes,3,24027.65,UPI,Kolkata,West Bengal,Fashion,72082.95,7,1,2023,5,10,Wednesday,21624.88,Loyal Customers,Loyal Customers
+10142,5139,2023-03-25,Backpack,1,30962.58,COD,Kolkata,West Bengal,Accessories,30962.58,4,1,2023,3,25,Saturday,9288.77,At Risk / Low Value,At Risk / Low Value
+10143,5499,2023-11-17,Laptop,3,15425.42,Debit Card,Kolkata,West Bengal,Electronics,46276.26,8,1,2023,11,17,Friday,13882.88,Premium / Best Customers,Premium / Best Customers
+10144,5593,2023-11-15,Watch,1,59263.28,Credit Card,Bangalore,Karnataka,Accessories,59263.28,9,1,2023,11,15,Wednesday,17778.98,Potential Customers,Potential Customers
+10145,5392,2023-04-11,Mobile,4,17702.3,COD,Bangalore,Karnataka,Electronics,70809.2,8,3,2023,4,11,Tuesday,21242.76,Loyal Customers,Loyal Customers
+10146,5675,2023-11-25,Jeans,4,46313.33,COD,Delhi,Delhi,Fashion,185253.32,9,2,2023,11,25,Saturday,55576.0,Premium / Best Customers,Premium / Best Customers
+10147,5419,2023-09-30,Laptop,1,25821.49,COD,Kolkata,West Bengal,Electronics,25821.49,3,2,2023,9,30,Saturday,7746.45,Potential Customers,Potential Customers
+10148,5289,2023-09-22,Headphones,1,12611.18,Credit Card,Mumbai,Maharashtra,Electronics,12611.18,2,4,2023,9,22,Friday,3783.35,Potential Customers,Potential Customers
+10149,5379,2023-02-07,Mobile,1,48043.21,Credit Card,Chennai,Tamil Nadu,Electronics,48043.21,6,3,2023,2,7,Tuesday,14412.96,At Risk / Low Value,At Risk / Low Value
+10150,5773,2023-04-04,Laptop,4,20216.33,Net Banking,Delhi,Delhi,Electronics,80865.32,6,1,2023,4,4,Tuesday,24259.6,At Risk / Low Value,At Risk / Low Value
+10151,5490,2023-04-05,Watch,2,51952.04,Net Banking,Mumbai,Maharashtra,Accessories,103904.08,2,1,2023,4,5,Wednesday,31171.22,Loyal Customers,Loyal Customers
+10152,5231,2023-11-01,Jeans,3,54940.85,UPI,Kolkata,West Bengal,Fashion,164822.55,3,5,2023,11,1,Wednesday,49446.76,Premium / Best Customers,Premium / Best Customers
+10153,5041,2023-03-10,Laptop,3,51631.48,Credit Card,Hyderabad,Telangana,Electronics,154894.44,6,5,2023,3,10,Friday,46468.33,Premium / Best Customers,Premium / Best Customers
+10154,5028,2023-11-14,Shirt,4,2389.97,Credit Card,Kolkata,West Bengal,Fashion,9559.88,8,4,2023,11,14,Tuesday,2867.96,Loyal Customers,Loyal Customers
+10155,5135,2023-08-24,Jeans,3,47306.19,Credit Card,Bangalore,Karnataka,Fashion,141918.57,4,1,2023,8,24,Thursday,42575.57,Loyal Customers,Loyal Customers
+10156,5201,2023-11-30,Headphones,1,24856.97,Net Banking,Chennai,Tamil Nadu,Electronics,24856.97,2,4,2023,11,30,Thursday,7457.09,Premium / Best Customers,Premium / Best Customers
+10157,5840,2023-05-17,Watch,2,52461.26,COD,Pune,Maharashtra,Accessories,104922.52,8,3,2023,5,17,Wednesday,31476.76,Potential Customers,Potential Customers
+10158,5780,2023-03-17,Backpack,3,38385.87,Debit Card,Chennai,Tamil Nadu,Accessories,115157.61,5,2,2023,3,17,Friday,34547.28,Premium / Best Customers,Premium / Best Customers
+10159,5930,2023-02-04,Camera,2,50068.5,Net Banking,Pune,Maharashtra,Electronics,100137.0,3,1,2023,2,4,Saturday,30041.1,Potential Customers,Potential Customers
+10160,5033,2023-01-01,Camera,1,30116.08,Credit Card,Chennai,Tamil Nadu,Electronics,30116.08,2,3,2023,1,1,Sunday,9034.82,Loyal Customers,Loyal Customers
+10161,5048,2023-10-23,Camera,3,32241.02,Net Banking,Bangalore,Karnataka,Electronics,96723.06,6,1,2023,10,23,Monday,29016.92,Potential Customers,Potential Customers
+10162,5503,2023-11-16,Mobile,4,8919.94,UPI,Pune,Maharashtra,Electronics,35679.76,3,5,2023,11,16,Thursday,10703.93,Premium / Best Customers,Premium / Best Customers
+10163,5407,2023-03-01,Headphones,2,47104.05,Credit Card,Mumbai,Maharashtra,Electronics,94208.1,4,4,2023,3,1,Wednesday,28262.43,Loyal Customers,Loyal Customers
+10164,5574,2023-11-16,Watch,1,25337.56,UPI,Pune,Maharashtra,Accessories,25337.56,3,5,2023,11,16,Thursday,7601.27,Premium / Best Customers,Premium / Best Customers
+10165,5728,2023-12-15,Jeans,2,30154.78,Credit Card,Delhi,Delhi,Fashion,60309.56,3,2,2023,12,15,Friday,18092.87,Loyal Customers,Loyal Customers
+10166,5805,2023-11-24,Mobile,3,47170.33,Net Banking,Mumbai,Maharashtra,Electronics,141510.99,4,5,2023,11,24,Friday,42453.3,Premium / Best Customers,Premium / Best Customers
+10167,5099,2023-09-24,Headphones,3,36051.07,COD,Delhi,Delhi,Electronics,108153.21,7,1,2023,9,24,Sunday,32445.96,Premium / Best Customers,Premium / Best Customers
+10168,5684,2023-12-27,Backpack,4,12305.59,Debit Card,Kolkata,West Bengal,Accessories,49222.36,4,5,2023,12,27,Wednesday,14766.71,Premium / Best Customers,Premium / Best Customers
+10169,5872,2023-08-17,Shirt,1,35536.89,UPI,Chennai,Tamil Nadu,Fashion,35536.89,8,1,2023,8,17,Thursday,10661.07,Premium / Best Customers,Premium / Best Customers
+10170,5726,2023-09-27,Watch,1,24635.68,Net Banking,Mumbai,Maharashtra,Accessories,24635.68,3,2,2023,9,27,Wednesday,7390.7,Potential Customers,Potential Customers
+10171,5987,2023-11-12,Camera,4,28330.67,COD,Chennai,Tamil Nadu,Electronics,113322.68,9,5,2023,11,12,Sunday,33996.8,Loyal Customers,Loyal Customers
+10172,5547,2023-10-13,Laptop,4,1990.18,Net Banking,Kolkata,West Bengal,Electronics,7960.72,4,4,2023,10,13,Friday,2388.22,Premium / Best Customers,Premium / Best Customers
+10173,5961,2023-10-18,Watch,1,12838.75,UPI,Hyderabad,Telangana,Accessories,12838.75,7,4,2023,10,18,Wednesday,3851.62,Loyal Customers,Loyal Customers
+10174,5739,2023-08-01,Tablet,2,17077.97,Debit Card,Chennai,Tamil Nadu,Electronics,34155.94,8,4,2023,8,1,Tuesday,10246.78,Loyal Customers,Loyal Customers
+10175,5613,2023-06-14,Headphones,2,42863.71,Net Banking,Kolkata,West Bengal,Electronics,85727.42,9,5,2023,6,14,Wednesday,25718.23,Premium / Best Customers,Premium / Best Customers
+10176,5943,2023-01-05,Shoes,4,986.1,Credit Card,Chennai,Tamil Nadu,Fashion,3944.4,9,5,2023,1,5,Thursday,1183.32,Premium / Best Customers,Premium / Best Customers
+10177,5462,2023-12-05,Backpack,2,24704.0,COD,Kolkata,West Bengal,Accessories,49408.0,2,5,2023,12,5,Tuesday,14822.4,Premium / Best Customers,Premium / Best Customers
+10178,5643,2023-03-19,Shirt,1,55464.4,Net Banking,Delhi,Delhi,Fashion,55464.4,4,1,2023,3,19,Sunday,16639.32,At Risk / Low Value,At Risk / Low Value
+10179,5769,2023-03-03,Backpack,3,6979.27,COD,Kolkata,West Bengal,Accessories,20937.81,4,2,2023,3,3,Friday,6281.34,Potential Customers,Potential Customers
+10180,5005,2023-05-12,Watch,3,31130.54,Credit Card,Pune,Maharashtra,Accessories,93391.62,3,4,2023,5,12,Friday,28017.49,Premium / Best Customers,Premium / Best Customers
+10181,5218,2023-03-30,Shoes,2,47255.39,Debit Card,Hyderabad,Telangana,Fashion,94510.78,8,1,2023,3,30,Thursday,28353.23,Loyal Customers,Loyal Customers
+10182,5503,2023-08-25,Tablet,4,56569.12,Debit Card,Chennai,Tamil Nadu,Electronics,226276.48,2,4,2023,8,25,Friday,67882.94,Premium / Best Customers,Premium / Best Customers
+10183,5767,2023-02-11,Jeans,4,44882.57,Credit Card,Kolkata,West Bengal,Fashion,179530.28,5,1,2023,2,11,Saturday,53859.08,Premium / Best Customers,Premium / Best Customers
+10184,5398,2023-03-30,Laptop,4,43317.76,COD,Kolkata,West Bengal,Electronics,173271.04,5,5,2023,3,30,Thursday,51981.31,Premium / Best Customers,Premium / Best Customers
+10185,5871,2023-10-23,Shoes,4,49641.34,Net Banking,Chennai,Tamil Nadu,Fashion,198565.36,6,4,2023,10,23,Monday,59569.61,Loyal Customers,Loyal Customers
+10186,5795,2023-11-24,Headphones,4,26938.21,Credit Card,Hyderabad,Telangana,Electronics,107752.84,4,5,2023,11,24,Friday,32325.85,Premium / Best Customers,Premium / Best Customers
+10187,5393,2023-10-22,Camera,2,48408.92,UPI,Hyderabad,Telangana,Electronics,96817.84,4,4,2023,10,22,Sunday,29045.35,Premium / Best Customers,Premium / Best Customers
+10188,5207,2023-04-14,Tablet,3,775.47,COD,Kolkata,West Bengal,Electronics,2326.41,2,3,2023,4,14,Friday,697.92,Potential Customers,Potential Customers
+10189,5015,2023-01-14,Laptop,3,55496.3,Debit Card,Mumbai,Maharashtra,Electronics,166488.9,7,1,2023,1,14,Saturday,49946.67,Premium / Best Customers,Premium / Best Customers
+10190,5858,2023-10-15,Shirt,2,26765.4,Credit Card,Delhi,Delhi,Fashion,53530.8,5,3,2023,10,15,Sunday,16059.24,Premium / Best Customers,Premium / Best Customers
+10191,5554,2023-06-28,Camera,4,33336.8,Debit Card,Hyderabad,Telangana,Electronics,133347.2,6,1,2023,6,28,Wednesday,40004.16,Potential Customers,Potential Customers
+10192,5892,2023-05-05,Watch,2,15516.47,COD,Hyderabad,Telangana,Accessories,31032.94,2,2,2023,5,5,Friday,9309.88,Loyal Customers,Loyal Customers
+10193,5461,2023-12-19,Shoes,3,44629.09,Debit Card,Bangalore,Karnataka,Fashion,133887.27,4,4,2023,12,19,Tuesday,40166.18,Premium / Best Customers,Premium / Best Customers
+10194,5691,2023-01-23,Laptop,1,4875.16,Credit Card,Pune,Maharashtra,Electronics,4875.16,5,2,2023,1,23,Monday,1462.55,Potential Customers,Potential Customers
+10195,5575,2023-03-04,Mobile,2,52396.36,COD,Hyderabad,Telangana,Electronics,104792.72,8,2,2023,3,4,Saturday,31437.82,Premium / Best Customers,Premium / Best Customers
+10196,5864,2023-05-23,Jeans,4,49738.57,UPI,Delhi,Delhi,Fashion,198954.28,6,1,2023,5,23,Tuesday,59686.28,Premium / Best Customers,Premium / Best Customers
+10197,5743,2023-06-02,Jeans,3,13198.79,Credit Card,Pune,Maharashtra,Fashion,39596.37,3,3,2023,6,2,Friday,11878.91,At Risk / Low Value,At Risk / Low Value
+10198,5241,2023-05-25,Tablet,3,48616.67,Net Banking,Pune,Maharashtra,Electronics,145850.01,5,5,2023,5,25,Thursday,43755.0,Potential Customers,Potential Customers
+10199,5564,2023-08-13,Shirt,3,47245.56,Credit Card,Chennai,Tamil Nadu,Fashion,141736.68,6,1,2023,8,13,Sunday,42521.0,Premium / Best Customers,Premium / Best Customers
+10200,5096,2023-11-05,Tablet,3,38043.33,COD,Chennai,Tamil Nadu,Electronics,114129.99,2,5,2023,11,5,Sunday,34239.0,Premium / Best Customers,Premium / Best Customers
+10201,5900,2023-04-14,Mobile,4,22599.15,Credit Card,Chennai,Tamil Nadu,Electronics,90396.6,3,2,2023,4,14,Friday,27118.98,Premium / Best Customers,Premium / Best Customers
+10202,5734,2023-04-14,Headphones,1,16508.48,UPI,Chennai,Tamil Nadu,Electronics,16508.48,6,5,2023,4,14,Friday,4952.54,Premium / Best Customers,Premium / Best Customers
+10203,5485,2023-02-08,Shirt,3,14137.48,UPI,Bangalore,Karnataka,Fashion,42412.44,6,3,2023,2,8,Wednesday,12723.73,Potential Customers,Potential Customers
+10204,5407,2023-07-17,Backpack,2,19320.96,Net Banking,Hyderabad,Telangana,Accessories,38641.92,9,1,2023,7,17,Monday,11592.58,Loyal Customers,Loyal Customers
+10205,5231,2023-05-14,Headphones,1,54242.44,Debit Card,Chennai,Tamil Nadu,Electronics,54242.44,9,3,2023,5,14,Sunday,16272.73,Premium / Best Customers,Premium / Best Customers
+10206,5749,2023-03-08,Shirt,3,4935.15,COD,Kolkata,West Bengal,Fashion,14805.45,9,3,2023,3,8,Wednesday,4441.64,Loyal Customers,Loyal Customers
+10207,5655,2023-06-28,Shirt,1,49783.62,COD,Mumbai,Maharashtra,Fashion,49783.62,4,1,2023,6,28,Wednesday,14935.09,Potential Customers,Potential Customers
+10208,5171,2023-02-11,Mobile,2,21128.74,Debit Card,Chennai,Tamil Nadu,Electronics,42257.48,7,3,2023,2,11,Saturday,12677.24,At Risk / Low Value,At Risk / Low Value
+10209,5541,2023-01-15,Watch,3,31439.48,UPI,Hyderabad,Telangana,Accessories,94318.44,5,4,2023,1,15,Sunday,28295.53,Potential Customers,Potential Customers
+10210,5036,2023-04-21,Mobile,2,47730.79,UPI,Chennai,Tamil Nadu,Electronics,95461.58,4,4,2023,4,21,Friday,28638.47,Potential Customers,Potential Customers
+10211,5525,2023-06-06,Shirt,4,53097.28,Credit Card,Bangalore,Karnataka,Fashion,212389.12,8,4,2023,6,6,Tuesday,63716.74,Premium / Best Customers,Premium / Best Customers
+10212,5160,2023-10-16,Laptop,3,20883.45,Net Banking,Delhi,Delhi,Electronics,62650.35,3,5,2023,10,16,Monday,18795.1,Premium / Best Customers,Premium / Best Customers
+10213,5839,2023-08-19,Headphones,3,27872.06,Net Banking,Delhi,Delhi,Electronics,83616.18,7,3,2023,8,19,Saturday,25084.85,Loyal Customers,Loyal Customers
+10214,5699,2023-06-06,Mobile,3,25046.61,Net Banking,Hyderabad,Telangana,Electronics,75139.83,6,1,2023,6,6,Tuesday,22541.95,Premium / Best Customers,Premium / Best Customers
+10215,5243,2023-02-07,Watch,3,1091.09,Credit Card,Kolkata,West Bengal,Accessories,3273.27,4,1,2023,2,7,Tuesday,981.98,At Risk / Low Value,At Risk / Low Value
+10216,5086,2023-04-07,Shoes,4,17967.79,Net Banking,Delhi,Delhi,Fashion,71871.16,9,5,2023,4,7,Friday,21561.35,Loyal Customers,Loyal Customers
+10217,5796,2023-10-16,Tablet,3,27713.6,Debit Card,Delhi,Delhi,Electronics,83140.8,7,1,2023,10,16,Monday,24942.24,Premium / Best Customers,Premium / Best Customers
+10218,5578,2023-09-11,Shirt,1,24842.29,Credit Card,Mumbai,Maharashtra,Fashion,24842.29,8,4,2023,9,11,Monday,7452.69,Loyal Customers,Loyal Customers
+10219,5682,2023-07-15,Backpack,3,43399.17,Debit Card,Hyderabad,Telangana,Accessories,130197.51,5,3,2023,7,15,Saturday,39059.25,Premium / Best Customers,Premium / Best Customers
+10220,5557,2023-03-27,Shoes,4,23272.78,Credit Card,Kolkata,West Bengal,Fashion,93091.12,8,1,2023,3,27,Monday,27927.34,Potential Customers,Potential Customers
+10221,5574,2023-11-18,Jeans,3,29515.77,Net Banking,Hyderabad,Telangana,Fashion,88547.31,3,1,2023,11,18,Saturday,26564.19,Premium / Best Customers,Premium / Best Customers
+10222,5953,2023-01-10,Camera,1,25947.63,Debit Card,Delhi,Delhi,Electronics,25947.63,2,2,2023,1,10,Tuesday,7784.29,Loyal Customers,Loyal Customers
+10223,5646,2023-01-05,Watch,4,44515.38,Debit Card,Delhi,Delhi,Accessories,178061.52,4,2,2023,1,5,Thursday,53418.46,Potential Customers,Potential Customers
+10224,5796,2023-05-03,Backpack,4,51819.45,Debit Card,Delhi,Delhi,Accessories,207277.8,9,2,2023,5,3,Wednesday,62183.34,Premium / Best Customers,Premium / Best Customers
+10225,5028,2023-11-26,Camera,1,32053.78,Credit Card,Pune,Maharashtra,Electronics,32053.78,3,3,2023,11,26,Sunday,9616.13,Loyal Customers,Loyal Customers
+10226,5620,2023-12-19,Watch,1,47429.1,COD,Bangalore,Karnataka,Accessories,47429.1,2,4,2023,12,19,Tuesday,14228.73,Loyal Customers,Loyal Customers
+10227,5556,2023-04-28,Laptop,1,18018.16,Net Banking,Chennai,Tamil Nadu,Electronics,18018.16,9,4,2023,4,28,Friday,5405.45,Premium / Best Customers,Premium / Best Customers
+10228,5340,2023-10-21,Tablet,1,32619.77,Debit Card,Bangalore,Karnataka,Electronics,32619.77,9,4,2023,10,21,Saturday,9785.93,Loyal Customers,Loyal Customers
+10229,5798,2023-06-08,Shoes,1,20910.23,COD,Hyderabad,Telangana,Fashion,20910.23,9,3,2023,6,8,Thursday,6273.07,Premium / Best Customers,Premium / Best Customers
+10230,5958,2023-10-30,Headphones,4,25027.8,Net Banking,Mumbai,Maharashtra,Electronics,100111.2,4,3,2023,10,30,Monday,30033.36,Premium / Best Customers,Premium / Best Customers
+10231,5331,2023-08-16,Watch,4,44025.11,Net Banking,Chennai,Tamil Nadu,Accessories,176100.44,3,2,2023,8,16,Wednesday,52830.13,Premium / Best Customers,Premium / Best Customers
+10232,5640,2023-12-31,Headphones,3,52935.25,Debit Card,Mumbai,Maharashtra,Electronics,158805.75,9,1,2023,12,31,Sunday,47641.72,Premium / Best Customers,Premium / Best Customers
+10233,5506,2023-08-04,Tablet,3,7553.27,Debit Card,Kolkata,West Bengal,Electronics,22659.81,8,5,2023,8,4,Friday,6797.94,Premium / Best Customers,Premium / Best Customers
+10234,5348,2023-07-03,Shirt,2,38187.96,Credit Card,Pune,Maharashtra,Fashion,76375.92,3,5,2023,7,3,Monday,22912.78,Premium / Best Customers,Premium / Best Customers
+10235,5473,2023-01-15,Jeans,3,35053.99,COD,Hyderabad,Telangana,Fashion,105161.97,7,1,2023,1,15,Sunday,31548.59,Premium / Best Customers,Premium / Best Customers
+10236,5231,2023-06-06,Shoes,3,7369.38,COD,Pune,Maharashtra,Fashion,22108.14,8,2,2023,6,6,Tuesday,6632.44,Premium / Best Customers,Premium / Best Customers
+10237,5190,2023-05-16,Tablet,1,12950.09,Debit Card,Hyderabad,Telangana,Electronics,12950.09,4,1,2023,5,16,Tuesday,3885.03,Premium / Best Customers,Premium / Best Customers
+10238,5225,2023-09-18,Tablet,1,18866.85,Net Banking,Mumbai,Maharashtra,Electronics,18866.85,9,1,2023,9,18,Monday,5660.05,Premium / Best Customers,Premium / Best Customers
+10239,5385,2023-06-06,Laptop,3,10265.78,Debit Card,Mumbai,Maharashtra,Electronics,30797.34,3,5,2023,6,6,Tuesday,9239.2,Premium / Best Customers,Premium / Best Customers
+10240,5377,2023-02-16,Camera,2,14850.65,Net Banking,Mumbai,Maharashtra,Electronics,29701.3,6,2,2023,2,16,Thursday,8910.39,At Risk / Low Value,At Risk / Low Value
+10241,5283,2023-11-20,Jeans,1,16275.77,Net Banking,Hyderabad,Telangana,Fashion,16275.77,4,3,2023,11,20,Monday,4882.73,Loyal Customers,Loyal Customers
+10242,5958,2023-11-28,Shoes,3,20339.73,Debit Card,Delhi,Delhi,Fashion,61019.19,3,5,2023,11,28,Tuesday,18305.76,Premium / Best Customers,Premium / Best Customers
+10243,5633,2023-06-22,Shirt,3,45038.61,UPI,Mumbai,Maharashtra,Fashion,135115.83,7,3,2023,6,22,Thursday,40534.75,Potential Customers,Potential Customers
+10244,5628,2023-05-10,Shirt,4,34443.16,COD,Pune,Maharashtra,Fashion,137772.64,9,2,2023,5,10,Wednesday,41331.79,Loyal Customers,Loyal Customers
+10245,5973,2023-04-05,Mobile,2,59178.93,Net Banking,Kolkata,West Bengal,Electronics,118357.86,2,1,2023,4,5,Wednesday,35507.36,Loyal Customers,Loyal Customers
+10246,5745,2023-04-25,Tablet,4,25059.73,Net Banking,Chennai,Tamil Nadu,Electronics,100238.92,9,4,2023,4,25,Tuesday,30071.68,Loyal Customers,Loyal Customers
+10247,5259,2023-08-31,Watch,2,45305.74,UPI,Hyderabad,Telangana,Accessories,90611.48,2,4,2023,8,31,Thursday,27183.44,Loyal Customers,Loyal Customers
+10248,5359,2023-10-19,Laptop,1,52326.66,Credit Card,Pune,Maharashtra,Electronics,52326.66,6,2,2023,10,19,Thursday,15698.0,Potential Customers,Potential Customers
+10249,5710,2023-10-09,Jeans,2,40835.02,UPI,Bangalore,Karnataka,Fashion,81670.04,4,4,2023,10,9,Monday,24501.01,Premium / Best Customers,Premium / Best Customers
+10250,5456,2023-10-26,Shirt,3,24888.33,UPI,Kolkata,West Bengal,Fashion,74664.99,7,3,2023,10,26,Thursday,22399.5,Premium / Best Customers,Premium / Best Customers
+10251,5411,2023-10-10,Shoes,3,45289.6,Net Banking,Bangalore,Karnataka,Fashion,135868.8,3,4,2023,10,10,Tuesday,40760.64,Loyal Customers,Loyal Customers
+10252,5649,2023-03-10,Mobile,2,12458.93,COD,Chennai,Tamil Nadu,Electronics,24917.86,3,2,2023,3,10,Friday,7475.36,At Risk / Low Value,At Risk / Low Value
+10253,5318,2023-05-28,Shoes,2,19854.86,UPI,Delhi,Delhi,Fashion,39709.72,2,2,2023,5,28,Sunday,11912.92,At Risk / Low Value,At Risk / Low Value
+10254,5677,2023-01-11,Laptop,2,32937.11,Credit Card,Mumbai,Maharashtra,Electronics,65874.22,7,3,2023,1,11,Wednesday,19762.27,Loyal Customers,Loyal Customers
+10255,5225,2023-09-11,Watch,4,34651.94,Debit Card,Hyderabad,Telangana,Accessories,138607.76,8,4,2023,9,11,Monday,41582.33,Premium / Best Customers,Premium / Best Customers
+10256,5819,2023-11-26,Mobile,2,1621.85,UPI,Pune,Maharashtra,Electronics,3243.7,6,4,2023,11,26,Sunday,973.11,Loyal Customers,Loyal Customers
+10257,5234,2023-12-26,Mobile,1,56723.32,UPI,Mumbai,Maharashtra,Electronics,56723.32,2,1,2023,12,26,Tuesday,17017.0,Potential Customers,Potential Customers
+10258,5684,2023-02-07,Camera,4,41888.65,Credit Card,Pune,Maharashtra,Electronics,167554.6,2,5,2023,2,7,Tuesday,50266.38,Premium / Best Customers,Premium / Best Customers
+10259,5664,2023-05-14,Jeans,4,29893.51,COD,Hyderabad,Telangana,Fashion,119574.04,6,2,2023,5,14,Sunday,35872.21,Premium / Best Customers,Premium / Best Customers
+10260,5975,2023-07-19,Mobile,2,56007.7,UPI,Bangalore,Karnataka,Electronics,112015.4,4,1,2023,7,19,Wednesday,33604.62,Potential Customers,Potential Customers
+10261,5827,2023-01-23,Camera,1,26514.01,UPI,Mumbai,Maharashtra,Electronics,26514.01,3,2,2023,1,23,Monday,7954.2,Potential Customers,Potential Customers
+10262,5374,2023-10-30,Camera,4,58832.0,COD,Chennai,Tamil Nadu,Electronics,235328.0,4,1,2023,10,30,Monday,70598.4,Premium / Best Customers,Premium / Best Customers
+10263,5672,2023-12-12,Laptop,3,30883.4,Credit Card,Delhi,Delhi,Electronics,92650.2,7,5,2023,12,12,Tuesday,27795.06,Premium / Best Customers,Premium / Best Customers
+10264,5608,2023-10-29,Headphones,4,7122.86,UPI,Chennai,Tamil Nadu,Electronics,28491.44,8,1,2023,10,29,Sunday,8547.43,Loyal Customers,Loyal Customers
+10265,5472,2023-12-29,Shoes,2,45958.62,COD,Delhi,Delhi,Fashion,91917.24,9,2,2023,12,29,Friday,27575.17,Premium / Best Customers,Premium / Best Customers
+10266,5233,2023-08-06,Watch,1,40830.19,UPI,Kolkata,West Bengal,Accessories,40830.19,5,4,2023,8,6,Sunday,12249.06,Premium / Best Customers,Premium / Best Customers
+10267,5692,2023-05-21,Backpack,2,46447.31,Debit Card,Pune,Maharashtra,Accessories,92894.62,5,2,2023,5,21,Sunday,27868.39,Loyal Customers,Loyal Customers
+10268,5113,2023-04-14,Shoes,3,57101.09,Net Banking,Mumbai,Maharashtra,Fashion,171303.27,5,3,2023,4,14,Friday,51390.98,Premium / Best Customers,Premium / Best Customers
+10269,5830,2023-07-29,Mobile,3,46656.41,Debit Card,Mumbai,Maharashtra,Electronics,139969.23,6,3,2023,7,29,Saturday,41990.77,Loyal Customers,Loyal Customers
+10270,5497,2023-04-21,Watch,3,36796.8,UPI,Kolkata,West Bengal,Accessories,110390.4,2,3,2023,4,21,Friday,33117.12,Premium / Best Customers,Premium / Best Customers
+10271,5442,2023-04-14,Shirt,2,51481.34,Credit Card,Delhi,Delhi,Fashion,102962.68,8,3,2023,4,14,Friday,30888.8,Loyal Customers,Loyal Customers
+10272,5564,2023-11-12,Headphones,4,40492.81,Net Banking,Bangalore,Karnataka,Electronics,161971.24,4,5,2023,11,12,Sunday,48591.37,Premium / Best Customers,Premium / Best Customers
+10273,5268,2023-06-20,Shirt,2,24664.71,Debit Card,Hyderabad,Telangana,Fashion,49329.42,9,4,2023,6,20,Tuesday,14798.83,Loyal Customers,Loyal Customers
+10274,5510,2023-12-22,Shirt,1,53171.5,COD,Chennai,Tamil Nadu,Fashion,53171.5,3,4,2023,12,22,Friday,15951.45,Premium / Best Customers,Premium / Best Customers
+10275,5807,2023-11-20,Jeans,4,13547.46,Credit Card,Kolkata,West Bengal,Fashion,54189.84,5,2,2023,11,20,Monday,16256.95,Loyal Customers,Loyal Customers
+10276,5386,2023-05-13,Shoes,3,42964.08,Debit Card,Pune,Maharashtra,Fashion,128892.24,4,1,2023,5,13,Saturday,38667.67,Premium / Best Customers,Premium / Best Customers
+10277,5387,2023-10-20,Backpack,2,52929.34,COD,Kolkata,West Bengal,Accessories,105858.68,5,2,2023,10,20,Friday,31757.6,Premium / Best Customers,Premium / Best Customers
+10278,5113,2023-11-24,Laptop,3,43959.6,UPI,Chennai,Tamil Nadu,Electronics,131878.8,8,2,2023,11,24,Friday,39563.64,Premium / Best Customers,Premium / Best Customers
+10279,5613,2023-05-07,Backpack,3,41927.34,COD,Chennai,Tamil Nadu,Accessories,125782.02,5,2,2023,5,7,Sunday,37734.61,Premium / Best Customers,Premium / Best Customers
+10280,5625,2023-04-16,Shirt,1,45232.51,Debit Card,Pune,Maharashtra,Fashion,45232.51,3,2,2023,4,16,Sunday,13569.75,Loyal Customers,Loyal Customers
+10281,5952,2023-04-02,Mobile,4,28063.8,Debit Card,Pune,Maharashtra,Electronics,112255.2,9,4,2023,4,2,Sunday,33676.56,Potential Customers,Potential Customers
+10282,5081,2023-10-14,Headphones,1,52487.99,UPI,Mumbai,Maharashtra,Electronics,52487.99,7,1,2023,10,14,Saturday,15746.4,Premium / Best Customers,Premium / Best Customers
+10283,5699,2023-02-20,Tablet,1,12445.16,COD,Chennai,Tamil Nadu,Electronics,12445.16,7,2,2023,2,20,Monday,3733.55,Premium / Best Customers,Premium / Best Customers
+10284,5113,2023-01-29,Backpack,1,7904.97,COD,Hyderabad,Telangana,Accessories,7904.97,8,4,2023,1,29,Sunday,2371.49,Premium / Best Customers,Premium / Best Customers
+10285,5002,2023-10-23,Shirt,3,17344.87,UPI,Hyderabad,Telangana,Fashion,52034.61,7,2,2023,10,23,Monday,15610.38,Premium / Best Customers,Premium / Best Customers
+10286,5642,2023-10-24,Headphones,1,32035.17,COD,Delhi,Delhi,Electronics,32035.17,6,3,2023,10,24,Tuesday,9610.55,Potential Customers,Potential Customers
+10287,5220,2023-08-02,Watch,1,30780.54,UPI,Kolkata,West Bengal,Accessories,30780.54,2,2,2023,8,2,Wednesday,9234.16,Premium / Best Customers,Premium / Best Customers
+10288,5566,2023-09-24,Shoes,4,49289.75,Credit Card,Pune,Maharashtra,Fashion,197159.0,6,2,2023,9,24,Sunday,59147.7,Premium / Best Customers,Premium / Best Customers
+10289,5855,2023-09-14,Camera,4,24452.75,Debit Card,Mumbai,Maharashtra,Electronics,97811.0,4,5,2023,9,14,Thursday,29343.3,Loyal Customers,Loyal Customers
+10290,5997,2023-10-29,Jeans,1,29215.36,Credit Card,Hyderabad,Telangana,Fashion,29215.36,6,3,2023,10,29,Sunday,8764.61,Premium / Best Customers,Premium / Best Customers
+10291,5736,2023-04-11,Headphones,4,1098.05,Net Banking,Bangalore,Karnataka,Electronics,4392.2,4,1,2023,4,11,Tuesday,1317.66,Premium / Best Customers,Premium / Best Customers
+10292,5225,2023-12-12,Mobile,4,24761.43,Net Banking,Mumbai,Maharashtra,Electronics,99045.72,4,2,2023,12,12,Tuesday,29713.72,Premium / Best Customers,Premium / Best Customers
+10293,5385,2023-04-20,Mobile,1,38972.12,Net Banking,Mumbai,Maharashtra,Electronics,38972.12,2,1,2023,4,20,Thursday,11691.64,Premium / Best Customers,Premium / Best Customers
+10294,5403,2023-07-01,Headphones,3,1225.85,UPI,Hyderabad,Telangana,Electronics,3677.55,3,3,2023,7,1,Saturday,1103.27,Premium / Best Customers,Premium / Best Customers
+10295,5638,2023-11-09,Mobile,1,17068.65,COD,Bangalore,Karnataka,Electronics,17068.65,9,2,2023,11,9,Thursday,5120.6,Premium / Best Customers,Premium / Best Customers
+10296,5130,2023-01-01,Shoes,4,12714.99,Credit Card,Delhi,Delhi,Fashion,50859.96,8,5,2023,1,1,Sunday,15257.99,At Risk / Low Value,At Risk / Low Value
+10297,5053,2023-11-15,Mobile,3,2806.53,Credit Card,Hyderabad,Telangana,Electronics,8419.59,2,4,2023,11,15,Wednesday,2525.88,Premium / Best Customers,Premium / Best Customers
+10298,5684,2023-02-24,Backpack,2,28911.83,Credit Card,Bangalore,Karnataka,Accessories,57823.66,8,5,2023,2,24,Friday,17347.1,Premium / Best Customers,Premium / Best Customers
+10299,5730,2023-05-29,Camera,3,11148.88,Credit Card,Mumbai,Maharashtra,Electronics,33446.64,7,5,2023,5,29,Monday,10033.99,Loyal Customers,Loyal Customers
+10300,5672,2023-11-05,Mobile,4,44661.97,Net Banking,Bangalore,Karnataka,Electronics,178647.88,7,4,2023,11,5,Sunday,53594.36,Premium / Best Customers,Premium / Best Customers
+10301,5710,2023-05-17,Camera,3,50921.29,Credit Card,Mumbai,Maharashtra,Electronics,152763.87,6,4,2023,5,17,Wednesday,45829.16,Premium / Best Customers,Premium / Best Customers
+10302,5416,2023-07-21,Shirt,1,32871.44,COD,Kolkata,West Bengal,Fashion,32871.44,4,4,2023,7,21,Friday,9861.43,At Risk / Low Value,At Risk / Low Value
+10303,5247,2023-11-09,Laptop,2,58907.93,Net Banking,Hyderabad,Telangana,Electronics,117815.86,5,2,2023,11,9,Thursday,35344.76,Loyal Customers,Loyal Customers
+10304,5836,2023-04-27,Shoes,2,27193.57,Credit Card,Pune,Maharashtra,Fashion,54387.14,5,1,2023,4,27,Thursday,16316.14,Potential Customers,Potential Customers
+10305,5439,2023-06-03,Laptop,2,30948.08,UPI,Hyderabad,Telangana,Electronics,61896.16,8,1,2023,6,3,Saturday,18568.85,Potential Customers,Potential Customers
+10306,5203,2023-10-18,Shirt,4,59356.3,Debit Card,Kolkata,West Bengal,Fashion,237425.2,4,4,2023,10,18,Wednesday,71227.56,Premium / Best Customers,Premium / Best Customers
+10307,5184,2023-03-04,Shoes,4,14123.44,Debit Card,Chennai,Tamil Nadu,Fashion,56493.76,8,5,2023,3,4,Saturday,16948.13,Potential Customers,Potential Customers
+10308,5123,2023-09-01,Headphones,2,56569.99,Debit Card,Chennai,Tamil Nadu,Electronics,113139.98,2,3,2023,9,1,Friday,33941.99,Potential Customers,Potential Customers
+10309,5401,2023-01-25,Headphones,3,2857.4,Net Banking,Chennai,Tamil Nadu,Electronics,8572.2,3,4,2023,1,25,Wednesday,2571.66,Premium / Best Customers,Premium / Best Customers
+10310,5767,2023-03-31,Camera,2,26949.3,Credit Card,Hyderabad,Telangana,Electronics,53898.6,9,5,2023,3,31,Friday,16169.58,Premium / Best Customers,Premium / Best Customers
+10311,5294,2023-03-16,Shirt,3,4479.21,Net Banking,Delhi,Delhi,Fashion,13437.63,2,5,2023,3,16,Thursday,4031.29,At Risk / Low Value,At Risk / Low Value
+10312,5280,2023-10-21,Camera,3,43835.31,COD,Hyderabad,Telangana,Electronics,131505.93,4,2,2023,10,21,Saturday,39451.78,Premium / Best Customers,Premium / Best Customers
+10313,5837,2023-07-29,Jeans,4,36622.01,UPI,Kolkata,West Bengal,Fashion,146488.04,4,2,2023,7,29,Saturday,43946.41,Premium / Best Customers,Premium / Best Customers
+10314,5884,2023-12-13,Mobile,3,42486.07,UPI,Kolkata,West Bengal,Electronics,127458.21,3,1,2023,12,13,Wednesday,38237.46,Premium / Best Customers,Premium / Best Customers
+10315,5610,2023-01-17,Tablet,2,22656.48,Debit Card,Pune,Maharashtra,Electronics,45312.96,8,1,2023,1,17,Tuesday,13593.89,Loyal Customers,Loyal Customers
+10316,5198,2023-05-08,Jeans,4,22358.07,Debit Card,Bangalore,Karnataka,Fashion,89432.28,6,3,2023,5,8,Monday,26829.68,Potential Customers,Potential Customers
+10317,5982,2023-12-30,Mobile,1,3005.56,Debit Card,Hyderabad,Telangana,Electronics,3005.56,6,3,2023,12,30,Saturday,901.67,Loyal Customers,Loyal Customers
+10318,5907,2023-09-08,Shoes,1,21191.71,Credit Card,Hyderabad,Telangana,Fashion,21191.71,3,3,2023,9,8,Friday,6357.51,Potential Customers,Potential Customers
+10319,5511,2023-06-28,Camera,4,55778.52,COD,Mumbai,Maharashtra,Electronics,223114.08,6,3,2023,6,28,Wednesday,66934.22,Premium / Best Customers,Premium / Best Customers
+10320,5752,2023-07-01,Shoes,2,22939.82,COD,Kolkata,West Bengal,Fashion,45879.64,5,5,2023,7,1,Saturday,13763.89,Premium / Best Customers,Premium / Best Customers
+10321,5144,2023-06-01,Shoes,1,49932.65,COD,Mumbai,Maharashtra,Fashion,49932.65,6,5,2023,6,1,Thursday,14979.8,Premium / Best Customers,Premium / Best Customers
+10322,5609,2023-01-25,Mobile,1,50586.83,COD,Mumbai,Maharashtra,Electronics,50586.83,6,1,2023,1,25,Wednesday,15176.05,Loyal Customers,Loyal Customers
+10323,5201,2023-06-29,Shirt,3,22582.5,Debit Card,Hyderabad,Telangana,Fashion,67747.5,6,2,2023,6,29,Thursday,20324.25,Premium / Best Customers,Premium / Best Customers
+10324,5124,2023-07-17,Mobile,3,38029.72,UPI,Delhi,Delhi,Electronics,114089.16,5,2,2023,7,17,Monday,34226.75,Potential Customers,Potential Customers
+10325,5187,2023-12-10,Watch,2,5993.68,Debit Card,Bangalore,Karnataka,Accessories,11987.36,8,4,2023,12,10,Sunday,3596.21,Potential Customers,Potential Customers
+10326,5326,2023-06-10,Headphones,4,6489.61,COD,Bangalore,Karnataka,Electronics,25958.44,6,5,2023,6,10,Saturday,7787.53,At Risk / Low Value,At Risk / Low Value
+10327,5464,2023-06-26,Headphones,2,3204.86,Debit Card,Kolkata,West Bengal,Electronics,6409.72,7,3,2023,6,26,Monday,1922.92,At Risk / Low Value,At Risk / Low Value
+10328,5349,2023-10-12,Jeans,4,34986.6,COD,Pune,Maharashtra,Fashion,139946.4,5,3,2023,10,12,Thursday,41983.92,Loyal Customers,Loyal Customers
+10329,5771,2023-03-04,Headphones,1,25736.44,Net Banking,Kolkata,West Bengal,Electronics,25736.44,3,4,2023,3,4,Saturday,7720.93,Premium / Best Customers,Premium / Best Customers
+10330,5660,2023-05-30,Mobile,3,33017.53,UPI,Delhi,Delhi,Electronics,99052.59,2,2,2023,5,30,Tuesday,29715.78,Loyal Customers,Loyal Customers
+10331,5764,2023-06-03,Backpack,2,31408.07,Net Banking,Delhi,Delhi,Accessories,62816.14,3,3,2023,6,3,Saturday,18844.84,Premium / Best Customers,Premium / Best Customers
+10332,5955,2023-06-05,Camera,2,21207.12,Credit Card,Bangalore,Karnataka,Electronics,42414.24,2,2,2023,6,5,Monday,12724.27,Premium / Best Customers,Premium / Best Customers
+10333,5932,2023-02-18,Mobile,4,40745.16,Debit Card,Chennai,Tamil Nadu,Electronics,162980.64,9,4,2023,2,18,Saturday,48894.19,Premium / Best Customers,Premium / Best Customers
+10334,5403,2023-12-03,Mobile,4,45582.56,Credit Card,Mumbai,Maharashtra,Electronics,182330.24,3,2,2023,12,3,Sunday,54699.07,Premium / Best Customers,Premium / Best Customers
+10335,5346,2023-03-25,Tablet,2,1173.31,Debit Card,Mumbai,Maharashtra,Electronics,2346.62,7,2,2023,3,25,Saturday,703.99,Premium / Best Customers,Premium / Best Customers
+10336,5963,2023-12-27,Camera,4,12672.37,Net Banking,Bangalore,Karnataka,Electronics,50689.48,2,2,2023,12,27,Wednesday,15206.84,Premium / Best Customers,Premium / Best Customers
+10337,5511,2023-06-26,Watch,2,42880.18,COD,Kolkata,West Bengal,Accessories,85760.36,2,3,2023,6,26,Monday,25728.11,Premium / Best Customers,Premium / Best Customers
+10338,5147,2023-05-28,Headphones,2,23381.22,COD,Delhi,Delhi,Electronics,46762.44,4,1,2023,5,28,Sunday,14028.73,At Risk / Low Value,At Risk / Low Value
+10339,5148,2023-04-28,Camera,2,39850.29,Debit Card,Kolkata,West Bengal,Electronics,79700.58,2,5,2023,4,28,Friday,23910.17,At Risk / Low Value,At Risk / Low Value
+10340,5864,2023-12-08,Headphones,1,21013.67,COD,Pune,Maharashtra,Electronics,21013.67,2,2,2023,12,8,Friday,6304.1,Premium / Best Customers,Premium / Best Customers
+10341,5711,2023-03-04,Jeans,4,23628.08,Net Banking,Chennai,Tamil Nadu,Fashion,94512.32,4,2,2023,3,4,Saturday,28353.7,Potential Customers,Potential Customers
+10342,5820,2023-07-08,Camera,3,9773.13,COD,Bangalore,Karnataka,Electronics,29319.39,6,2,2023,7,8,Saturday,8795.82,Loyal Customers,Loyal Customers
+10343,5489,2023-12-26,Headphones,3,15716.39,Net Banking,Mumbai,Maharashtra,Electronics,47149.17,6,1,2023,12,26,Tuesday,14144.75,Loyal Customers,Loyal Customers
+10344,5929,2023-02-18,Watch,4,36443.08,Credit Card,Hyderabad,Telangana,Accessories,145772.32,4,4,2023,2,18,Saturday,43731.7,Premium / Best Customers,Premium / Best Customers
+10345,5936,2023-11-23,Laptop,2,26159.84,Net Banking,Kolkata,West Bengal,Electronics,52319.68,5,3,2023,11,23,Thursday,15695.9,Premium / Best Customers,Premium / Best Customers
+10346,5640,2023-09-14,Shoes,3,46525.87,UPI,Delhi,Delhi,Fashion,139577.61,9,1,2023,9,14,Thursday,41873.28,Premium / Best Customers,Premium / Best Customers
+10347,5551,2023-08-12,Shoes,3,51199.32,UPI,Hyderabad,Telangana,Fashion,153597.96,2,2,2023,8,12,Saturday,46079.39,Premium / Best Customers,Premium / Best Customers
+10348,5338,2023-05-21,Watch,4,32636.29,UPI,Pune,Maharashtra,Accessories,130545.16,2,1,2023,5,21,Sunday,39163.55,Premium / Best Customers,Premium / Best Customers
+10349,5872,2023-08-03,Tablet,3,45568.56,Debit Card,Bangalore,Karnataka,Electronics,136705.68,4,1,2023,8,3,Thursday,41011.7,Premium / Best Customers,Premium / Best Customers
+10350,5641,2023-07-30,Laptop,2,18622.2,Debit Card,Kolkata,West Bengal,Electronics,37244.4,4,1,2023,7,30,Sunday,11173.32,Premium / Best Customers,Premium / Best Customers
+10351,5779,2023-11-14,Jeans,4,25073.78,Debit Card,Mumbai,Maharashtra,Fashion,100295.12,5,4,2023,11,14,Tuesday,30088.54,Premium / Best Customers,Premium / Best Customers
+10352,5988,2023-02-01,Watch,2,42852.83,Net Banking,Kolkata,West Bengal,Accessories,85705.66,7,5,2023,2,1,Wednesday,25711.7,Premium / Best Customers,Premium / Best Customers
+10353,5953,2023-06-07,Shoes,3,23356.86,Debit Card,Chennai,Tamil Nadu,Fashion,70070.58,6,3,2023,6,7,Wednesday,21021.17,Loyal Customers,Loyal Customers
+10354,5473,2023-10-12,Shoes,3,35433.74,Credit Card,Hyderabad,Telangana,Fashion,106301.22,3,4,2023,10,12,Thursday,31890.37,Premium / Best Customers,Premium / Best Customers
+10355,5946,2023-11-01,Shoes,2,11366.75,UPI,Chennai,Tamil Nadu,Fashion,22733.5,7,4,2023,11,1,Wednesday,6820.05,Premium / Best Customers,Premium / Best Customers
+10356,5151,2023-10-13,Shirt,1,36106.35,Net Banking,Pune,Maharashtra,Fashion,36106.35,8,5,2023,10,13,Friday,10831.9,Loyal Customers,Loyal Customers
+10357,5415,2023-05-24,Watch,3,51732.37,UPI,Mumbai,Maharashtra,Accessories,155197.11,6,4,2023,5,24,Wednesday,46559.13,Premium / Best Customers,Premium / Best Customers
+10358,5990,2023-01-19,Mobile,1,52157.79,Debit Card,Hyderabad,Telangana,Electronics,52157.79,2,1,2023,1,19,Thursday,15647.34,Loyal Customers,Loyal Customers
+10359,5298,2023-01-18,Jeans,3,43543.36,Net Banking,Pune,Maharashtra,Fashion,130630.08,8,1,2023,1,18,Wednesday,39189.02,At Risk / Low Value,At Risk / Low Value
+10360,5611,2023-09-14,Shoes,1,44821.48,COD,Chennai,Tamil Nadu,Fashion,44821.48,7,2,2023,9,14,Thursday,13446.44,Potential Customers,Potential Customers
+10361,5263,2023-03-19,Headphones,1,33608.27,Credit Card,Chennai,Tamil Nadu,Electronics,33608.27,4,4,2023,3,19,Sunday,10082.48,At Risk / Low Value,At Risk / Low Value
+10362,5764,2023-06-24,Watch,1,35204.68,Debit Card,Hyderabad,Telangana,Accessories,35204.68,5,2,2023,6,24,Saturday,10561.4,Premium / Best Customers,Premium / Best Customers
+10363,5144,2023-07-13,Shirt,2,8278.94,Debit Card,Mumbai,Maharashtra,Fashion,16557.88,6,3,2023,7,13,Thursday,4967.36,Premium / Best Customers,Premium / Best Customers
+10364,5346,2023-04-23,Watch,1,26798.39,Credit Card,Chennai,Tamil Nadu,Accessories,26798.39,5,1,2023,4,23,Sunday,8039.52,Premium / Best Customers,Premium / Best Customers
+10365,5624,2023-04-24,Jeans,1,27211.34,Credit Card,Bangalore,Karnataka,Fashion,27211.34,8,3,2023,4,24,Monday,8163.4,Potential Customers,Potential Customers
+10366,5572,2023-08-10,Shirt,1,57522.32,COD,Pune,Maharashtra,Fashion,57522.32,6,5,2023,8,10,Thursday,17256.7,Loyal Customers,Loyal Customers
+10367,5881,2023-06-15,Jeans,3,26035.89,Debit Card,Hyderabad,Telangana,Fashion,78107.67,9,1,2023,6,15,Thursday,23432.3,Premium / Best Customers,Premium / Best Customers
+10368,5002,2023-11-15,Watch,1,33095.76,Debit Card,Delhi,Delhi,Accessories,33095.76,9,3,2023,11,15,Wednesday,9928.73,Premium / Best Customers,Premium / Best Customers
+10369,5897,2023-05-12,Mobile,3,32135.11,UPI,Delhi,Delhi,Electronics,96405.33,7,5,2023,5,12,Friday,28921.6,Premium / Best Customers,Premium / Best Customers
+10370,5304,2023-09-21,Jeans,1,38314.67,Net Banking,Mumbai,Maharashtra,Fashion,38314.67,2,3,2023,9,21,Thursday,11494.4,At Risk / Low Value,At Risk / Low Value
+10371,5254,2023-02-24,Shirt,1,44969.5,Net Banking,Bangalore,Karnataka,Fashion,44969.5,9,5,2023,2,24,Friday,13490.85,Loyal Customers,Loyal Customers
+10372,5652,2023-12-25,Shirt,2,13735.0,UPI,Chennai,Tamil Nadu,Fashion,27470.0,9,5,2023,12,25,Monday,8241.0,Potential Customers,Potential Customers
+10373,5453,2023-05-11,Jeans,3,31864.85,Net Banking,Delhi,Delhi,Fashion,95594.55,3,1,2023,5,11,Thursday,28678.36,Premium / Best Customers,Premium / Best Customers
+10374,5037,2023-10-15,Backpack,1,49607.29,Credit Card,Mumbai,Maharashtra,Accessories,49607.29,5,2,2023,10,15,Sunday,14882.19,Premium / Best Customers,Premium / Best Customers
+10375,5160,2023-09-23,Watch,3,27947.95,Net Banking,Pune,Maharashtra,Accessories,83843.85,5,5,2023,9,23,Saturday,25153.16,Premium / Best Customers,Premium / Best Customers
+10376,5009,2023-06-11,Backpack,3,16923.92,Net Banking,Bangalore,Karnataka,Accessories,50771.76,9,5,2023,6,11,Sunday,15231.53,Loyal Customers,Loyal Customers
+10377,5233,2023-03-28,Tablet,4,39386.13,UPI,Bangalore,Karnataka,Electronics,157544.52,3,1,2023,3,28,Tuesday,47263.36,Premium / Best Customers,Premium / Best Customers
+10378,5099,2023-02-24,Watch,2,49478.91,COD,Kolkata,West Bengal,Accessories,98957.82,5,2,2023,2,24,Friday,29687.35,Premium / Best Customers,Premium / Best Customers
+10379,5659,2023-10-15,Jeans,2,4069.48,Net Banking,Mumbai,Maharashtra,Fashion,8138.96,5,4,2023,10,15,Sunday,2441.69,Premium / Best Customers,Premium / Best Customers
+10380,5816,2023-06-27,Laptop,2,46674.39,Net Banking,Mumbai,Maharashtra,Electronics,93348.78,6,4,2023,6,27,Tuesday,28004.63,Premium / Best Customers,Premium / Best Customers
+10381,5208,2023-12-15,Jeans,4,49352.38,COD,Kolkata,West Bengal,Fashion,197409.52,6,2,2023,12,15,Friday,59222.86,Loyal Customers,Loyal Customers
+10382,5131,2023-01-08,Backpack,4,27852.92,UPI,Chennai,Tamil Nadu,Accessories,111411.68,3,3,2023,1,8,Sunday,33423.5,Premium / Best Customers,Premium / Best Customers
+10383,5404,2023-11-17,Mobile,2,59003.35,COD,Mumbai,Maharashtra,Electronics,118006.7,8,1,2023,11,17,Friday,35402.01,Loyal Customers,Loyal Customers
+10384,5152,2023-11-09,Jeans,4,47266.49,UPI,Kolkata,West Bengal,Fashion,189065.96,2,2,2023,11,9,Thursday,56719.79,Loyal Customers,Loyal Customers
+10385,5054,2023-09-04,Jeans,4,46487.66,Credit Card,Chennai,Tamil Nadu,Fashion,185950.64,7,4,2023,9,4,Monday,55785.19,Premium / Best Customers,Premium / Best Customers
+10386,5120,2023-11-19,Mobile,4,44945.96,UPI,Chennai,Tamil Nadu,Electronics,179783.84,9,5,2023,11,19,Sunday,53935.15,Premium / Best Customers,Premium / Best Customers
+10387,5673,2023-09-12,Jeans,2,9291.3,Credit Card,Hyderabad,Telangana,Fashion,18582.6,9,4,2023,9,12,Tuesday,5574.78,Potential Customers,Potential Customers
+10388,5920,2023-11-24,Shoes,2,13268.68,Credit Card,Bangalore,Karnataka,Fashion,26537.36,7,5,2023,11,24,Friday,7961.21,Loyal Customers,Loyal Customers
+10389,5628,2023-02-23,Laptop,2,28000.21,UPI,Pune,Maharashtra,Electronics,56000.42,9,1,2023,2,23,Thursday,16800.13,Loyal Customers,Loyal Customers
+10390,5587,2023-09-06,Headphones,4,16061.06,Debit Card,Bangalore,Karnataka,Electronics,64244.24,9,5,2023,9,6,Wednesday,19273.27,Potential Customers,Potential Customers
+10391,5625,2023-08-27,Laptop,2,25089.89,UPI,Bangalore,Karnataka,Electronics,50179.78,8,2,2023,8,27,Sunday,15053.93,Loyal Customers,Loyal Customers
+10392,5968,2023-08-17,Jeans,4,53341.31,Net Banking,Hyderabad,Telangana,Fashion,213365.24,5,5,2023,8,17,Thursday,64009.57,Premium / Best Customers,Premium / Best Customers
+10393,5420,2023-03-08,Shoes,1,49512.32,Net Banking,Chennai,Tamil Nadu,Fashion,49512.32,2,3,2023,3,8,Wednesday,14853.7,Potential Customers,Potential Customers
+10394,5422,2023-02-20,Watch,4,37913.38,Debit Card,Chennai,Tamil Nadu,Accessories,151653.52,9,2,2023,2,20,Monday,45496.06,Loyal Customers,Loyal Customers
+10395,5104,2023-04-07,Jeans,3,51529.79,Credit Card,Mumbai,Maharashtra,Fashion,154589.37,3,1,2023,4,7,Friday,46376.81,Loyal Customers,Loyal Customers
+10396,5852,2023-04-02,Backpack,2,47091.21,Debit Card,Hyderabad,Telangana,Accessories,94182.42,8,2,2023,4,2,Sunday,28254.73,Premium / Best Customers,Premium / Best Customers
+10397,5254,2023-09-21,Shoes,2,25910.4,Net Banking,Mumbai,Maharashtra,Fashion,51820.8,9,3,2023,9,21,Thursday,15546.24,Loyal Customers,Loyal Customers
+10398,5227,2023-10-18,Mobile,3,12303.59,Debit Card,Hyderabad,Telangana,Electronics,36910.77,3,1,2023,10,18,Wednesday,11073.23,Loyal Customers,Loyal Customers
+10399,5112,2023-04-06,Shoes,4,30997.8,UPI,Mumbai,Maharashtra,Fashion,123991.2,6,4,2023,4,6,Thursday,37197.36,At Risk / Low Value,At Risk / Low Value
+10400,5510,2023-03-29,Mobile,1,44252.86,Debit Card,Delhi,Delhi,Electronics,44252.86,5,3,2023,3,29,Wednesday,13275.86,Premium / Best Customers,Premium / Best Customers
+10401,5473,2023-03-19,Tablet,3,26354.25,Credit Card,Kolkata,West Bengal,Electronics,79062.75,4,1,2023,3,19,Sunday,23718.82,Premium / Best Customers,Premium / Best Customers
+10402,5099,2023-10-15,Headphones,3,40106.28,UPI,Bangalore,Karnataka,Electronics,120318.84,9,5,2023,10,15,Sunday,36095.65,Premium / Best Customers,Premium / Best Customers
+10403,5153,2023-04-30,Camera,4,5931.35,COD,Bangalore,Karnataka,Electronics,23725.4,3,2,2023,4,30,Sunday,7117.62,At Risk / Low Value,At Risk / Low Value
+10404,5861,2023-10-29,Shoes,2,44955.88,Net Banking,Pune,Maharashtra,Fashion,89911.76,8,1,2023,10,29,Sunday,26973.53,Premium / Best Customers,Premium / Best Customers
+10405,5914,2023-06-14,Shirt,4,48819.0,Net Banking,Kolkata,West Bengal,Fashion,195276.0,5,2,2023,6,14,Wednesday,58582.8,Loyal Customers,Loyal Customers
+10406,5896,2023-07-01,Backpack,3,42498.22,Debit Card,Chennai,Tamil Nadu,Accessories,127494.66,2,5,2023,7,1,Saturday,38248.4,Premium / Best Customers,Premium / Best Customers
+10407,5878,2023-08-11,Jeans,3,58045.64,UPI,Pune,Maharashtra,Fashion,174136.92,8,1,2023,8,11,Friday,52241.08,Premium / Best Customers,Premium / Best Customers
+10408,5338,2023-11-07,Backpack,2,49651.13,COD,Delhi,Delhi,Accessories,99302.26,6,4,2023,11,7,Tuesday,29790.68,Premium / Best Customers,Premium / Best Customers
+10409,5706,2023-01-07,Laptop,2,54214.7,UPI,Pune,Maharashtra,Electronics,108429.4,7,3,2023,1,7,Saturday,32528.82,Potential Customers,Potential Customers
+10410,5822,2023-11-26,Camera,2,56034.19,Net Banking,Bangalore,Karnataka,Electronics,112068.38,9,1,2023,11,26,Sunday,33620.51,Premium / Best Customers,Premium / Best Customers
+10411,5163,2023-09-20,Laptop,4,48140.48,UPI,Chennai,Tamil Nadu,Electronics,192561.92,2,5,2023,9,20,Wednesday,57768.58,Loyal Customers,Loyal Customers
+10412,5720,2023-06-10,Tablet,2,40553.25,COD,Delhi,Delhi,Electronics,81106.5,3,1,2023,6,10,Saturday,24331.95,Premium / Best Customers,Premium / Best Customers
+10413,5957,2023-05-31,Camera,3,641.4,Debit Card,Bangalore,Karnataka,Electronics,1924.2,9,2,2023,5,31,Wednesday,577.26,Loyal Customers,Loyal Customers
+10414,5681,2023-03-26,Camera,3,28109.8,Credit Card,Kolkata,West Bengal,Electronics,84329.4,3,1,2023,3,26,Sunday,25298.82,Potential Customers,Potential Customers
+10415,5996,2023-05-27,Laptop,1,34398.39,UPI,Mumbai,Maharashtra,Electronics,34398.39,2,4,2023,5,27,Saturday,10319.52,Loyal Customers,Loyal Customers
+10416,5161,2023-04-22,Mobile,4,18450.61,Credit Card,Hyderabad,Telangana,Electronics,73802.44,3,1,2023,4,22,Saturday,22140.73,Premium / Best Customers,Premium / Best Customers
+10417,5580,2023-02-05,Laptop,1,19290.84,Net Banking,Delhi,Delhi,Electronics,19290.84,8,3,2023,2,5,Sunday,5787.25,At Risk / Low Value,At Risk / Low Value
+10418,5801,2023-10-12,Backpack,3,57681.22,Debit Card,Chennai,Tamil Nadu,Accessories,173043.66,5,1,2023,10,12,Thursday,51913.1,Premium / Best Customers,Premium / Best Customers
+10419,5398,2023-07-07,Mobile,1,53535.14,Debit Card,Pune,Maharashtra,Electronics,53535.14,3,2,2023,7,7,Friday,16060.54,Premium / Best Customers,Premium / Best Customers
+10420,5277,2023-03-23,Backpack,3,50995.99,UPI,Kolkata,West Bengal,Accessories,152987.97,6,1,2023,3,23,Thursday,45896.39,Premium / Best Customers,Premium / Best Customers
+10421,5816,2023-01-02,Tablet,1,24538.9,Debit Card,Pune,Maharashtra,Electronics,24538.9,5,4,2023,1,2,Monday,7361.67,Premium / Best Customers,Premium / Best Customers
+10422,5916,2023-10-30,Jeans,2,1117.8,UPI,Delhi,Delhi,Fashion,2235.6,8,5,2023,10,30,Monday,670.68,Potential Customers,Potential Customers
+10423,5504,2023-07-16,Watch,1,5089.27,UPI,Kolkata,West Bengal,Accessories,5089.27,9,1,2023,7,16,Sunday,1526.78,At Risk / Low Value,At Risk / Low Value
+10424,5896,2023-01-11,Mobile,2,18938.12,Credit Card,Chennai,Tamil Nadu,Electronics,37876.24,4,1,2023,1,11,Wednesday,11362.87,Premium / Best Customers,Premium / Best Customers
+10425,5392,2023-08-22,Tablet,2,1239.85,Debit Card,Delhi,Delhi,Electronics,2479.7,9,3,2023,8,22,Tuesday,743.91,Loyal Customers,Loyal Customers
+10426,5135,2023-07-14,Shirt,4,1323.84,UPI,Chennai,Tamil Nadu,Fashion,5295.36,3,4,2023,7,14,Friday,1588.61,Loyal Customers,Loyal Customers
+10427,5195,2023-04-29,Tablet,2,55021.22,Credit Card,Pune,Maharashtra,Electronics,110042.44,3,5,2023,4,29,Saturday,33012.73,Premium / Best Customers,Premium / Best Customers
+10428,5401,2023-01-20,Laptop,2,42457.66,COD,Bangalore,Karnataka,Electronics,84915.32,6,2,2023,1,20,Friday,25474.6,Premium / Best Customers,Premium / Best Customers
+10429,5640,2023-09-18,Laptop,1,18744.67,Credit Card,Kolkata,West Bengal,Electronics,18744.67,8,1,2023,9,18,Monday,5623.4,Premium / Best Customers,Premium / Best Customers
+10430,5033,2023-10-20,Watch,3,8218.88,Credit Card,Mumbai,Maharashtra,Accessories,24656.64,6,5,2023,10,20,Friday,7396.99,Loyal Customers,Loyal Customers
+10431,5688,2023-09-13,Tablet,4,30844.65,UPI,Bangalore,Karnataka,Electronics,123378.6,7,2,2023,9,13,Wednesday,37013.58,Potential Customers,Potential Customers
+10432,5460,2023-08-10,Headphones,2,619.17,Net Banking,Mumbai,Maharashtra,Electronics,1238.34,8,4,2023,8,10,Thursday,371.5,Loyal Customers,Loyal Customers
+10433,5955,2023-08-14,Jeans,4,56323.3,Net Banking,Pune,Maharashtra,Fashion,225293.2,2,4,2023,8,14,Monday,67587.96,Premium / Best Customers,Premium / Best Customers
+10434,5883,2023-02-22,Laptop,1,25064.46,Net Banking,Kolkata,West Bengal,Electronics,25064.46,2,5,2023,2,22,Wednesday,7519.34,Premium / Best Customers,Premium / Best Customers
+10435,5470,2023-12-21,Watch,2,24319.4,Credit Card,Bangalore,Karnataka,Accessories,48638.8,2,2,2023,12,21,Thursday,14591.64,Loyal Customers,Loyal Customers
+10436,5375,2023-12-08,Jeans,1,23618.44,UPI,Bangalore,Karnataka,Fashion,23618.44,6,4,2023,12,8,Friday,7085.53,Potential Customers,Potential Customers
+10437,5022,2023-12-30,Tablet,4,4438.9,Debit Card,Delhi,Delhi,Electronics,17755.6,2,5,2023,12,30,Saturday,5326.68,Loyal Customers,Loyal Customers
+10438,5750,2023-10-07,Tablet,1,38407.84,Credit Card,Hyderabad,Telangana,Electronics,38407.84,8,4,2023,10,7,Saturday,11522.35,Premium / Best Customers,Premium / Best Customers
+10439,5670,2023-03-22,Camera,4,44060.32,Credit Card,Pune,Maharashtra,Electronics,176241.28,2,4,2023,3,22,Wednesday,52872.38,Premium / Best Customers,Premium / Best Customers
+10440,5038,2023-07-21,Watch,1,40664.69,UPI,Chennai,Tamil Nadu,Accessories,40664.69,4,4,2023,7,21,Friday,12199.41,At Risk / Low Value,At Risk / Low Value
+10441,5230,2023-06-07,Laptop,4,8564.6,COD,Pune,Maharashtra,Electronics,34258.4,2,3,2023,6,7,Wednesday,10277.52,Loyal Customers,Loyal Customers
+10442,5365,2023-04-30,Headphones,3,34856.76,Credit Card,Chennai,Tamil Nadu,Electronics,104570.28,3,2,2023,4,30,Sunday,31371.08,Premium / Best Customers,Premium / Best Customers
+10443,5563,2023-02-28,Tablet,1,34298.22,COD,Kolkata,West Bengal,Electronics,34298.22,7,5,2023,2,28,Tuesday,10289.47,Loyal Customers,Loyal Customers
+10444,5438,2023-08-03,Headphones,1,52144.12,COD,Chennai,Tamil Nadu,Electronics,52144.12,6,5,2023,8,3,Thursday,15643.24,Premium / Best Customers,Premium / Best Customers
+10445,5776,2023-05-08,Tablet,3,22933.92,Net Banking,Mumbai,Maharashtra,Electronics,68801.76,5,2,2023,5,8,Monday,20640.53,Premium / Best Customers,Premium / Best Customers
+10446,5283,2023-08-12,Laptop,3,22477.71,UPI,Chennai,Tamil Nadu,Electronics,67433.13,7,2,2023,8,12,Saturday,20229.94,Loyal Customers,Loyal Customers
+10447,5027,2023-07-28,Jeans,1,37226.07,COD,Chennai,Tamil Nadu,Fashion,37226.07,4,2,2023,7,28,Friday,11167.82,At Risk / Low Value,At Risk / Low Value
+10448,5226,2023-04-25,Shoes,3,38094.44,UPI,Delhi,Delhi,Fashion,114283.32,6,2,2023,4,25,Tuesday,34285.0,At Risk / Low Value,At Risk / Low Value
+10449,5277,2023-07-28,Jeans,2,28316.33,Net Banking,Bangalore,Karnataka,Fashion,56632.66,8,1,2023,7,28,Friday,16989.8,Premium / Best Customers,Premium / Best Customers
+10450,5798,2023-01-14,Tablet,4,26750.64,UPI,Pune,Maharashtra,Electronics,107002.56,9,5,2023,1,14,Saturday,32100.77,Premium / Best Customers,Premium / Best Customers
+10451,5609,2023-01-09,Backpack,4,29800.62,Credit Card,Pune,Maharashtra,Accessories,119202.48,6,1,2023,1,9,Monday,35760.74,Loyal Customers,Loyal Customers
+10452,5284,2023-02-09,Shoes,4,51704.4,COD,Kolkata,West Bengal,Fashion,206817.6,3,4,2023,2,9,Thursday,62045.28,Potential Customers,Potential Customers
+10453,5879,2023-08-25,Shoes,2,27831.66,UPI,Kolkata,West Bengal,Fashion,55663.32,8,4,2023,8,25,Friday,16699.0,Loyal Customers,Loyal Customers
+10454,5960,2023-10-08,Headphones,3,56413.93,Debit Card,Chennai,Tamil Nadu,Electronics,169241.79,7,5,2023,10,8,Sunday,50772.54,Loyal Customers,Loyal Customers
+10455,5481,2023-12-25,Watch,3,30389.02,UPI,Hyderabad,Telangana,Accessories,91167.06,7,4,2023,12,25,Monday,27350.12,Premium / Best Customers,Premium / Best Customers
+10456,5453,2023-07-20,Headphones,1,56967.28,COD,Pune,Maharashtra,Electronics,56967.28,2,2,2023,7,20,Thursday,17090.18,Premium / Best Customers,Premium / Best Customers
+10457,5829,2023-09-03,Headphones,3,50020.06,Net Banking,Kolkata,West Bengal,Electronics,150060.18,8,1,2023,9,3,Sunday,45018.05,Premium / Best Customers,Premium / Best Customers
+10458,5816,2023-10-05,Backpack,1,21937.15,Net Banking,Chennai,Tamil Nadu,Accessories,21937.15,9,2,2023,10,5,Thursday,6581.14,Premium / Best Customers,Premium / Best Customers
+10459,5659,2023-08-23,Jeans,2,51859.39,COD,Kolkata,West Bengal,Fashion,103718.78,3,4,2023,8,23,Wednesday,31115.63,Premium / Best Customers,Premium / Best Customers
+10460,5516,2023-01-04,Jeans,4,6870.78,Credit Card,Mumbai,Maharashtra,Fashion,27483.12,2,1,2023,1,4,Wednesday,8244.94,Loyal Customers,Loyal Customers
+10461,5547,2023-06-03,Shirt,4,55525.32,Credit Card,Mumbai,Maharashtra,Fashion,222101.28,2,2,2023,6,3,Saturday,66630.38,Premium / Best Customers,Premium / Best Customers
+10462,5192,2023-01-29,Tablet,4,38009.12,Net Banking,Kolkata,West Bengal,Electronics,152036.48,9,5,2023,1,29,Sunday,45610.94,Premium / Best Customers,Premium / Best Customers
+10463,5049,2023-04-19,Backpack,3,3547.13,Net Banking,Mumbai,Maharashtra,Accessories,10641.39,6,2,2023,4,19,Wednesday,3192.42,At Risk / Low Value,At Risk / Low Value
+10464,5512,2023-04-08,Shirt,1,38762.13,COD,Kolkata,West Bengal,Fashion,38762.13,7,4,2023,4,8,Saturday,11628.64,Loyal Customers,Loyal Customers
+10465,5017,2023-08-03,Laptop,1,58462.58,Credit Card,Chennai,Tamil Nadu,Electronics,58462.58,2,1,2023,8,3,Thursday,17538.77,Potential Customers,Potential Customers
+10466,5172,2023-10-20,Tablet,2,4467.1,Net Banking,Delhi,Delhi,Electronics,8934.2,4,5,2023,10,20,Friday,2680.26,Potential Customers,Potential Customers
+10467,5220,2023-03-16,Tablet,3,33414.86,Credit Card,Hyderabad,Telangana,Electronics,100244.58,4,1,2023,3,16,Thursday,30073.37,Premium / Best Customers,Premium / Best Customers
+10468,5158,2023-11-22,Camera,2,44943.32,Net Banking,Chennai,Tamil Nadu,Electronics,89886.64,7,5,2023,11,22,Wednesday,26965.99,Loyal Customers,Loyal Customers
+10469,5477,2023-05-26,Camera,1,48672.44,UPI,Delhi,Delhi,Electronics,48672.44,4,1,2023,5,26,Friday,14601.73,Premium / Best Customers,Premium / Best Customers
+10470,5046,2023-05-08,Mobile,1,25005.5,Debit Card,Delhi,Delhi,Electronics,25005.5,9,4,2023,5,8,Monday,7501.65,Potential Customers,Potential Customers
+10471,5373,2023-12-07,Mobile,4,12488.74,UPI,Pune,Maharashtra,Electronics,49954.96,6,5,2023,12,7,Thursday,14986.49,Premium / Best Customers,Premium / Best Customers
+10472,5518,2023-02-11,Headphones,3,2827.83,Net Banking,Chennai,Tamil Nadu,Electronics,8483.49,3,3,2023,2,11,Saturday,2545.05,Potential Customers,Potential Customers
+10473,5099,2023-12-22,Laptop,1,34909.65,Debit Card,Chennai,Tamil Nadu,Electronics,34909.65,5,1,2023,12,22,Friday,10472.9,Premium / Best Customers,Premium / Best Customers
+10474,5892,2023-02-10,Shoes,4,27338.79,Debit Card,Kolkata,West Bengal,Fashion,109355.16,2,1,2023,2,10,Friday,32806.55,Loyal Customers,Loyal Customers
+10475,5745,2023-02-03,Shoes,3,56940.04,Net Banking,Delhi,Delhi,Fashion,170820.12,5,2,2023,2,3,Friday,51246.04,Loyal Customers,Loyal Customers
+10476,5037,2023-01-17,Camera,2,3918.11,Net Banking,Delhi,Delhi,Electronics,7836.22,3,5,2023,1,17,Tuesday,2350.87,Premium / Best Customers,Premium / Best Customers
+10477,5280,2023-06-14,Camera,3,41218.1,Credit Card,Delhi,Delhi,Electronics,123654.3,3,3,2023,6,14,Wednesday,37096.29,Premium / Best Customers,Premium / Best Customers
+10478,5349,2023-06-02,Camera,3,1790.48,Net Banking,Kolkata,West Bengal,Electronics,5371.44,9,4,2023,6,2,Friday,1611.43,Loyal Customers,Loyal Customers
+10479,5497,2023-03-17,Backpack,1,10534.62,COD,Pune,Maharashtra,Accessories,10534.62,6,2,2023,3,17,Friday,3160.39,Premium / Best Customers,Premium / Best Customers
+10480,5302,2023-03-28,Watch,1,27378.67,Net Banking,Chennai,Tamil Nadu,Accessories,27378.67,4,3,2023,3,28,Tuesday,8213.6,Loyal Customers,Loyal Customers
+10481,5181,2023-04-27,Mobile,3,27455.88,COD,Delhi,Delhi,Electronics,82367.64,4,5,2023,4,27,Thursday,24710.29,At Risk / Low Value,At Risk / Low Value
+10482,5607,2023-12-28,Backpack,1,41236.32,Net Banking,Mumbai,Maharashtra,Accessories,41236.32,9,3,2023,12,28,Thursday,12370.9,Loyal Customers,Loyal Customers
+10483,5099,2023-12-08,Jeans,1,54639.72,Credit Card,Chennai,Tamil Nadu,Fashion,54639.72,3,1,2023,12,8,Friday,16391.92,Premium / Best Customers,Premium / Best Customers
+10484,5700,2023-01-27,Shoes,1,38450.22,COD,Kolkata,West Bengal,Fashion,38450.22,6,1,2023,1,27,Friday,11535.07,Loyal Customers,Loyal Customers
+10485,5993,2023-11-09,Tablet,4,57226.05,UPI,Pune,Maharashtra,Electronics,228904.2,6,2,2023,11,9,Thursday,68671.26,Premium / Best Customers,Premium / Best Customers
+10486,5116,2023-10-14,Mobile,4,52932.45,COD,Mumbai,Maharashtra,Electronics,211729.8,7,5,2023,10,14,Saturday,63518.94,Loyal Customers,Loyal Customers
+10487,5191,2023-05-14,Shirt,3,35194.64,Credit Card,Kolkata,West Bengal,Fashion,105583.92,8,5,2023,5,14,Sunday,31675.18,Potential Customers,Potential Customers
+10488,5253,2023-08-07,Jeans,1,50077.38,COD,Bangalore,Karnataka,Fashion,50077.38,2,3,2023,8,7,Monday,15023.21,Premium / Best Customers,Premium / Best Customers
+10489,5981,2023-06-17,Mobile,4,38661.88,Net Banking,Chennai,Tamil Nadu,Electronics,154647.52,9,2,2023,6,17,Saturday,46394.26,Loyal Customers,Loyal Customers
+10490,5928,2023-04-08,Backpack,3,4989.9,Net Banking,Bangalore,Karnataka,Accessories,14969.7,8,5,2023,4,8,Saturday,4490.91,At Risk / Low Value,At Risk / Low Value
+10491,5983,2023-09-25,Laptop,1,44511.71,Credit Card,Kolkata,West Bengal,Electronics,44511.71,9,1,2023,9,25,Monday,13353.51,Potential Customers,Potential Customers
+10492,5161,2023-08-25,Tablet,2,5966.03,Debit Card,Kolkata,West Bengal,Electronics,11932.06,4,3,2023,8,25,Friday,3579.62,Premium / Best Customers,Premium / Best Customers
+10493,5256,2023-11-05,Mobile,1,35766.74,Net Banking,Kolkata,West Bengal,Electronics,35766.74,3,4,2023,11,5,Sunday,10730.02,Loyal Customers,Loyal Customers
+10494,5323,2023-06-22,Watch,1,42247.62,UPI,Delhi,Delhi,Accessories,42247.62,9,1,2023,6,22,Thursday,12674.29,Loyal Customers,Loyal Customers
+10495,5128,2023-07-09,Camera,4,4271.7,Credit Card,Pune,Maharashtra,Electronics,17086.8,9,2,2023,7,9,Sunday,5126.04,At Risk / Low Value,At Risk / Low Value
+10496,5018,2023-05-02,Camera,3,14078.44,COD,Delhi,Delhi,Electronics,42235.32,7,5,2023,5,2,Tuesday,12670.6,At Risk / Low Value,At Risk / Low Value
+10497,5793,2023-02-15,Tablet,3,54965.63,COD,Pune,Maharashtra,Electronics,164896.89,5,1,2023,2,15,Wednesday,49469.07,Potential Customers,Potential Customers
+10498,5735,2023-03-05,Backpack,4,37093.98,UPI,Hyderabad,Telangana,Accessories,148375.92,4,4,2023,3,5,Sunday,44512.78,Loyal Customers,Loyal Customers
+10499,5566,2023-05-10,Camera,1,15003.28,Net Banking,Delhi,Delhi,Electronics,15003.28,2,4,2023,5,10,Wednesday,4500.98,Premium / Best Customers,Premium / Best Customers
+10500,5570,2023-11-06,Mobile,2,41533.58,Credit Card,Bangalore,Karnataka,Electronics,83067.16,6,2,2023,11,6,Monday,24920.15,Premium / Best Customers,Premium / Best Customers
+10501,5323,2023-12-29,Shirt,1,35927.55,UPI,Pune,Maharashtra,Fashion,35927.55,3,1,2023,12,29,Friday,10778.27,Loyal Customers,Loyal Customers
+10502,5872,2023-07-12,Shoes,1,30244.07,Net Banking,Delhi,Delhi,Fashion,30244.07,4,3,2023,7,12,Wednesday,9073.22,Premium / Best Customers,Premium / Best Customers
+10503,5686,2023-11-03,Shoes,2,58578.36,Credit Card,Chennai,Tamil Nadu,Fashion,117156.72,5,1,2023,11,3,Friday,35147.02,Loyal Customers,Loyal Customers
+10504,5792,2023-06-30,Jeans,4,41102.19,COD,Kolkata,West Bengal,Fashion,164408.76,9,4,2023,6,30,Friday,49322.63,Loyal Customers,Loyal Customers
+10505,5626,2023-10-19,Headphones,3,22713.83,Credit Card,Pune,Maharashtra,Electronics,68141.49,2,2,2023,10,19,Thursday,20442.45,Loyal Customers,Loyal Customers
+10506,5288,2023-10-09,Laptop,4,48064.38,Debit Card,Pune,Maharashtra,Electronics,192257.52,9,2,2023,10,9,Monday,57677.26,Loyal Customers,Loyal Customers
+10507,5943,2023-01-29,Tablet,4,53109.62,Credit Card,Delhi,Delhi,Electronics,212438.48,2,3,2023,1,29,Sunday,63731.54,Premium / Best Customers,Premium / Best Customers
+10508,5854,2023-05-29,Jeans,1,7775.67,Debit Card,Hyderabad,Telangana,Fashion,7775.67,7,2,2023,5,29,Monday,2332.7,Premium / Best Customers,Premium / Best Customers
+10509,5663,2023-09-24,Headphones,3,12273.01,Credit Card,Delhi,Delhi,Electronics,36819.03,9,2,2023,9,24,Sunday,11045.71,Premium / Best Customers,Premium / Best Customers
+10510,5962,2023-10-23,Backpack,3,13208.75,Debit Card,Bangalore,Karnataka,Accessories,39626.25,4,2,2023,10,23,Monday,11887.88,Potential Customers,Potential Customers
+10511,5639,2023-01-11,Watch,4,41565.35,COD,Bangalore,Karnataka,Accessories,166261.4,5,2,2023,1,11,Wednesday,49878.42,Potential Customers,Potential Customers
+10512,5155,2023-06-13,Watch,2,36301.46,Net Banking,Pune,Maharashtra,Accessories,72602.92,2,2,2023,6,13,Tuesday,21780.88,At Risk / Low Value,At Risk / Low Value
+10513,5490,2023-04-23,Laptop,4,37253.8,Debit Card,Pune,Maharashtra,Electronics,149015.2,3,4,2023,4,23,Sunday,44704.56,Loyal Customers,Loyal Customers
+10514,5386,2023-07-06,Camera,2,56464.17,Debit Card,Delhi,Delhi,Electronics,112928.34,2,1,2023,7,6,Thursday,33878.5,Premium / Best Customers,Premium / Best Customers
+10515,5986,2023-10-22,Mobile,3,46621.92,COD,Bangalore,Karnataka,Electronics,139865.76,5,5,2023,10,22,Sunday,41959.73,Loyal Customers,Loyal Customers
+10516,5785,2023-08-20,Jeans,4,7937.83,Debit Card,Bangalore,Karnataka,Fashion,31751.32,6,2,2023,8,20,Sunday,9525.4,Loyal Customers,Loyal Customers
+10517,5104,2023-08-15,Jeans,1,21046.17,UPI,Hyderabad,Telangana,Fashion,21046.17,6,5,2023,8,15,Tuesday,6313.85,Loyal Customers,Loyal Customers
+10518,5929,2023-11-06,Tablet,4,26293.0,COD,Chennai,Tamil Nadu,Electronics,105172.0,7,5,2023,11,6,Monday,31551.6,Premium / Best Customers,Premium / Best Customers
+10519,5393,2023-04-08,Tablet,3,23938.91,UPI,Hyderabad,Telangana,Electronics,71816.73,4,4,2023,4,8,Saturday,21545.02,Premium / Best Customers,Premium / Best Customers
+10520,5811,2023-02-24,Watch,1,40257.72,COD,Mumbai,Maharashtra,Accessories,40257.72,5,2,2023,2,24,Friday,12077.32,At Risk / Low Value,At Risk / Low Value
+10521,5246,2023-04-21,Watch,1,53546.02,Debit Card,Kolkata,West Bengal,Accessories,53546.02,7,5,2023,4,21,Friday,16063.81,At Risk / Low Value,At Risk / Low Value
+10522,5176,2023-06-01,Shirt,2,18571.27,UPI,Hyderabad,Telangana,Fashion,37142.54,8,2,2023,6,1,Thursday,11142.76,At Risk / Low Value,At Risk / Low Value
+10523,5039,2023-09-03,Shirt,1,33247.07,Debit Card,Delhi,Delhi,Fashion,33247.07,2,3,2023,9,3,Sunday,9974.12,Loyal Customers,Loyal Customers
+10524,5477,2023-03-10,Camera,1,47427.74,COD,Chennai,Tamil Nadu,Electronics,47427.74,8,3,2023,3,10,Friday,14228.32,Premium / Best Customers,Premium / Best Customers
+10525,5682,2023-11-08,Shirt,4,25148.22,Debit Card,Delhi,Delhi,Fashion,100592.88,2,3,2023,11,8,Wednesday,30177.86,Premium / Best Customers,Premium / Best Customers
+10526,5759,2023-10-16,Mobile,3,10336.65,UPI,Kolkata,West Bengal,Electronics,31009.95,6,5,2023,10,16,Monday,9302.98,Premium / Best Customers,Premium / Best Customers
+10527,5538,2023-09-07,Mobile,2,28654.57,UPI,Mumbai,Maharashtra,Electronics,57309.14,7,3,2023,9,7,Thursday,17192.74,Potential Customers,Potential Customers
+10528,5867,2023-02-05,Jeans,4,3596.78,Debit Card,Chennai,Tamil Nadu,Fashion,14387.12,6,4,2023,2,5,Sunday,4316.14,Premium / Best Customers,Premium / Best Customers
+10529,5818,2023-08-27,Shoes,1,56560.29,Credit Card,Pune,Maharashtra,Fashion,56560.29,3,4,2023,8,27,Sunday,16968.09,Potential Customers,Potential Customers
+10530,5921,2023-05-28,Mobile,1,4766.83,COD,Bangalore,Karnataka,Electronics,4766.83,8,5,2023,5,28,Sunday,1430.05,Loyal Customers,Loyal Customers
+10531,5408,2023-08-15,Headphones,2,26475.87,COD,Hyderabad,Telangana,Electronics,52951.74,8,2,2023,8,15,Tuesday,15885.52,Loyal Customers,Loyal Customers
+10532,5525,2023-09-01,Watch,3,31933.91,Debit Card,Delhi,Delhi,Accessories,95801.73,6,1,2023,9,1,Friday,28740.52,Premium / Best Customers,Premium / Best Customers
+10533,5828,2023-12-03,Tablet,2,59122.64,Credit Card,Mumbai,Maharashtra,Electronics,118245.28,3,2,2023,12,3,Sunday,35473.58,Loyal Customers,Loyal Customers
+10534,5506,2023-12-31,Shirt,4,10211.5,UPI,Bangalore,Karnataka,Fashion,40846.0,2,2,2023,12,31,Sunday,12253.8,Premium / Best Customers,Premium / Best Customers
+10535,5903,2023-07-20,Jeans,2,7131.56,Net Banking,Hyderabad,Telangana,Fashion,14263.12,7,2,2023,7,20,Thursday,4278.94,Loyal Customers,Loyal Customers
+10536,5825,2023-06-03,Laptop,1,819.76,Net Banking,Bangalore,Karnataka,Electronics,819.76,3,2,2023,6,3,Saturday,245.93,Loyal Customers,Loyal Customers
+10537,5036,2023-03-14,Tablet,4,9587.61,Debit Card,Hyderabad,Telangana,Electronics,38350.44,7,1,2023,3,14,Tuesday,11505.13,Potential Customers,Potential Customers
+10538,5685,2023-07-20,Headphones,1,12674.2,Credit Card,Pune,Maharashtra,Electronics,12674.2,8,3,2023,7,20,Thursday,3802.26,Loyal Customers,Loyal Customers
+10539,5020,2023-10-23,Shirt,3,37945.68,Credit Card,Chennai,Tamil Nadu,Fashion,113837.04,7,2,2023,10,23,Monday,34151.11,Potential Customers,Potential Customers
+10540,5321,2023-01-17,Headphones,1,13416.5,COD,Bangalore,Karnataka,Electronics,13416.5,8,4,2023,1,17,Tuesday,4024.95,At Risk / Low Value,At Risk / Low Value
+10541,5776,2023-05-09,Watch,1,1525.09,UPI,Bangalore,Karnataka,Accessories,1525.09,3,5,2023,5,9,Tuesday,457.53,Premium / Best Customers,Premium / Best Customers
+10542,5512,2023-08-05,Watch,2,49649.12,Credit Card,Bangalore,Karnataka,Accessories,99298.24,8,5,2023,8,5,Saturday,29789.47,Loyal Customers,Loyal Customers
+10543,5400,2023-03-02,Camera,1,22126.06,Net Banking,Chennai,Tamil Nadu,Electronics,22126.06,9,4,2023,3,2,Thursday,6637.82,At Risk / Low Value,At Risk / Low Value
+10544,5654,2023-04-14,Jeans,4,21415.69,UPI,Mumbai,Maharashtra,Fashion,85662.76,4,2,2023,4,14,Friday,25698.83,Potential Customers,Potential Customers
+10545,5972,2023-02-11,Tablet,4,18358.0,UPI,Hyderabad,Telangana,Electronics,73432.0,8,1,2023,2,11,Saturday,22029.6,Premium / Best Customers,Premium / Best Customers
+10546,5883,2023-01-25,Backpack,3,58529.78,Debit Card,Pune,Maharashtra,Accessories,175589.34,6,3,2023,1,25,Wednesday,52676.8,Premium / Best Customers,Premium / Best Customers
+10547,5471,2023-02-08,Backpack,4,10455.89,Credit Card,Bangalore,Karnataka,Accessories,41823.56,3,5,2023,2,8,Wednesday,12547.07,Loyal Customers,Loyal Customers
+10548,5143,2023-10-18,Tablet,2,53924.81,Debit Card,Kolkata,West Bengal,Electronics,107849.62,9,3,2023,10,18,Wednesday,32354.89,Loyal Customers,Loyal Customers
+10549,5092,2023-05-11,Laptop,3,46675.16,Credit Card,Chennai,Tamil Nadu,Electronics,140025.48,2,1,2023,5,11,Thursday,42007.64,Loyal Customers,Loyal Customers
+10550,5354,2023-08-17,Jeans,4,4865.85,COD,Mumbai,Maharashtra,Fashion,19463.4,7,5,2023,8,17,Thursday,5839.02,At Risk / Low Value,At Risk / Low Value
+10551,5834,2023-04-18,Headphones,2,59207.73,Debit Card,Hyderabad,Telangana,Electronics,118415.46,9,3,2023,4,18,Tuesday,35524.64,Potential Customers,Potential Customers
+10552,5800,2023-06-21,Laptop,4,16500.55,Debit Card,Chennai,Tamil Nadu,Electronics,66002.2,5,1,2023,6,21,Wednesday,19800.66,Loyal Customers,Loyal Customers
+10553,5727,2023-04-12,Shoes,4,6185.4,Net Banking,Pune,Maharashtra,Fashion,24741.6,9,3,2023,4,12,Wednesday,7422.48,Loyal Customers,Loyal Customers
+10554,5959,2023-12-20,Tablet,1,49810.06,Debit Card,Pune,Maharashtra,Electronics,49810.06,3,2,2023,12,20,Wednesday,14943.02,Premium / Best Customers,Premium / Best Customers
+10555,5854,2023-01-12,Headphones,4,42488.53,Credit Card,Hyderabad,Telangana,Electronics,169954.12,9,1,2023,1,12,Thursday,50986.24,Premium / Best Customers,Premium / Best Customers
+10556,5051,2023-10-02,Backpack,4,37147.96,Net Banking,Bangalore,Karnataka,Accessories,148591.84,9,3,2023,10,2,Monday,44577.55,Premium / Best Customers,Premium / Best Customers
+10557,5665,2023-04-11,Mobile,2,9612.06,Debit Card,Pune,Maharashtra,Electronics,19224.12,6,2,2023,4,11,Tuesday,5767.24,At Risk / Low Value,At Risk / Low Value
+10558,5698,2023-02-13,Camera,2,28866.22,Debit Card,Mumbai,Maharashtra,Electronics,57732.44,8,2,2023,2,13,Monday,17319.73,Loyal Customers,Loyal Customers
+10559,5575,2023-11-01,Backpack,1,46899.19,COD,Chennai,Tamil Nadu,Accessories,46899.19,7,1,2023,11,1,Wednesday,14069.76,Premium / Best Customers,Premium / Best Customers
+10560,5190,2023-01-17,Jeans,4,18426.35,Debit Card,Mumbai,Maharashtra,Fashion,73705.4,4,4,2023,1,17,Tuesday,22111.62,Premium / Best Customers,Premium / Best Customers
+10561,5125,2023-11-26,Watch,1,18907.88,UPI,Bangalore,Karnataka,Accessories,18907.88,2,5,2023,11,26,Sunday,5672.36,Potential Customers,Potential Customers
+10562,5150,2023-02-26,Mobile,4,487.51,Net Banking,Mumbai,Maharashtra,Electronics,1950.04,4,1,2023,2,26,Sunday,585.01,At Risk / Low Value,At Risk / Low Value
+10563,5314,2023-11-07,Camera,3,10702.33,UPI,Mumbai,Maharashtra,Electronics,32106.99,9,2,2023,11,7,Tuesday,9632.1,Loyal Customers,Loyal Customers
+10564,5570,2023-10-30,Camera,3,52561.72,Net Banking,Delhi,Delhi,Electronics,157685.16,5,2,2023,10,30,Monday,47305.55,Premium / Best Customers,Premium / Best Customers
+10565,5342,2023-01-12,Shoes,1,26672.27,COD,Mumbai,Maharashtra,Fashion,26672.27,3,1,2023,1,12,Thursday,8001.68,Loyal Customers,Loyal Customers
+10566,5305,2023-11-14,Shoes,1,59058.8,Debit Card,Hyderabad,Telangana,Fashion,59058.8,7,4,2023,11,14,Tuesday,17717.64,Loyal Customers,Loyal Customers
+10567,5692,2023-03-21,Shirt,1,23923.77,Debit Card,Chennai,Tamil Nadu,Fashion,23923.77,3,5,2023,3,21,Tuesday,7177.13,Loyal Customers,Loyal Customers
+10568,5682,2023-08-04,Backpack,2,42996.63,Debit Card,Delhi,Delhi,Accessories,85993.26,6,3,2023,8,4,Friday,25797.98,Premium / Best Customers,Premium / Best Customers
+10569,5838,2023-12-05,Backpack,2,17130.57,Net Banking,Chennai,Tamil Nadu,Accessories,34261.14,3,1,2023,12,5,Tuesday,10278.34,Premium / Best Customers,Premium / Best Customers
+10570,5783,2023-09-21,Backpack,2,22019.44,Debit Card,Chennai,Tamil Nadu,Accessories,44038.88,2,5,2023,9,21,Thursday,13211.66,Loyal Customers,Loyal Customers
+10571,5054,2023-05-29,Shirt,1,11686.34,UPI,Bangalore,Karnataka,Fashion,11686.34,5,5,2023,5,29,Monday,3505.9,Premium / Best Customers,Premium / Best Customers
+10572,5444,2023-03-22,Laptop,4,21019.62,Debit Card,Bangalore,Karnataka,Electronics,84078.48,4,2,2023,3,22,Wednesday,25223.54,Potential Customers,Potential Customers
+10573,5613,2023-08-03,Camera,3,32970.08,COD,Delhi,Delhi,Electronics,98910.24,9,3,2023,8,3,Thursday,29673.07,Premium / Best Customers,Premium / Best Customers
+10574,5993,2023-07-17,Mobile,1,59508.84,UPI,Pune,Maharashtra,Electronics,59508.84,9,1,2023,7,17,Monday,17852.65,Premium / Best Customers,Premium / Best Customers
+10575,5264,2023-07-19,Jeans,2,39952.84,Debit Card,Kolkata,West Bengal,Fashion,79905.68,5,2,2023,7,19,Wednesday,23971.7,At Risk / Low Value,At Risk / Low Value
+10576,5053,2023-01-25,Camera,2,12194.98,Debit Card,Bangalore,Karnataka,Electronics,24389.96,7,2,2023,1,25,Wednesday,7316.99,Premium / Best Customers,Premium / Best Customers
+10577,5572,2023-03-30,Shoes,1,2984.2,Credit Card,Kolkata,West Bengal,Fashion,2984.2,3,4,2023,3,30,Thursday,895.26,Loyal Customers,Loyal Customers
+10578,5620,2023-09-25,Headphones,1,7843.48,Net Banking,Bangalore,Karnataka,Electronics,7843.48,7,5,2023,9,25,Monday,2353.04,Loyal Customers,Loyal Customers
+10579,5005,2023-05-23,Watch,2,33884.55,UPI,Bangalore,Karnataka,Accessories,67769.1,4,1,2023,5,23,Tuesday,20330.73,Premium / Best Customers,Premium / Best Customers
+10580,5103,2023-02-28,Shirt,4,45980.07,Credit Card,Chennai,Tamil Nadu,Fashion,183920.28,7,1,2023,2,28,Tuesday,55176.08,Premium / Best Customers,Premium / Best Customers
+10581,5196,2023-12-31,Tablet,2,56443.03,COD,Delhi,Delhi,Electronics,112886.06,6,1,2023,12,31,Sunday,33865.82,Loyal Customers,Loyal Customers
+10582,5774,2023-01-26,Headphones,2,1244.64,Net Banking,Chennai,Tamil Nadu,Electronics,2489.28,5,2,2023,1,26,Thursday,746.78,Potential Customers,Potential Customers
+10583,5877,2023-02-16,Jeans,1,31508.78,UPI,Hyderabad,Telangana,Fashion,31508.78,4,4,2023,2,16,Thursday,9452.63,Potential Customers,Potential Customers
+10584,5992,2023-10-15,Backpack,4,28410.78,Debit Card,Chennai,Tamil Nadu,Accessories,113643.12,4,3,2023,10,15,Sunday,34092.94,Loyal Customers,Loyal Customers
+10585,5884,2023-09-23,Shoes,2,39466.48,UPI,Kolkata,West Bengal,Fashion,78932.96,8,2,2023,9,23,Saturday,23679.89,Premium / Best Customers,Premium / Best Customers
+10586,5350,2023-01-16,Shoes,2,33706.86,Debit Card,Kolkata,West Bengal,Fashion,67413.72,4,3,2023,1,16,Monday,20224.12,Premium / Best Customers,Premium / Best Customers
+10587,5047,2023-07-18,Shoes,3,41316.24,Net Banking,Hyderabad,Telangana,Fashion,123948.72,8,4,2023,7,18,Tuesday,37184.62,Premium / Best Customers,Premium / Best Customers
+10588,5867,2023-10-09,Backpack,1,39587.53,Debit Card,Mumbai,Maharashtra,Accessories,39587.53,2,5,2023,10,9,Monday,11876.26,Premium / Best Customers,Premium / Best Customers
+10589,5823,2023-03-27,Tablet,3,7285.6,COD,Mumbai,Maharashtra,Electronics,21856.8,9,1,2023,3,27,Monday,6557.04,Potential Customers,Potential Customers
+10590,5936,2023-09-07,Shirt,3,48043.16,Debit Card,Hyderabad,Telangana,Fashion,144129.48,8,3,2023,9,7,Thursday,43238.84,Premium / Best Customers,Premium / Best Customers
+10591,5820,2023-09-27,Headphones,2,7656.98,COD,Hyderabad,Telangana,Electronics,15313.96,5,2,2023,9,27,Wednesday,4594.19,Loyal Customers,Loyal Customers
+10592,5656,2023-12-01,Backpack,1,42002.28,Net Banking,Chennai,Tamil Nadu,Accessories,42002.28,7,3,2023,12,1,Friday,12600.68,Premium / Best Customers,Premium / Best Customers
+10593,5269,2023-04-27,Jeans,4,25143.88,Net Banking,Hyderabad,Telangana,Fashion,100575.52,8,5,2023,4,27,Thursday,30172.66,At Risk / Low Value,At Risk / Low Value
+10594,5370,2023-01-07,Shirt,2,30976.89,UPI,Delhi,Delhi,Fashion,61953.78,4,1,2023,1,7,Saturday,18586.13,At Risk / Low Value,At Risk / Low Value
+10595,5636,2023-05-17,Jeans,4,54226.89,COD,Mumbai,Maharashtra,Fashion,216907.56,5,3,2023,5,17,Wednesday,65072.27,Loyal Customers,Loyal Customers
+10596,5106,2023-06-25,Shirt,4,53426.06,COD,Mumbai,Maharashtra,Fashion,213704.24,8,5,2023,6,25,Sunday,64111.27,Premium / Best Customers,Premium / Best Customers
+10597,5670,2023-11-24,Tablet,1,49126.02,Credit Card,Pune,Maharashtra,Electronics,49126.02,8,2,2023,11,24,Friday,14737.81,Premium / Best Customers,Premium / Best Customers
+10598,5659,2023-11-11,Watch,3,30755.86,Credit Card,Hyderabad,Telangana,Accessories,92267.58,4,4,2023,11,11,Saturday,27680.27,Premium / Best Customers,Premium / Best Customers
+10599,5657,2023-08-03,Jeans,1,44253.52,Credit Card,Bangalore,Karnataka,Fashion,44253.52,6,2,2023,8,3,Thursday,13276.06,Loyal Customers,Loyal Customers
+10600,5120,2023-03-23,Backpack,4,30919.95,Debit Card,Bangalore,Karnataka,Accessories,123679.8,6,1,2023,3,23,Thursday,37103.94,Premium / Best Customers,Premium / Best Customers
+10601,5831,2023-08-11,Shirt,2,52215.48,Credit Card,Hyderabad,Telangana,Fashion,104430.96,8,2,2023,8,11,Friday,31329.29,Loyal Customers,Loyal Customers
+10602,5787,2023-04-13,Shoes,4,24345.72,COD,Delhi,Delhi,Fashion,97382.88,6,2,2023,4,13,Thursday,29214.86,Premium / Best Customers,Premium / Best Customers
+10603,5604,2023-09-30,Camera,2,58223.05,Debit Card,Bangalore,Karnataka,Electronics,116446.1,3,2,2023,9,30,Saturday,34933.83,Loyal Customers,Loyal Customers
+10604,5058,2023-01-14,Shoes,2,55959.67,Net Banking,Pune,Maharashtra,Fashion,111919.34,4,2,2023,1,14,Saturday,33575.8,Premium / Best Customers,Premium / Best Customers
+10605,5951,2023-06-08,Laptop,1,44573.68,UPI,Kolkata,West Bengal,Electronics,44573.68,3,1,2023,6,8,Thursday,13372.1,Potential Customers,Potential Customers
+10606,5346,2023-06-01,Watch,4,16981.13,Credit Card,Hyderabad,Telangana,Accessories,67924.52,5,5,2023,6,1,Thursday,20377.36,Premium / Best Customers,Premium / Best Customers
+10607,5741,2023-04-18,Watch,3,8159.72,Net Banking,Delhi,Delhi,Accessories,24479.16,3,3,2023,4,18,Tuesday,7343.75,At Risk / Low Value,At Risk / Low Value
+10608,5474,2023-07-07,Shoes,4,51325.8,COD,Delhi,Delhi,Fashion,205303.2,5,4,2023,7,7,Friday,61590.96,Premium / Best Customers,Premium / Best Customers
+10609,5117,2023-10-28,Headphones,4,10168.55,UPI,Chennai,Tamil Nadu,Electronics,40674.2,8,3,2023,10,28,Saturday,12202.26,Loyal Customers,Loyal Customers
+10610,5830,2023-04-08,Tablet,3,51299.37,Net Banking,Delhi,Delhi,Electronics,153898.11,5,3,2023,4,8,Saturday,46169.43,Loyal Customers,Loyal Customers
+10611,5791,2023-05-11,Jeans,1,29598.67,UPI,Bangalore,Karnataka,Fashion,29598.67,5,4,2023,5,11,Thursday,8879.6,At Risk / Low Value,At Risk / Low Value
+10612,5127,2023-10-20,Backpack,4,24571.44,Credit Card,Kolkata,West Bengal,Accessories,98285.76,7,1,2023,10,20,Friday,29485.73,Potential Customers,Potential Customers
+10613,5393,2023-06-20,Watch,4,54220.49,COD,Bangalore,Karnataka,Accessories,216881.96,3,4,2023,6,20,Tuesday,65064.59,Premium / Best Customers,Premium / Best Customers
+10614,5908,2023-07-02,Shoes,2,36349.9,UPI,Hyderabad,Telangana,Fashion,72699.8,7,1,2023,7,2,Sunday,21809.94,Loyal Customers,Loyal Customers
+10615,5641,2023-12-30,Shoes,4,34723.86,Net Banking,Kolkata,West Bengal,Fashion,138895.44,8,3,2023,12,30,Saturday,41668.63,Premium / Best Customers,Premium / Best Customers
+10616,5058,2023-02-08,Tablet,3,33658.33,Credit Card,Hyderabad,Telangana,Electronics,100974.99,4,1,2023,2,8,Wednesday,30292.5,Premium / Best Customers,Premium / Best Customers
+10617,5634,2023-01-15,Tablet,2,22458.82,Credit Card,Delhi,Delhi,Electronics,44917.64,3,5,2023,1,15,Sunday,13475.29,Premium / Best Customers,Premium / Best Customers
+10618,5513,2023-01-04,Mobile,1,47202.89,Net Banking,Pune,Maharashtra,Electronics,47202.89,4,4,2023,1,4,Wednesday,14160.87,Premium / Best Customers,Premium / Best Customers
+10619,5751,2023-12-15,Mobile,2,15392.07,Net Banking,Mumbai,Maharashtra,Electronics,30784.14,4,5,2023,12,15,Friday,9235.24,Loyal Customers,Loyal Customers
+10620,5802,2023-07-29,Headphones,3,56352.03,UPI,Kolkata,West Bengal,Electronics,169056.09,5,3,2023,7,29,Saturday,50716.83,Loyal Customers,Loyal Customers
+10621,5096,2023-06-10,Headphones,3,53670.92,Debit Card,Chennai,Tamil Nadu,Electronics,161012.76,9,4,2023,6,10,Saturday,48303.83,Premium / Best Customers,Premium / Best Customers
+10622,5638,2023-01-16,Laptop,2,20447.58,Credit Card,Mumbai,Maharashtra,Electronics,40895.16,3,3,2023,1,16,Monday,12268.55,Premium / Best Customers,Premium / Best Customers
+10623,5118,2023-04-18,Headphones,1,43848.99,UPI,Delhi,Delhi,Electronics,43848.99,4,5,2023,4,18,Tuesday,13154.7,Potential Customers,Potential Customers
+10624,5560,2023-11-07,Shirt,2,34521.42,Net Banking,Delhi,Delhi,Fashion,69042.84,9,3,2023,11,7,Tuesday,20712.85,Potential Customers,Potential Customers
+10625,5601,2023-08-15,Tablet,1,20457.66,UPI,Mumbai,Maharashtra,Electronics,20457.66,6,4,2023,8,15,Tuesday,6137.3,Loyal Customers,Loyal Customers
+10626,5488,2023-06-19,Backpack,2,59314.74,Net Banking,Chennai,Tamil Nadu,Accessories,118629.48,4,4,2023,6,19,Monday,35588.84,Loyal Customers,Loyal Customers
+10627,5237,2023-02-03,Shirt,3,1806.67,COD,Kolkata,West Bengal,Fashion,5420.01,6,3,2023,2,3,Friday,1626.0,At Risk / Low Value,At Risk / Low Value
+10628,5885,2023-09-08,Jeans,4,15382.97,Net Banking,Kolkata,West Bengal,Fashion,61531.88,3,4,2023,9,8,Friday,18459.56,Premium / Best Customers,Premium / Best Customers
+10629,5897,2023-09-04,Shoes,4,31348.42,Net Banking,Mumbai,Maharashtra,Fashion,125393.68,8,4,2023,9,4,Monday,37618.1,Premium / Best Customers,Premium / Best Customers
+10630,5272,2023-09-26,Headphones,1,31460.59,Net Banking,Hyderabad,Telangana,Electronics,31460.59,7,3,2023,9,26,Tuesday,9438.18,At Risk / Low Value,At Risk / Low Value
+10631,5189,2023-05-21,Shoes,1,35459.3,Debit Card,Bangalore,Karnataka,Fashion,35459.3,3,5,2023,5,21,Sunday,10637.79,At Risk / Low Value,At Risk / Low Value
+10632,5999,2023-10-01,Watch,1,45175.07,Net Banking,Pune,Maharashtra,Accessories,45175.07,7,4,2023,10,1,Sunday,13552.52,Loyal Customers,Loyal Customers
+10633,5704,2023-04-06,Laptop,3,37521.63,Credit Card,Hyderabad,Telangana,Electronics,112564.89,7,4,2023,4,6,Thursday,33769.47,Premium / Best Customers,Premium / Best Customers
+10634,5447,2023-08-15,Watch,2,36136.8,Credit Card,Kolkata,West Bengal,Accessories,72273.6,3,4,2023,8,15,Tuesday,21682.08,Loyal Customers,Loyal Customers
+10635,5581,2023-02-08,Laptop,3,3494.81,UPI,Bangalore,Karnataka,Electronics,10484.43,4,4,2023,2,8,Wednesday,3145.33,At Risk / Low Value,At Risk / Low Value
+10636,5790,2023-10-29,Mobile,4,22778.86,Debit Card,Pune,Maharashtra,Electronics,91115.44,2,3,2023,10,29,Sunday,27334.63,Loyal Customers,Loyal Customers
+10637,5861,2023-01-29,Shoes,1,14153.73,UPI,Pune,Maharashtra,Fashion,14153.73,4,5,2023,1,29,Sunday,4246.12,Premium / Best Customers,Premium / Best Customers
+10638,5247,2023-11-14,Laptop,2,16142.6,Credit Card,Pune,Maharashtra,Electronics,32285.2,4,5,2023,11,14,Tuesday,9685.56,Loyal Customers,Loyal Customers
+10639,5963,2023-09-02,Camera,4,33393.95,Credit Card,Delhi,Delhi,Electronics,133575.8,8,1,2023,9,2,Saturday,40072.74,Premium / Best Customers,Premium / Best Customers
+10640,5076,2023-08-24,Shirt,4,12210.47,COD,Pune,Maharashtra,Fashion,48841.88,5,4,2023,8,24,Thursday,14652.56,Potential Customers,Potential Customers
+10641,5154,2023-07-04,Laptop,4,17848.76,Net Banking,Chennai,Tamil Nadu,Electronics,71395.04,5,4,2023,7,4,Tuesday,21418.51,Loyal Customers,Loyal Customers
+10642,5656,2023-09-29,Laptop,3,14453.96,Credit Card,Mumbai,Maharashtra,Electronics,43361.88,4,1,2023,9,29,Friday,13008.56,Premium / Best Customers,Premium / Best Customers
+10643,5435,2023-08-24,Shirt,1,56925.63,UPI,Kolkata,West Bengal,Fashion,56925.63,6,5,2023,8,24,Thursday,17077.69,Loyal Customers,Loyal Customers
+10644,5997,2023-08-27,Shoes,4,56696.54,UPI,Chennai,Tamil Nadu,Fashion,226786.16,8,2,2023,8,27,Sunday,68035.85,Premium / Best Customers,Premium / Best Customers
+10645,5086,2023-09-23,Shoes,1,36713.51,Net Banking,Mumbai,Maharashtra,Fashion,36713.51,7,2,2023,9,23,Saturday,11014.05,Loyal Customers,Loyal Customers
+10646,5697,2023-12-25,Shirt,3,55493.99,Net Banking,Hyderabad,Telangana,Fashion,166481.97,9,5,2023,12,25,Monday,49944.59,Loyal Customers,Loyal Customers
+10647,5285,2023-12-06,Watch,4,47213.01,COD,Hyderabad,Telangana,Accessories,188852.04,5,4,2023,12,6,Wednesday,56655.61,Premium / Best Customers,Premium / Best Customers
+10648,5974,2023-03-06,Camera,3,35519.89,Debit Card,Mumbai,Maharashtra,Electronics,106559.67,4,2,2023,3,6,Monday,31967.9,Potential Customers,Potential Customers
+10649,5220,2023-06-26,Backpack,3,684.18,UPI,Chennai,Tamil Nadu,Accessories,2052.54,8,3,2023,6,26,Monday,615.76,Premium / Best Customers,Premium / Best Customers
+10650,5069,2023-01-03,Jeans,1,46419.22,Net Banking,Mumbai,Maharashtra,Fashion,46419.22,2,3,2023,1,3,Tuesday,13925.77,Premium / Best Customers,Premium / Best Customers
+10651,5047,2023-05-22,Camera,4,42238.55,UPI,Pune,Maharashtra,Electronics,168954.2,6,1,2023,5,22,Monday,50686.26,Premium / Best Customers,Premium / Best Customers
+10652,5094,2023-06-07,Shoes,3,37030.64,Net Banking,Delhi,Delhi,Fashion,111091.92,3,5,2023,6,7,Wednesday,33327.58,Potential Customers,Potential Customers
+10653,5750,2023-11-20,Backpack,4,45697.33,Credit Card,Kolkata,West Bengal,Accessories,182789.32,4,5,2023,11,20,Monday,54836.8,Premium / Best Customers,Premium / Best Customers
+10654,5958,2023-05-26,Mobile,1,30921.45,UPI,Hyderabad,Telangana,Electronics,30921.45,8,2,2023,5,26,Friday,9276.44,Premium / Best Customers,Premium / Best Customers
+10655,5453,2023-10-20,Headphones,3,42333.77,Credit Card,Kolkata,West Bengal,Electronics,127001.31,4,4,2023,10,20,Friday,38100.39,Premium / Best Customers,Premium / Best Customers
+10656,5204,2023-06-02,Laptop,1,56129.77,UPI,Delhi,Delhi,Electronics,56129.77,9,5,2023,6,2,Friday,16838.93,At Risk / Low Value,At Risk / Low Value
+10657,5912,2023-07-12,Shirt,4,22735.56,Debit Card,Pune,Maharashtra,Fashion,90942.24,7,2,2023,7,12,Wednesday,27282.67,Loyal Customers,Loyal Customers
+10658,5218,2023-03-14,Shirt,4,42574.87,COD,Pune,Maharashtra,Fashion,170299.48,6,2,2023,3,14,Tuesday,51089.84,Loyal Customers,Loyal Customers
+10659,5474,2023-11-01,Laptop,1,28698.56,Credit Card,Hyderabad,Telangana,Electronics,28698.56,5,5,2023,11,1,Wednesday,8609.57,Premium / Best Customers,Premium / Best Customers
+10660,5432,2023-12-10,Headphones,2,40561.66,Net Banking,Hyderabad,Telangana,Electronics,81123.32,5,2,2023,12,10,Sunday,24337.0,Loyal Customers,Loyal Customers
+10661,5341,2023-05-20,Jeans,3,45844.73,Debit Card,Pune,Maharashtra,Fashion,137534.19,5,1,2023,5,20,Saturday,41260.26,Potential Customers,Potential Customers
+10662,5551,2023-07-06,Headphones,4,3013.51,UPI,Bangalore,Karnataka,Electronics,12054.04,9,1,2023,7,6,Thursday,3616.21,Premium / Best Customers,Premium / Best Customers
+10663,5612,2023-10-20,Backpack,4,38902.05,Credit Card,Kolkata,West Bengal,Accessories,155608.2,3,5,2023,10,20,Friday,46682.46,Premium / Best Customers,Premium / Best Customers
+10664,5289,2023-03-02,Headphones,3,13836.45,UPI,Delhi,Delhi,Electronics,41509.35,8,4,2023,3,2,Thursday,12452.8,Potential Customers,Potential Customers
+10665,5254,2023-07-17,Backpack,1,40300.94,UPI,Kolkata,West Bengal,Accessories,40300.94,6,1,2023,7,17,Monday,12090.28,Loyal Customers,Loyal Customers
+10666,5734,2023-10-22,Headphones,1,28259.31,UPI,Delhi,Delhi,Electronics,28259.31,6,1,2023,10,22,Sunday,8477.79,Premium / Best Customers,Premium / Best Customers
+10667,5357,2023-11-15,Jeans,1,46481.1,COD,Bangalore,Karnataka,Fashion,46481.1,5,5,2023,11,15,Wednesday,13944.33,Potential Customers,Potential Customers
+10668,5023,2023-10-29,Jeans,2,7667.03,COD,Chennai,Tamil Nadu,Fashion,15334.06,5,3,2023,10,29,Sunday,4600.22,Premium / Best Customers,Premium / Best Customers
+10669,5762,2023-12-10,Shoes,2,37691.44,Net Banking,Delhi,Delhi,Fashion,75382.88,7,2,2023,12,10,Sunday,22614.86,Premium / Best Customers,Premium / Best Customers
+10670,5522,2023-01-11,Laptop,4,16924.7,Credit Card,Kolkata,West Bengal,Electronics,67698.8,9,1,2023,1,11,Wednesday,20309.64,At Risk / Low Value,At Risk / Low Value
+10671,5758,2023-03-03,Jeans,1,51223.03,Debit Card,Mumbai,Maharashtra,Fashion,51223.03,2,3,2023,3,3,Friday,15366.91,At Risk / Low Value,At Risk / Low Value
+10672,5837,2023-11-29,Backpack,3,55724.5,Debit Card,Pune,Maharashtra,Accessories,167173.5,2,4,2023,11,29,Wednesday,50152.05,Premium / Best Customers,Premium / Best Customers
+10673,5100,2023-08-14,Jeans,4,59784.98,Debit Card,Pune,Maharashtra,Fashion,239139.92,4,3,2023,8,14,Monday,71741.98,Loyal Customers,Loyal Customers
+10674,5802,2023-06-02,Shoes,3,47821.64,UPI,Bangalore,Karnataka,Fashion,143464.92,4,5,2023,6,2,Friday,43039.48,Loyal Customers,Loyal Customers
+10675,5180,2023-07-18,Shirt,4,45297.92,COD,Delhi,Delhi,Fashion,181191.68,6,4,2023,7,18,Tuesday,54357.5,Potential Customers,Potential Customers
+10676,5223,2023-02-21,Backpack,2,13165.4,Credit Card,Chennai,Tamil Nadu,Accessories,26330.8,6,4,2023,2,21,Tuesday,7899.24,Loyal Customers,Loyal Customers
+10677,5906,2023-09-17,Shoes,4,20359.62,UPI,Delhi,Delhi,Fashion,81438.48,3,3,2023,9,17,Sunday,24431.54,Potential Customers,Potential Customers
+10678,5762,2023-02-28,Watch,2,28101.25,COD,Pune,Maharashtra,Accessories,56202.5,3,5,2023,2,28,Tuesday,16860.75,Premium / Best Customers,Premium / Best Customers
+10679,5659,2023-03-13,Watch,4,46470.85,COD,Hyderabad,Telangana,Accessories,185883.4,2,1,2023,3,13,Monday,55765.02,Premium / Best Customers,Premium / Best Customers
+10680,5442,2023-05-28,Mobile,1,54923.46,Credit Card,Mumbai,Maharashtra,Electronics,54923.46,9,3,2023,5,28,Sunday,16477.04,Loyal Customers,Loyal Customers
+10681,5608,2023-12-15,Headphones,3,11591.6,Credit Card,Bangalore,Karnataka,Electronics,34774.8,4,1,2023,12,15,Friday,10432.44,Loyal Customers,Loyal Customers
+10682,5769,2023-03-04,Laptop,1,55365.34,Credit Card,Hyderabad,Telangana,Electronics,55365.34,2,3,2023,3,4,Saturday,16609.6,Potential Customers,Potential Customers
+10683,5325,2023-11-06,Tablet,4,41828.79,UPI,Kolkata,West Bengal,Electronics,167315.16,9,1,2023,11,6,Monday,50194.55,Loyal Customers,Loyal Customers
+10684,5516,2023-08-31,Camera,4,36763.01,Net Banking,Chennai,Tamil Nadu,Electronics,147052.04,2,3,2023,8,31,Thursday,44115.61,Loyal Customers,Loyal Customers
+10685,5016,2023-11-26,Shoes,4,12230.52,Credit Card,Hyderabad,Telangana,Fashion,48922.08,4,4,2023,11,26,Sunday,14676.62,Potential Customers,Potential Customers
+10686,5792,2023-04-17,Shirt,2,3614.84,Net Banking,Kolkata,West Bengal,Fashion,7229.68,8,2,2023,4,17,Monday,2168.9,Loyal Customers,Loyal Customers
+10687,5336,2023-08-14,Camera,3,34237.35,UPI,Hyderabad,Telangana,Electronics,102712.05,3,4,2023,8,14,Monday,30813.62,Potential Customers,Potential Customers
+10688,5759,2023-11-09,Shirt,3,39195.49,Net Banking,Chennai,Tamil Nadu,Fashion,117586.47,7,1,2023,11,9,Thursday,35275.94,Premium / Best Customers,Premium / Best Customers
+10689,5258,2023-08-06,Camera,4,12883.65,Debit Card,Hyderabad,Telangana,Electronics,51534.6,7,5,2023,8,6,Sunday,15460.38,Potential Customers,Potential Customers
+10690,5497,2023-08-29,Shoes,4,33520.44,Net Banking,Bangalore,Karnataka,Fashion,134081.76,7,4,2023,8,29,Tuesday,40224.53,Premium / Best Customers,Premium / Best Customers
+10691,5988,2023-09-16,Tablet,2,51432.66,Credit Card,Pune,Maharashtra,Electronics,102865.32,4,2,2023,9,16,Saturday,30859.6,Premium / Best Customers,Premium / Best Customers
+10692,5896,2023-09-19,Camera,1,50153.44,UPI,Delhi,Delhi,Electronics,50153.44,5,1,2023,9,19,Tuesday,15046.03,Premium / Best Customers,Premium / Best Customers
+10693,5160,2023-01-05,Shoes,1,55663.1,Credit Card,Hyderabad,Telangana,Fashion,55663.1,5,4,2023,1,5,Thursday,16698.93,Premium / Best Customers,Premium / Best Customers
+10694,5475,2023-09-18,Jeans,3,22143.38,Debit Card,Bangalore,Karnataka,Fashion,66430.14,5,3,2023,9,18,Monday,19929.04,Premium / Best Customers,Premium / Best Customers
+10695,5852,2023-02-23,Tablet,2,19287.56,Credit Card,Delhi,Delhi,Electronics,38575.12,6,5,2023,2,23,Thursday,11572.54,Premium / Best Customers,Premium / Best Customers
+10696,5664,2023-02-16,Backpack,4,45040.73,Credit Card,Kolkata,West Bengal,Accessories,180162.92,3,1,2023,2,16,Thursday,54048.88,Premium / Best Customers,Premium / Best Customers
+10697,5908,2023-08-03,Shirt,3,26037.41,Credit Card,Delhi,Delhi,Fashion,78112.23,3,4,2023,8,3,Thursday,23433.67,Loyal Customers,Loyal Customers
+10698,5690,2023-06-26,Watch,2,5526.66,COD,Kolkata,West Bengal,Accessories,11053.32,8,1,2023,6,26,Monday,3316.0,At Risk / Low Value,At Risk / Low Value
+10699,5675,2023-01-09,Headphones,1,17183.23,Debit Card,Hyderabad,Telangana,Electronics,17183.23,8,3,2023,1,9,Monday,5154.97,Premium / Best Customers,Premium / Best Customers
+10700,5380,2023-04-09,Watch,2,25289.36,Credit Card,Bangalore,Karnataka,Accessories,50578.72,6,2,2023,4,9,Sunday,15173.62,Potential Customers,Potential Customers
+10701,5545,2023-01-20,Tablet,1,17763.23,Credit Card,Pune,Maharashtra,Electronics,17763.23,2,4,2023,1,20,Friday,5328.97,At Risk / Low Value,At Risk / Low Value
+10702,5929,2023-08-29,Backpack,2,20132.67,Credit Card,Hyderabad,Telangana,Accessories,40265.34,9,1,2023,8,29,Tuesday,12079.6,Premium / Best Customers,Premium / Best Customers
+10703,5957,2023-03-02,Shirt,3,17838.42,UPI,Kolkata,West Bengal,Fashion,53515.26,8,1,2023,3,2,Thursday,16054.58,Loyal Customers,Loyal Customers
+10704,5691,2023-06-27,Backpack,1,2777.5,COD,Chennai,Tamil Nadu,Accessories,2777.5,7,1,2023,6,27,Tuesday,833.25,Potential Customers,Potential Customers
+10705,5427,2023-12-04,Camera,3,38334.55,UPI,Delhi,Delhi,Electronics,115003.65,5,2,2023,12,4,Monday,34501.09,Loyal Customers,Loyal Customers
+10706,5613,2023-03-03,Shirt,3,35958.36,COD,Hyderabad,Telangana,Fashion,107875.08,7,1,2023,3,3,Friday,32362.52,Premium / Best Customers,Premium / Best Customers
+10707,5268,2023-05-25,Camera,1,39306.99,Credit Card,Kolkata,West Bengal,Electronics,39306.99,5,5,2023,5,25,Thursday,11792.1,Loyal Customers,Loyal Customers
+10708,5835,2023-08-04,Shoes,1,11780.9,Debit Card,Delhi,Delhi,Fashion,11780.9,7,5,2023,8,4,Friday,3534.27,Potential Customers,Potential Customers
+10709,5577,2023-01-03,Tablet,4,17950.58,Net Banking,Kolkata,West Bengal,Electronics,71802.32,2,1,2023,1,3,Tuesday,21540.7,At Risk / Low Value,At Risk / Low Value
+10710,5417,2023-06-09,Shoes,4,37291.07,Net Banking,Bangalore,Karnataka,Fashion,149164.28,9,5,2023,6,9,Friday,44749.28,Potential Customers,Potential Customers
+10711,5168,2023-08-15,Mobile,4,36097.77,Credit Card,Mumbai,Maharashtra,Electronics,144391.08,7,4,2023,8,15,Tuesday,43317.32,Loyal Customers,Loyal Customers
+10712,5842,2023-09-26,Backpack,3,30527.92,UPI,Hyderabad,Telangana,Accessories,91583.76,7,5,2023,9,26,Tuesday,27475.13,Loyal Customers,Loyal Customers
+10713,5043,2023-04-30,Camera,3,21219.67,Debit Card,Pune,Maharashtra,Electronics,63659.01,4,1,2023,4,30,Sunday,19097.7,Potential Customers,Potential Customers
+10714,5556,2023-03-30,Jeans,4,54801.98,COD,Hyderabad,Telangana,Fashion,219207.92,9,3,2023,3,30,Thursday,65762.38,Premium / Best Customers,Premium / Best Customers
+10715,5285,2023-11-25,Shoes,3,20584.28,Credit Card,Delhi,Delhi,Fashion,61752.84,7,4,2023,11,25,Saturday,18525.85,Premium / Best Customers,Premium / Best Customers
+10716,5397,2023-03-09,Mobile,3,27500.46,Debit Card,Bangalore,Karnataka,Electronics,82501.38,4,2,2023,3,9,Thursday,24750.41,Loyal Customers,Loyal Customers
+10717,5012,2023-12-23,Laptop,1,40783.4,Debit Card,Kolkata,West Bengal,Electronics,40783.4,3,1,2023,12,23,Saturday,12235.02,Premium / Best Customers,Premium / Best Customers
+10718,5607,2023-04-08,Watch,1,32718.38,COD,Chennai,Tamil Nadu,Accessories,32718.38,9,2,2023,4,8,Saturday,9815.51,Loyal Customers,Loyal Customers
+10719,5302,2023-09-24,Shirt,3,21009.09,Debit Card,Pune,Maharashtra,Fashion,63027.27,6,3,2023,9,24,Sunday,18908.18,Loyal Customers,Loyal Customers
+10720,5898,2023-04-15,Mobile,4,26307.99,UPI,Bangalore,Karnataka,Electronics,105231.96,9,2,2023,4,15,Saturday,31569.59,Premium / Best Customers,Premium / Best Customers
+10721,5253,2023-11-19,Tablet,2,47730.5,UPI,Hyderabad,Telangana,Electronics,95461.0,9,1,2023,11,19,Sunday,28638.3,Premium / Best Customers,Premium / Best Customers
+10722,5499,2023-05-03,Shoes,4,16904.31,UPI,Chennai,Tamil Nadu,Fashion,67617.24,7,1,2023,5,3,Wednesday,20285.17,Premium / Best Customers,Premium / Best Customers
+10723,5754,2023-01-29,Tablet,2,8792.64,Debit Card,Bangalore,Karnataka,Electronics,17585.28,3,3,2023,1,29,Sunday,5275.58,Loyal Customers,Loyal Customers
+10724,5035,2023-05-17,Watch,4,18995.84,UPI,Mumbai,Maharashtra,Accessories,75983.36,9,1,2023,5,17,Wednesday,22795.01,Loyal Customers,Loyal Customers
+10725,5727,2023-07-14,Jeans,1,51017.19,COD,Pune,Maharashtra,Fashion,51017.19,8,3,2023,7,14,Friday,15305.16,Loyal Customers,Loyal Customers
+10726,5849,2023-08-14,Backpack,3,5612.69,Debit Card,Delhi,Delhi,Accessories,16838.07,8,3,2023,8,14,Monday,5051.42,Potential Customers,Potential Customers
+10727,5090,2023-11-28,Backpack,3,59504.26,Net Banking,Bangalore,Karnataka,Accessories,178512.78,4,1,2023,11,28,Tuesday,53553.83,Premium / Best Customers,Premium / Best Customers
+10728,5776,2023-06-19,Tablet,1,32597.87,Debit Card,Bangalore,Karnataka,Electronics,32597.87,7,5,2023,6,19,Monday,9779.36,Premium / Best Customers,Premium / Best Customers
+10729,5605,2023-01-09,Camera,2,59095.29,COD,Mumbai,Maharashtra,Electronics,118190.58,7,3,2023,1,9,Monday,35457.17,Potential Customers,Potential Customers
+10730,5922,2023-02-09,Jeans,2,56358.09,Net Banking,Hyderabad,Telangana,Fashion,112716.18,9,1,2023,2,9,Thursday,33814.85,Loyal Customers,Loyal Customers
+10731,5970,2023-01-25,Backpack,2,27332.98,Debit Card,Kolkata,West Bengal,Accessories,54665.96,2,5,2023,1,25,Wednesday,16399.79,Potential Customers,Potential Customers
+10732,5602,2023-09-18,Jeans,1,12149.92,UPI,Kolkata,West Bengal,Fashion,12149.92,3,3,2023,9,18,Monday,3644.98,Potential Customers,Potential Customers
+10733,5418,2023-08-14,Mobile,2,10143.62,Credit Card,Pune,Maharashtra,Electronics,20287.24,5,5,2023,8,14,Monday,6086.17,Potential Customers,Potential Customers
+10734,5115,2023-05-04,Jeans,1,14627.37,Credit Card,Pune,Maharashtra,Fashion,14627.37,5,4,2023,5,4,Thursday,4388.21,At Risk / Low Value,At Risk / Low Value
+10735,5617,2023-02-07,Headphones,4,42694.92,UPI,Delhi,Delhi,Electronics,170779.68,2,4,2023,2,7,Tuesday,51233.9,Potential Customers,Potential Customers
+10736,5903,2023-11-24,Watch,4,16595.11,Credit Card,Bangalore,Karnataka,Accessories,66380.44,4,5,2023,11,24,Friday,19914.13,Loyal Customers,Loyal Customers
+10737,5196,2023-09-08,Backpack,1,20683.09,Credit Card,Chennai,Tamil Nadu,Accessories,20683.09,5,3,2023,9,8,Friday,6204.93,Loyal Customers,Loyal Customers
+10738,5826,2023-06-25,Jeans,3,27092.09,UPI,Bangalore,Karnataka,Fashion,81276.27,9,1,2023,6,25,Sunday,24382.88,Potential Customers,Potential Customers
+10739,5501,2023-03-31,Tablet,4,54819.99,UPI,Kolkata,West Bengal,Electronics,219279.96,5,2,2023,3,31,Friday,65783.99,Potential Customers,Potential Customers
+10740,5626,2023-02-06,Laptop,2,11606.79,Debit Card,Delhi,Delhi,Electronics,23213.58,8,1,2023,2,6,Monday,6964.07,Loyal Customers,Loyal Customers
+10741,5493,2023-11-12,Headphones,1,600.09,Debit Card,Bangalore,Karnataka,Electronics,600.09,8,2,2023,11,12,Sunday,180.03,Premium / Best Customers,Premium / Best Customers
+10742,5075,2023-06-25,Headphones,2,3887.76,UPI,Mumbai,Maharashtra,Electronics,7775.52,6,2,2023,6,25,Sunday,2332.66,Loyal Customers,Loyal Customers
+10743,5413,2023-10-11,Camera,2,54314.55,COD,Kolkata,West Bengal,Electronics,108629.1,3,3,2023,10,11,Wednesday,32588.73,Loyal Customers,Loyal Customers
+10744,5376,2023-03-22,Jeans,3,38956.73,Credit Card,Bangalore,Karnataka,Fashion,116870.19,4,5,2023,3,22,Wednesday,35061.06,At Risk / Low Value,At Risk / Low Value
+10745,5420,2023-04-24,Camera,2,16600.52,Debit Card,Bangalore,Karnataka,Electronics,33201.04,7,1,2023,4,24,Monday,9960.31,Potential Customers,Potential Customers
+10746,5729,2023-02-09,Camera,3,10878.39,Credit Card,Kolkata,West Bengal,Electronics,32635.17,3,5,2023,2,9,Thursday,9790.55,Loyal Customers,Loyal Customers
+10747,5277,2023-10-28,Laptop,4,17867.72,Net Banking,Chennai,Tamil Nadu,Electronics,71470.88,4,4,2023,10,28,Saturday,21441.26,Premium / Best Customers,Premium / Best Customers
+10748,5761,2023-08-12,Mobile,1,7153.38,UPI,Kolkata,West Bengal,Electronics,7153.38,5,3,2023,8,12,Saturday,2146.01,Premium / Best Customers,Premium / Best Customers
+10749,5676,2023-11-14,Jeans,2,56509.51,COD,Mumbai,Maharashtra,Fashion,113019.02,6,3,2023,11,14,Tuesday,33905.71,Premium / Best Customers,Premium / Best Customers
+10750,5394,2023-12-15,Shoes,1,47117.11,Net Banking,Mumbai,Maharashtra,Fashion,47117.11,3,4,2023,12,15,Friday,14135.13,Loyal Customers,Loyal Customers
+10751,5869,2023-04-25,Backpack,2,27904.75,Net Banking,Bangalore,Karnataka,Accessories,55809.5,5,1,2023,4,25,Tuesday,16742.85,Loyal Customers,Loyal Customers
+10752,5457,2023-07-05,Camera,1,51938.27,Net Banking,Pune,Maharashtra,Electronics,51938.27,4,4,2023,7,5,Wednesday,15581.48,Loyal Customers,Loyal Customers
+10753,5920,2023-11-19,Watch,2,15192.65,UPI,Chennai,Tamil Nadu,Accessories,30385.3,3,1,2023,11,19,Sunday,9115.59,Loyal Customers,Loyal Customers
+10754,5192,2023-02-25,Shirt,2,43112.1,Debit Card,Bangalore,Karnataka,Fashion,86224.2,7,2,2023,2,25,Saturday,25867.26,Premium / Best Customers,Premium / Best Customers
+10755,5739,2023-02-09,Watch,2,51411.11,UPI,Kolkata,West Bengal,Accessories,102822.22,3,3,2023,2,9,Thursday,30846.67,Loyal Customers,Loyal Customers
+10756,5689,2023-12-20,Laptop,2,21599.09,Debit Card,Bangalore,Karnataka,Electronics,43198.18,5,1,2023,12,20,Wednesday,12959.45,Premium / Best Customers,Premium / Best Customers
+10757,5099,2023-02-09,Laptop,2,45520.63,Net Banking,Delhi,Delhi,Electronics,91041.26,9,5,2023,2,9,Thursday,27312.38,Premium / Best Customers,Premium / Best Customers
+10758,5548,2023-12-13,Tablet,2,17915.82,Net Banking,Delhi,Delhi,Electronics,35831.64,9,5,2023,12,13,Wednesday,10749.49,Potential Customers,Potential Customers
+10759,5978,2023-08-25,Mobile,2,18141.77,COD,Pune,Maharashtra,Electronics,36283.54,3,3,2023,8,25,Friday,10885.06,Potential Customers,Potential Customers
+10760,5999,2023-10-16,Backpack,2,6691.31,Debit Card,Chennai,Tamil Nadu,Accessories,13382.62,7,4,2023,10,16,Monday,4014.79,Loyal Customers,Loyal Customers
+10761,5096,2023-09-19,Camera,2,26571.47,Net Banking,Hyderabad,Telangana,Electronics,53142.94,6,4,2023,9,19,Tuesday,15942.88,Premium / Best Customers,Premium / Best Customers
+10762,5664,2023-08-04,Watch,1,43863.8,Credit Card,Delhi,Delhi,Accessories,43863.8,6,1,2023,8,4,Friday,13159.14,Premium / Best Customers,Premium / Best Customers
+10763,5663,2023-05-27,Shirt,3,56431.18,COD,Hyderabad,Telangana,Fashion,169293.54,9,4,2023,5,27,Saturday,50788.06,Premium / Best Customers,Premium / Best Customers
+10764,5190,2023-12-02,Laptop,2,36346.68,UPI,Mumbai,Maharashtra,Electronics,72693.36,5,3,2023,12,2,Saturday,21808.01,Premium / Best Customers,Premium / Best Customers
+10765,5736,2023-06-17,Laptop,3,51829.19,COD,Delhi,Delhi,Electronics,155487.57,4,1,2023,6,17,Saturday,46646.27,Premium / Best Customers,Premium / Best Customers
+10766,5037,2023-04-02,Mobile,2,49402.93,Credit Card,Delhi,Delhi,Electronics,98805.86,5,2,2023,4,2,Sunday,29641.76,Premium / Best Customers,Premium / Best Customers
+10767,5780,2023-12-19,Shirt,2,10648.58,Debit Card,Chennai,Tamil Nadu,Fashion,21297.16,6,4,2023,12,19,Tuesday,6389.15,Premium / Best Customers,Premium / Best Customers
+10768,5369,2023-02-28,Shirt,1,29303.3,UPI,Pune,Maharashtra,Fashion,29303.3,2,4,2023,2,28,Tuesday,8790.99,Potential Customers,Potential Customers
+10769,5695,2023-02-28,Mobile,4,7280.34,UPI,Hyderabad,Telangana,Electronics,29121.36,2,1,2023,2,28,Tuesday,8736.41,At Risk / Low Value,At Risk / Low Value
+10770,5525,2023-10-31,Laptop,4,41024.54,Debit Card,Kolkata,West Bengal,Electronics,164098.16,3,5,2023,10,31,Tuesday,49229.45,Premium / Best Customers,Premium / Best Customers
+10771,5279,2023-06-18,Backpack,1,57009.01,COD,Delhi,Delhi,Accessories,57009.01,7,4,2023,6,18,Sunday,17102.7,At Risk / Low Value,At Risk / Low Value
+10772,5217,2023-09-26,Jeans,3,8484.24,Net Banking,Delhi,Delhi,Fashion,25452.72,9,3,2023,9,26,Tuesday,7635.82,Loyal Customers,Loyal Customers
+10773,5867,2023-12-29,Jeans,4,44112.82,COD,Chennai,Tamil Nadu,Fashion,176451.28,8,4,2023,12,29,Friday,52935.38,Premium / Best Customers,Premium / Best Customers
+10774,5873,2023-02-14,Mobile,1,38044.62,Credit Card,Chennai,Tamil Nadu,Electronics,38044.62,8,2,2023,2,14,Tuesday,11413.39,At Risk / Low Value,At Risk / Low Value
+10775,5798,2023-12-11,Shirt,1,35141.22,Net Banking,Pune,Maharashtra,Fashion,35141.22,8,4,2023,12,11,Monday,10542.37,Premium / Best Customers,Premium / Best Customers
+10776,5273,2023-06-30,Camera,4,23590.18,COD,Hyderabad,Telangana,Electronics,94360.72,3,5,2023,6,30,Friday,28308.22,Potential Customers,Potential Customers
+10777,5881,2023-06-19,Mobile,3,21501.36,Debit Card,Mumbai,Maharashtra,Electronics,64504.08,2,4,2023,6,19,Monday,19351.22,Premium / Best Customers,Premium / Best Customers
+10778,5062,2023-12-22,Backpack,1,3001.38,Credit Card,Kolkata,West Bengal,Accessories,3001.38,6,1,2023,12,22,Friday,900.41,Potential Customers,Potential Customers
+10779,5596,2023-07-10,Mobile,2,13309.15,Credit Card,Pune,Maharashtra,Electronics,26618.3,3,4,2023,7,10,Monday,7985.49,At Risk / Low Value,At Risk / Low Value
+10780,5880,2023-06-04,Headphones,3,1206.06,Credit Card,Mumbai,Maharashtra,Electronics,3618.18,8,5,2023,6,4,Sunday,1085.45,Potential Customers,Potential Customers
+10781,5729,2023-07-07,Watch,3,35010.6,Net Banking,Bangalore,Karnataka,Accessories,105031.8,8,1,2023,7,7,Friday,31509.54,Loyal Customers,Loyal Customers
+10782,5342,2023-01-07,Shirt,4,6619.44,UPI,Delhi,Delhi,Fashion,26477.76,9,3,2023,1,7,Saturday,7943.33,Loyal Customers,Loyal Customers
+10783,5397,2023-05-13,Tablet,4,52419.26,Net Banking,Hyderabad,Telangana,Electronics,209677.04,5,1,2023,5,13,Saturday,62903.11,Loyal Customers,Loyal Customers
+10784,5699,2023-08-23,Tablet,2,31531.64,COD,Pune,Maharashtra,Electronics,63063.28,8,2,2023,8,23,Wednesday,18918.98,Premium / Best Customers,Premium / Best Customers
+10785,5019,2023-02-14,Shirt,1,42071.49,UPI,Delhi,Delhi,Fashion,42071.49,7,1,2023,2,14,Tuesday,12621.45,At Risk / Low Value,At Risk / Low Value
+10786,5177,2023-11-10,Backpack,4,24828.17,COD,Hyderabad,Telangana,Accessories,99312.68,8,3,2023,11,10,Friday,29793.8,Loyal Customers,Loyal Customers
+10787,5612,2023-09-06,Headphones,4,33766.61,UPI,Hyderabad,Telangana,Electronics,135066.44,5,4,2023,9,6,Wednesday,40519.93,Premium / Best Customers,Premium / Best Customers
+10788,5396,2023-01-31,Headphones,3,56576.75,Net Banking,Hyderabad,Telangana,Electronics,169730.25,8,1,2023,1,31,Tuesday,50919.08,Loyal Customers,Loyal Customers
+10789,5445,2023-01-23,Laptop,4,5239.22,Credit Card,Delhi,Delhi,Electronics,20956.88,7,1,2023,1,23,Monday,6287.06,Loyal Customers,Loyal Customers
+10790,5233,2023-06-09,Watch,4,15460.08,Debit Card,Pune,Maharashtra,Accessories,61840.32,6,1,2023,6,9,Friday,18552.1,Premium / Best Customers,Premium / Best Customers
+10791,5915,2023-12-29,Jeans,4,46865.3,Credit Card,Kolkata,West Bengal,Fashion,187461.2,3,1,2023,12,29,Friday,56238.36,Premium / Best Customers,Premium / Best Customers
+10792,5076,2023-06-07,Shoes,4,6194.61,Net Banking,Chennai,Tamil Nadu,Fashion,24778.44,7,3,2023,6,7,Wednesday,7433.53,Potential Customers,Potential Customers
+10793,5265,2023-02-08,Backpack,3,4816.97,UPI,Delhi,Delhi,Accessories,14450.91,5,5,2023,2,8,Wednesday,4335.27,At Risk / Low Value,At Risk / Low Value
+10794,5455,2023-03-23,Shoes,2,21884.02,Credit Card,Hyderabad,Telangana,Fashion,43768.04,3,5,2023,3,23,Thursday,13130.41,Loyal Customers,Loyal Customers
+10795,5796,2023-12-22,Shoes,2,5802.43,Net Banking,Pune,Maharashtra,Fashion,11604.86,3,1,2023,12,22,Friday,3481.46,Premium / Best Customers,Premium / Best Customers
+10796,5718,2023-09-15,Shirt,1,35229.18,COD,Kolkata,West Bengal,Fashion,35229.18,5,3,2023,9,15,Friday,10568.75,Potential Customers,Potential Customers
+10797,5735,2023-07-25,Tablet,4,13808.63,Debit Card,Bangalore,Karnataka,Electronics,55234.52,9,3,2023,7,25,Tuesday,16570.36,Loyal Customers,Loyal Customers
+10798,5384,2023-03-18,Tablet,3,53773.17,Credit Card,Mumbai,Maharashtra,Electronics,161319.51,2,1,2023,3,18,Saturday,48395.85,Potential Customers,Potential Customers
+10799,5564,2023-01-12,Jeans,1,47074.95,UPI,Hyderabad,Telangana,Fashion,47074.95,8,2,2023,1,12,Thursday,14122.48,Premium / Best Customers,Premium / Best Customers
+10800,5851,2023-10-22,Shirt,1,42072.4,COD,Bangalore,Karnataka,Fashion,42072.4,7,1,2023,10,22,Sunday,12621.72,Loyal Customers,Loyal Customers
+10801,5506,2023-08-12,Shoes,2,37131.56,Net Banking,Chennai,Tamil Nadu,Fashion,74263.12,5,2,2023,8,12,Saturday,22278.94,Premium / Best Customers,Premium / Best Customers
+10802,5367,2023-01-13,Camera,3,51848.9,Debit Card,Kolkata,West Bengal,Electronics,155546.7,6,1,2023,1,13,Friday,46664.01,Loyal Customers,Loyal Customers
+10803,5144,2023-02-15,Tablet,3,13616.81,UPI,Kolkata,West Bengal,Electronics,40850.43,4,2,2023,2,15,Wednesday,12255.13,Premium / Best Customers,Premium / Best Customers
+10804,5885,2023-06-04,Backpack,3,52424.6,Net Banking,Hyderabad,Telangana,Accessories,157273.8,5,2,2023,6,4,Sunday,47182.14,Premium / Best Customers,Premium / Best Customers
+10805,5069,2023-04-23,Backpack,2,47432.69,Net Banking,Kolkata,West Bengal,Accessories,94865.38,8,1,2023,4,23,Sunday,28459.61,Premium / Best Customers,Premium / Best Customers
+10806,5099,2023-08-21,Laptop,2,44965.2,Credit Card,Bangalore,Karnataka,Electronics,89930.4,8,2,2023,8,21,Monday,26979.12,Premium / Best Customers,Premium / Best Customers
+10807,5396,2023-01-17,Mobile,2,33806.96,Credit Card,Hyderabad,Telangana,Electronics,67613.92,3,4,2023,1,17,Tuesday,20284.18,Loyal Customers,Loyal Customers
+10808,5025,2023-12-26,Camera,2,15000.78,UPI,Delhi,Delhi,Electronics,30001.56,3,5,2023,12,26,Tuesday,9000.47,Potential Customers,Potential Customers
+10809,5948,2023-08-11,Tablet,2,25585.81,Net Banking,Pune,Maharashtra,Electronics,51171.62,5,3,2023,8,11,Friday,15351.49,Potential Customers,Potential Customers
+10810,5891,2023-12-20,Headphones,4,47676.17,Credit Card,Bangalore,Karnataka,Electronics,190704.68,4,2,2023,12,20,Wednesday,57211.4,Premium / Best Customers,Premium / Best Customers
+10811,5469,2023-07-07,Tablet,4,2197.18,Debit Card,Pune,Maharashtra,Electronics,8788.72,9,2,2023,7,7,Friday,2636.62,At Risk / Low Value,At Risk / Low Value
+10812,5484,2023-12-10,Laptop,3,46988.43,Debit Card,Delhi,Delhi,Electronics,140965.29,5,3,2023,12,10,Sunday,42289.59,Loyal Customers,Loyal Customers
+10813,5565,2023-12-31,Backpack,1,14632.22,Net Banking,Delhi,Delhi,Accessories,14632.22,4,2,2023,12,31,Sunday,4389.67,Premium / Best Customers,Premium / Best Customers
+10814,5151,2023-06-12,Shoes,3,8915.26,Credit Card,Pune,Maharashtra,Fashion,26745.78,9,3,2023,6,12,Monday,8023.73,Loyal Customers,Loyal Customers
+10815,5144,2023-11-22,Headphones,1,7207.37,UPI,Bangalore,Karnataka,Electronics,7207.37,4,1,2023,11,22,Wednesday,2162.21,Premium / Best Customers,Premium / Best Customers
+10816,5569,2023-03-15,Shirt,2,1926.83,UPI,Pune,Maharashtra,Fashion,3853.66,8,4,2023,3,15,Wednesday,1156.1,At Risk / Low Value,At Risk / Low Value
+10817,5039,2023-08-21,Watch,1,31558.11,UPI,Pune,Maharashtra,Accessories,31558.11,8,4,2023,8,21,Monday,9467.43,Loyal Customers,Loyal Customers
+10818,5109,2023-08-12,Shoes,3,13330.11,Debit Card,Mumbai,Maharashtra,Fashion,39990.33,8,5,2023,8,12,Saturday,11997.1,At Risk / Low Value,At Risk / Low Value
+10819,5693,2023-11-15,Watch,3,59369.08,Credit Card,Bangalore,Karnataka,Accessories,178107.24,6,2,2023,11,15,Wednesday,53432.17,Loyal Customers,Loyal Customers
+10820,5042,2023-03-01,Camera,1,34593.87,Credit Card,Mumbai,Maharashtra,Electronics,34593.87,8,5,2023,3,1,Wednesday,10378.16,At Risk / Low Value,At Risk / Low Value
+10821,5186,2023-12-01,Mobile,4,8531.75,Debit Card,Hyderabad,Telangana,Electronics,34127.0,7,1,2023,12,1,Friday,10238.1,Potential Customers,Potential Customers
+10822,5935,2023-08-10,Headphones,2,41419.12,UPI,Kolkata,West Bengal,Electronics,82838.24,3,4,2023,8,10,Thursday,24851.47,Premium / Best Customers,Premium / Best Customers
+10823,5398,2023-02-06,Jeans,2,53895.29,UPI,Pune,Maharashtra,Fashion,107790.58,3,1,2023,2,6,Monday,32337.17,Premium / Best Customers,Premium / Best Customers
+10824,5223,2023-10-05,Headphones,3,44787.22,Net Banking,Hyderabad,Telangana,Electronics,134361.66,4,1,2023,10,5,Thursday,40308.5,Loyal Customers,Loyal Customers
+10825,5634,2023-07-15,Tablet,4,4863.46,COD,Bangalore,Karnataka,Electronics,19453.84,3,2,2023,7,15,Saturday,5836.15,Premium / Best Customers,Premium / Best Customers
+10826,5133,2023-12-18,Backpack,1,53784.29,Credit Card,Pune,Maharashtra,Accessories,53784.29,2,1,2023,12,18,Monday,16135.29,Loyal Customers,Loyal Customers
+10827,5163,2023-08-30,Tablet,2,47697.58,Credit Card,Kolkata,West Bengal,Electronics,95395.16,9,4,2023,8,30,Wednesday,28618.55,Loyal Customers,Loyal Customers
+10828,5215,2023-11-20,Tablet,4,9750.74,Credit Card,Hyderabad,Telangana,Electronics,39002.96,4,5,2023,11,20,Monday,11700.89,Premium / Best Customers,Premium / Best Customers
+10829,5733,2023-08-07,Camera,2,3391.62,COD,Chennai,Tamil Nadu,Electronics,6783.24,3,4,2023,8,7,Monday,2034.97,Potential Customers,Potential Customers
+10830,5235,2023-07-11,Shoes,4,33571.44,Net Banking,Delhi,Delhi,Fashion,134285.76,2,2,2023,7,11,Tuesday,40285.73,Potential Customers,Potential Customers
+10831,5843,2023-01-17,Jeans,4,9615.34,COD,Pune,Maharashtra,Fashion,38461.36,9,4,2023,1,17,Tuesday,11538.41,At Risk / Low Value,At Risk / Low Value
+10832,5658,2023-01-12,Jeans,3,50125.08,UPI,Kolkata,West Bengal,Fashion,150375.24,6,3,2023,1,12,Thursday,45112.57,Potential Customers,Potential Customers
+10833,5751,2023-07-12,Tablet,2,21692.58,UPI,Delhi,Delhi,Electronics,43385.16,3,5,2023,7,12,Wednesday,13015.55,Loyal Customers,Loyal Customers
+10834,5588,2023-01-22,Watch,1,54799.68,Credit Card,Mumbai,Maharashtra,Accessories,54799.68,2,3,2023,1,22,Sunday,16439.9,At Risk / Low Value,At Risk / Low Value
+10835,5009,2023-04-30,Camera,3,34071.58,Debit Card,Hyderabad,Telangana,Electronics,102214.74,5,3,2023,4,30,Sunday,30664.42,Loyal Customers,Loyal Customers
+10836,5074,2023-07-29,Tablet,3,11205.54,Credit Card,Mumbai,Maharashtra,Electronics,33616.62,7,2,2023,7,29,Saturday,10084.99,At Risk / Low Value,At Risk / Low Value
+10837,5954,2023-11-02,Mobile,1,8634.05,Debit Card,Kolkata,West Bengal,Electronics,8634.05,5,1,2023,11,2,Thursday,2590.21,Potential Customers,Potential Customers
+10838,5492,2023-09-27,Backpack,3,34715.4,COD,Pune,Maharashtra,Accessories,104146.2,2,3,2023,9,27,Wednesday,31243.86,Premium / Best Customers,Premium / Best Customers
+10839,5913,2023-07-11,Shoes,4,45784.45,UPI,Delhi,Delhi,Fashion,183137.8,4,4,2023,7,11,Tuesday,54941.34,Loyal Customers,Loyal Customers
+10840,5253,2023-06-24,Shirt,4,46955.89,Debit Card,Delhi,Delhi,Fashion,187823.56,8,1,2023,6,24,Saturday,56347.07,Premium / Best Customers,Premium / Best Customers
+10841,5230,2023-10-12,Mobile,2,16762.72,COD,Hyderabad,Telangana,Electronics,33525.44,8,4,2023,10,12,Thursday,10057.63,Loyal Customers,Loyal Customers
+10842,5519,2023-07-23,Watch,2,12493.53,UPI,Pune,Maharashtra,Accessories,24987.06,8,4,2023,7,23,Sunday,7496.12,At Risk / Low Value,At Risk / Low Value
+10843,5174,2023-06-13,Headphones,1,1300.35,Debit Card,Chennai,Tamil Nadu,Electronics,1300.35,9,1,2023,6,13,Tuesday,390.1,At Risk / Low Value,At Risk / Low Value
+10844,5653,2023-09-08,Headphones,2,40848.19,Credit Card,Chennai,Tamil Nadu,Electronics,81696.38,4,1,2023,9,8,Friday,24508.91,Loyal Customers,Loyal Customers
+10845,5168,2023-08-15,Mobile,4,4871.13,Credit Card,Hyderabad,Telangana,Electronics,19484.52,9,4,2023,8,15,Tuesday,5845.36,Loyal Customers,Loyal Customers
+10846,5170,2023-01-07,Tablet,1,25419.44,Credit Card,Pune,Maharashtra,Electronics,25419.44,3,2,2023,1,7,Saturday,7625.83,At Risk / Low Value,At Risk / Low Value
+10847,5393,2023-01-29,Shirt,1,36220.43,COD,Hyderabad,Telangana,Fashion,36220.43,8,5,2023,1,29,Sunday,10866.13,Premium / Best Customers,Premium / Best Customers
+10848,5946,2023-02-02,Laptop,2,56245.4,Credit Card,Pune,Maharashtra,Electronics,112490.8,5,5,2023,2,2,Thursday,33747.24,Premium / Best Customers,Premium / Best Customers
+10849,5795,2023-05-14,Laptop,4,18914.59,Net Banking,Kolkata,West Bengal,Electronics,75658.36,4,2,2023,5,14,Sunday,22697.51,Premium / Best Customers,Premium / Best Customers
+10850,5634,2023-03-20,Watch,1,15211.4,UPI,Kolkata,West Bengal,Accessories,15211.4,4,1,2023,3,20,Monday,4563.42,Premium / Best Customers,Premium / Best Customers
+10851,5194,2023-02-27,Tablet,4,39353.36,COD,Mumbai,Maharashtra,Electronics,157413.44,8,4,2023,2,27,Monday,47224.03,Potential Customers,Potential Customers
+10852,5517,2023-01-26,Jeans,4,37268.57,Credit Card,Hyderabad,Telangana,Fashion,149074.28,5,5,2023,1,26,Thursday,44722.28,Potential Customers,Potential Customers
+10853,5029,2023-08-14,Jeans,4,20126.95,UPI,Pune,Maharashtra,Fashion,80507.8,6,4,2023,8,14,Monday,24152.34,Potential Customers,Potential Customers
+10854,5165,2023-10-12,Shoes,2,55707.68,Debit Card,Chennai,Tamil Nadu,Fashion,111415.36,4,2,2023,10,12,Thursday,33424.61,Potential Customers,Potential Customers
+10855,5422,2023-01-04,Shirt,3,50738.28,Credit Card,Pune,Maharashtra,Fashion,152214.84,8,4,2023,1,4,Wednesday,45664.45,Loyal Customers,Loyal Customers
+10856,5339,2023-04-09,Shirt,3,13671.76,UPI,Kolkata,West Bengal,Fashion,41015.28,7,2,2023,4,9,Sunday,12304.58,At Risk / Low Value,At Risk / Low Value
+10857,5648,2023-02-08,Headphones,1,14576.81,Net Banking,Pune,Maharashtra,Electronics,14576.81,2,1,2023,2,8,Wednesday,4373.04,Loyal Customers,Loyal Customers
+10858,5496,2023-09-28,Camera,4,30884.33,Debit Card,Hyderabad,Telangana,Electronics,123537.32,9,2,2023,9,28,Thursday,37061.2,Potential Customers,Potential Customers
+10859,5365,2023-10-12,Watch,2,46482.25,Net Banking,Mumbai,Maharashtra,Accessories,92964.5,3,2,2023,10,12,Thursday,27889.35,Premium / Best Customers,Premium / Best Customers
+10860,5833,2023-06-06,Laptop,4,2929.21,UPI,Mumbai,Maharashtra,Electronics,11716.84,4,5,2023,6,6,Tuesday,3515.05,Potential Customers,Potential Customers
+10861,5342,2023-03-16,Watch,4,41692.11,Net Banking,Mumbai,Maharashtra,Accessories,166768.44,7,4,2023,3,16,Thursday,50030.53,Loyal Customers,Loyal Customers
+10862,5500,2023-10-15,Jeans,2,38999.68,UPI,Mumbai,Maharashtra,Fashion,77999.36,7,5,2023,10,15,Sunday,23399.81,Potential Customers,Potential Customers
+10863,5657,2023-05-10,Jeans,3,14119.36,UPI,Kolkata,West Bengal,Fashion,42358.08,4,3,2023,5,10,Wednesday,12707.42,Loyal Customers,Loyal Customers
+10864,5511,2023-06-24,Mobile,4,40976.77,Net Banking,Bangalore,Karnataka,Electronics,163907.08,6,2,2023,6,24,Saturday,49172.12,Premium / Best Customers,Premium / Best Customers
+10865,5327,2023-03-25,Shoes,4,56428.94,UPI,Hyderabad,Telangana,Fashion,225715.76,2,3,2023,3,25,Saturday,67714.73,Potential Customers,Potential Customers
+10866,5217,2023-01-22,Shirt,3,3093.11,Credit Card,Delhi,Delhi,Fashion,9279.33,3,5,2023,1,22,Sunday,2783.8,Loyal Customers,Loyal Customers
+10867,5301,2023-01-27,Backpack,2,19383.23,UPI,Hyderabad,Telangana,Accessories,38766.46,4,4,2023,1,27,Friday,11629.94,At Risk / Low Value,At Risk / Low Value
+10868,5132,2023-07-14,Watch,1,26459.15,COD,Bangalore,Karnataka,Accessories,26459.15,9,5,2023,7,14,Friday,7937.74,At Risk / Low Value,At Risk / Low Value
+10869,5804,2023-12-03,Jeans,3,53985.84,UPI,Mumbai,Maharashtra,Fashion,161957.52,3,4,2023,12,3,Sunday,48587.26,Loyal Customers,Loyal Customers
+10870,5070,2023-08-24,Camera,1,57747.01,COD,Bangalore,Karnataka,Electronics,57747.01,5,4,2023,8,24,Thursday,17324.1,Potential Customers,Potential Customers
+10871,5252,2023-04-02,Headphones,1,26813.68,UPI,Chennai,Tamil Nadu,Electronics,26813.68,7,1,2023,4,2,Sunday,8044.1,Loyal Customers,Loyal Customers
+10872,5415,2023-01-21,Laptop,3,45076.7,UPI,Chennai,Tamil Nadu,Electronics,135230.1,7,2,2023,1,21,Saturday,40569.03,Premium / Best Customers,Premium / Best Customers
+10873,5787,2023-10-30,Shoes,4,32040.16,Net Banking,Kolkata,West Bengal,Fashion,128160.64,4,5,2023,10,30,Monday,38448.19,Premium / Best Customers,Premium / Best Customers
+10874,5445,2023-12-23,Camera,1,32405.64,Credit Card,Hyderabad,Telangana,Electronics,32405.64,4,4,2023,12,23,Saturday,9721.69,Loyal Customers,Loyal Customers
+10875,5876,2023-03-25,Shoes,1,16902.54,Credit Card,Hyderabad,Telangana,Fashion,16902.54,9,5,2023,3,25,Saturday,5070.76,Loyal Customers,Loyal Customers
+10876,5182,2023-09-19,Mobile,2,13252.29,Debit Card,Delhi,Delhi,Electronics,26504.58,5,5,2023,9,19,Tuesday,7951.37,At Risk / Low Value,At Risk / Low Value
+10877,5167,2023-05-27,Backpack,4,17493.92,Net Banking,Kolkata,West Bengal,Accessories,69975.68,6,4,2023,5,27,Saturday,20992.7,Potential Customers,Potential Customers
+10878,5091,2023-09-14,Jeans,1,33512.78,Net Banking,Delhi,Delhi,Fashion,33512.78,4,3,2023,9,14,Thursday,10053.83,At Risk / Low Value,At Risk / Low Value
+10879,5714,2023-02-27,Headphones,2,2040.56,Credit Card,Chennai,Tamil Nadu,Electronics,4081.12,7,2,2023,2,27,Monday,1224.34,Loyal Customers,Loyal Customers
+10880,5858,2023-01-15,Camera,4,54462.76,Net Banking,Mumbai,Maharashtra,Electronics,217851.04,3,2,2023,1,15,Sunday,65355.31,Premium / Best Customers,Premium / Best Customers
+10881,5531,2023-06-11,Shoes,3,9630.14,Credit Card,Bangalore,Karnataka,Fashion,28890.42,2,1,2023,6,11,Sunday,8667.13,At Risk / Low Value,At Risk / Low Value
+10882,5039,2023-06-12,Shirt,3,13439.29,Net Banking,Delhi,Delhi,Fashion,40317.87,8,1,2023,6,12,Monday,12095.36,Loyal Customers,Loyal Customers
+10883,5126,2023-11-16,Mobile,2,31241.09,UPI,Pune,Maharashtra,Electronics,62482.18,3,1,2023,11,16,Thursday,18744.65,Loyal Customers,Loyal Customers
+10884,5451,2023-10-08,Shirt,3,42693.85,Credit Card,Delhi,Delhi,Fashion,128081.55,6,2,2023,10,8,Sunday,38424.46,Loyal Customers,Loyal Customers
+10885,5173,2023-10-07,Headphones,1,6015.02,Credit Card,Mumbai,Maharashtra,Electronics,6015.02,2,3,2023,10,7,Saturday,1804.51,Loyal Customers,Loyal Customers
+10886,5653,2023-01-12,Camera,4,19266.37,COD,Mumbai,Maharashtra,Electronics,77065.48,3,2,2023,1,12,Thursday,23119.64,Loyal Customers,Loyal Customers
+10887,5754,2023-10-01,Mobile,1,58129.87,Net Banking,Hyderabad,Telangana,Electronics,58129.87,3,2,2023,10,1,Sunday,17438.96,Loyal Customers,Loyal Customers
+10888,5220,2023-09-28,Camera,1,15961.88,Net Banking,Bangalore,Karnataka,Electronics,15961.88,5,2,2023,9,28,Thursday,4788.56,Premium / Best Customers,Premium / Best Customers
+10889,5638,2023-07-27,Jeans,3,18989.09,Credit Card,Mumbai,Maharashtra,Fashion,56967.27,8,2,2023,7,27,Thursday,17090.18,Premium / Best Customers,Premium / Best Customers
+10890,5058,2023-01-27,Tablet,1,50238.96,UPI,Kolkata,West Bengal,Electronics,50238.96,9,3,2023,1,27,Friday,15071.69,Premium / Best Customers,Premium / Best Customers
+10891,5660,2023-03-13,Mobile,3,3297.8,UPI,Delhi,Delhi,Electronics,9893.4,6,1,2023,3,13,Monday,2968.02,Loyal Customers,Loyal Customers
+10892,5476,2023-03-01,Shirt,4,28037.41,UPI,Delhi,Delhi,Fashion,112149.64,7,5,2023,3,1,Wednesday,33644.89,Loyal Customers,Loyal Customers
+10893,5456,2023-05-25,Headphones,4,22963.12,Net Banking,Chennai,Tamil Nadu,Electronics,91852.48,5,1,2023,5,25,Thursday,27555.74,Premium / Best Customers,Premium / Best Customers
+10894,5829,2023-04-03,Backpack,1,19200.23,COD,Mumbai,Maharashtra,Accessories,19200.23,2,1,2023,4,3,Monday,5760.07,Premium / Best Customers,Premium / Best Customers
+10895,5895,2023-11-05,Jeans,2,17356.27,Credit Card,Pune,Maharashtra,Fashion,34712.54,8,5,2023,11,5,Sunday,10413.76,Potential Customers,Potential Customers
+10896,5361,2023-01-08,Tablet,3,5755.03,Debit Card,Hyderabad,Telangana,Electronics,17265.09,7,2,2023,1,8,Sunday,5179.53,At Risk / Low Value,At Risk / Low Value
+10897,5935,2023-03-20,Backpack,3,19095.1,COD,Bangalore,Karnataka,Accessories,57285.3,5,3,2023,3,20,Monday,17185.59,Premium / Best Customers,Premium / Best Customers
+10898,5001,2023-01-27,Laptop,1,2870.23,Debit Card,Pune,Maharashtra,Electronics,2870.23,8,3,2023,1,27,Friday,861.07,Potential Customers,Potential Customers
+10899,5387,2023-06-23,Jeans,3,46923.54,COD,Hyderabad,Telangana,Fashion,140770.62,9,1,2023,6,23,Friday,42231.19,Premium / Best Customers,Premium / Best Customers
+10900,5973,2023-02-19,Headphones,3,24074.2,UPI,Delhi,Delhi,Electronics,72222.6,6,5,2023,2,19,Sunday,21666.78,Loyal Customers,Loyal Customers
+10901,5348,2023-07-18,Shoes,2,26801.06,Net Banking,Pune,Maharashtra,Fashion,53602.12,4,4,2023,7,18,Tuesday,16080.64,Premium / Best Customers,Premium / Best Customers
+10902,5190,2023-12-15,Mobile,2,53647.6,Debit Card,Hyderabad,Telangana,Electronics,107295.2,9,2,2023,12,15,Friday,32188.56,Premium / Best Customers,Premium / Best Customers
+10903,5505,2023-06-30,Camera,1,39585.88,COD,Delhi,Delhi,Electronics,39585.88,4,1,2023,6,30,Friday,11875.76,Loyal Customers,Loyal Customers
+10904,5191,2023-01-24,Headphones,2,781.13,Net Banking,Delhi,Delhi,Electronics,1562.26,2,3,2023,1,24,Tuesday,468.68,Potential Customers,Potential Customers
+10905,5508,2023-11-12,Mobile,1,56607.54,Debit Card,Delhi,Delhi,Electronics,56607.54,4,5,2023,11,12,Sunday,16982.26,Loyal Customers,Loyal Customers
+10906,5369,2023-02-15,Backpack,4,14457.52,Credit Card,Delhi,Delhi,Accessories,57830.08,5,5,2023,2,15,Wednesday,17349.02,Potential Customers,Potential Customers
+10907,5409,2023-01-15,Camera,1,6724.57,COD,Kolkata,West Bengal,Electronics,6724.57,2,1,2023,1,15,Sunday,2017.37,At Risk / Low Value,At Risk / Low Value
+10908,5824,2023-06-02,Watch,4,46157.25,Credit Card,Delhi,Delhi,Accessories,184629.0,7,4,2023,6,2,Friday,55388.7,Loyal Customers,Loyal Customers
+10909,5929,2023-08-10,Shirt,1,30178.5,UPI,Chennai,Tamil Nadu,Fashion,30178.5,9,3,2023,8,10,Thursday,9053.55,Premium / Best Customers,Premium / Best Customers
+10910,5934,2023-07-25,Laptop,3,26196.1,Credit Card,Pune,Maharashtra,Electronics,78588.3,9,1,2023,7,25,Tuesday,23576.49,Potential Customers,Potential Customers
+10911,5117,2023-09-30,Jeans,2,15195.33,Credit Card,Hyderabad,Telangana,Fashion,30390.66,6,4,2023,9,30,Saturday,9117.2,Loyal Customers,Loyal Customers
+10912,5134,2023-08-24,Headphones,4,32984.05,COD,Chennai,Tamil Nadu,Electronics,131936.2,2,5,2023,8,24,Thursday,39580.86,Potential Customers,Potential Customers
+10913,5058,2023-12-06,Laptop,1,16680.76,UPI,Kolkata,West Bengal,Electronics,16680.76,7,2,2023,12,6,Wednesday,5004.23,Premium / Best Customers,Premium / Best Customers
+10914,5556,2023-08-16,Shoes,2,54124.51,Credit Card,Chennai,Tamil Nadu,Fashion,108249.02,9,3,2023,8,16,Wednesday,32474.71,Premium / Best Customers,Premium / Best Customers
+10915,5685,2023-01-09,Mobile,1,13147.71,Net Banking,Mumbai,Maharashtra,Electronics,13147.71,2,3,2023,1,9,Monday,3944.31,Loyal Customers,Loyal Customers
+10916,5672,2023-06-15,Mobile,2,53096.0,Debit Card,Mumbai,Maharashtra,Electronics,106192.0,3,4,2023,6,15,Thursday,31857.6,Premium / Best Customers,Premium / Best Customers
+10917,5173,2023-11-15,Headphones,2,33696.5,Credit Card,Mumbai,Maharashtra,Electronics,67393.0,3,1,2023,11,15,Wednesday,20217.9,Loyal Customers,Loyal Customers
+10918,5829,2023-08-02,Tablet,1,49760.74,UPI,Bangalore,Karnataka,Electronics,49760.74,2,5,2023,8,2,Wednesday,14928.22,Premium / Best Customers,Premium / Best Customers
+10919,5815,2023-04-27,Tablet,4,42856.91,Credit Card,Mumbai,Maharashtra,Electronics,171427.64,9,4,2023,4,27,Thursday,51428.29,Loyal Customers,Loyal Customers
+10920,5149,2023-12-10,Watch,4,41892.7,Debit Card,Hyderabad,Telangana,Accessories,167570.8,8,2,2023,12,10,Sunday,50271.24,Loyal Customers,Loyal Customers
+10921,5080,2023-03-13,Shirt,3,19663.44,UPI,Chennai,Tamil Nadu,Fashion,58990.32,4,2,2023,3,13,Monday,17697.1,At Risk / Low Value,At Risk / Low Value
+10922,5886,2023-03-05,Camera,2,14263.65,COD,Hyderabad,Telangana,Electronics,28527.3,3,2,2023,3,5,Sunday,8558.19,Loyal Customers,Loyal Customers
+10923,5213,2023-07-24,Shoes,3,12889.91,UPI,Pune,Maharashtra,Fashion,38669.73,8,4,2023,7,24,Monday,11600.92,At Risk / Low Value,At Risk / Low Value
+10924,5203,2023-07-28,Laptop,3,51474.34,COD,Mumbai,Maharashtra,Electronics,154423.02,8,5,2023,7,28,Friday,46326.91,Premium / Best Customers,Premium / Best Customers
+10925,5764,2023-03-13,Tablet,1,49279.48,UPI,Kolkata,West Bengal,Electronics,49279.48,6,3,2023,3,13,Monday,14783.84,Premium / Best Customers,Premium / Best Customers
+10926,5229,2023-10-04,Watch,1,26602.24,Debit Card,Bangalore,Karnataka,Accessories,26602.24,7,1,2023,10,4,Wednesday,7980.67,Loyal Customers,Loyal Customers
+10927,5676,2023-10-01,Watch,1,8204.56,Debit Card,Pune,Maharashtra,Accessories,8204.56,5,3,2023,10,1,Sunday,2461.37,Premium / Best Customers,Premium / Best Customers
+10928,5227,2023-11-16,Headphones,2,23120.46,UPI,Kolkata,West Bengal,Electronics,46240.92,3,5,2023,11,16,Thursday,13872.28,Loyal Customers,Loyal Customers
+10929,5659,2023-12-04,Shoes,1,37274.8,Credit Card,Bangalore,Karnataka,Fashion,37274.8,2,3,2023,12,4,Monday,11182.44,Premium / Best Customers,Premium / Best Customers
+10930,5532,2023-04-05,Backpack,1,27427.87,Debit Card,Pune,Maharashtra,Accessories,27427.87,4,4,2023,4,5,Wednesday,8228.36,At Risk / Low Value,At Risk / Low Value
+10931,5441,2023-06-15,Camera,2,46877.3,COD,Chennai,Tamil Nadu,Electronics,93754.6,5,2,2023,6,15,Thursday,28126.38,Potential Customers,Potential Customers
+10932,5402,2023-02-01,Shirt,2,59858.08,COD,Hyderabad,Telangana,Fashion,119716.16,7,5,2023,2,1,Wednesday,35914.85,Loyal Customers,Loyal Customers
+10933,5047,2023-01-11,Jeans,4,11710.59,Net Banking,Delhi,Delhi,Fashion,46842.36,8,5,2023,1,11,Wednesday,14052.71,Premium / Best Customers,Premium / Best Customers
+10934,5233,2023-10-28,Headphones,1,27741.15,COD,Hyderabad,Telangana,Electronics,27741.15,7,3,2023,10,28,Saturday,8322.34,Premium / Best Customers,Premium / Best Customers
+10935,5305,2023-08-05,Camera,1,26029.74,Net Banking,Mumbai,Maharashtra,Electronics,26029.74,9,4,2023,8,5,Saturday,7808.92,Loyal Customers,Loyal Customers
+10936,5526,2023-10-16,Jeans,1,18478.2,UPI,Kolkata,West Bengal,Fashion,18478.2,3,3,2023,10,16,Monday,5543.46,Potential Customers,Potential Customers
+10937,5143,2023-04-12,Jeans,4,12126.3,UPI,Delhi,Delhi,Fashion,48505.2,7,3,2023,4,12,Wednesday,14551.56,Loyal Customers,Loyal Customers
+10938,5415,2023-09-24,Shoes,1,4221.82,UPI,Bangalore,Karnataka,Fashion,4221.82,7,5,2023,9,24,Sunday,1266.55,Premium / Best Customers,Premium / Best Customers
+10939,5513,2023-08-02,Shoes,4,53261.02,Credit Card,Chennai,Tamil Nadu,Fashion,213044.08,4,3,2023,8,2,Wednesday,63913.22,Premium / Best Customers,Premium / Best Customers
+10940,5373,2023-06-28,Laptop,3,25364.97,Credit Card,Chennai,Tamil Nadu,Electronics,76094.91,9,2,2023,6,28,Wednesday,22828.47,Premium / Best Customers,Premium / Best Customers
+10941,5566,2023-03-29,Watch,4,29964.66,Net Banking,Bangalore,Karnataka,Accessories,119858.64,9,3,2023,3,29,Wednesday,35957.59,Premium / Best Customers,Premium / Best Customers
+10942,5886,2023-02-10,Camera,3,55041.44,COD,Mumbai,Maharashtra,Electronics,165124.32,8,2,2023,2,10,Friday,49537.3,Loyal Customers,Loyal Customers
+10943,5259,2023-03-17,Headphones,1,46644.54,COD,Bangalore,Karnataka,Electronics,46644.54,4,5,2023,3,17,Friday,13993.36,Loyal Customers,Loyal Customers
+10944,5656,2023-02-15,Mobile,3,8090.93,UPI,Pune,Maharashtra,Electronics,24272.79,4,4,2023,2,15,Wednesday,7281.84,Premium / Best Customers,Premium / Best Customers
+10945,5471,2023-06-09,Headphones,4,34055.57,Debit Card,Kolkata,West Bengal,Electronics,136222.28,2,2,2023,6,9,Friday,40866.68,Loyal Customers,Loyal Customers
+10946,5953,2023-03-21,Laptop,2,26702.46,Credit Card,Kolkata,West Bengal,Electronics,53404.92,7,4,2023,3,21,Tuesday,16021.48,Loyal Customers,Loyal Customers
+10947,5971,2023-11-06,Shirt,3,47893.5,Credit Card,Mumbai,Maharashtra,Fashion,143680.5,7,4,2023,11,6,Monday,43104.15,Premium / Best Customers,Premium / Best Customers
+10948,5012,2023-03-27,Watch,3,43536.68,UPI,Delhi,Delhi,Accessories,130610.04,9,2,2023,3,27,Monday,39183.01,Premium / Best Customers,Premium / Best Customers
+10949,5330,2023-04-02,Mobile,1,41517.22,Credit Card,Bangalore,Karnataka,Electronics,41517.22,7,5,2023,4,2,Sunday,12455.17,Loyal Customers,Loyal Customers
+10950,5736,2023-05-28,Tablet,4,20630.53,UPI,Mumbai,Maharashtra,Electronics,82522.12,6,1,2023,5,28,Sunday,24756.64,Premium / Best Customers,Premium / Best Customers
+10951,5784,2023-06-10,Shirt,3,48356.33,Net Banking,Kolkata,West Bengal,Fashion,145068.99,4,4,2023,6,10,Saturday,43520.7,Potential Customers,Potential Customers
+10952,5968,2023-07-21,Shoes,3,3427.76,COD,Delhi,Delhi,Fashion,10283.28,5,4,2023,7,21,Friday,3084.98,Premium / Best Customers,Premium / Best Customers
+10953,5358,2023-08-30,Jeans,3,9829.61,Debit Card,Bangalore,Karnataka,Fashion,29488.83,9,5,2023,8,30,Wednesday,8846.65,At Risk / Low Value,At Risk / Low Value
+10954,5972,2023-12-19,Tablet,3,20336.71,COD,Chennai,Tamil Nadu,Electronics,61010.13,3,5,2023,12,19,Tuesday,18303.04,Premium / Best Customers,Premium / Best Customers
+10955,5408,2023-01-02,Headphones,2,4885.4,COD,Bangalore,Karnataka,Electronics,9770.8,9,3,2023,1,2,Monday,2931.24,Loyal Customers,Loyal Customers
+10956,5668,2023-08-13,Headphones,4,14329.16,Net Banking,Hyderabad,Telangana,Electronics,57316.64,8,5,2023,8,13,Sunday,17194.99,Potential Customers,Potential Customers
+10957,5373,2023-10-16,Shoes,1,49860.01,Credit Card,Bangalore,Karnataka,Fashion,49860.01,5,4,2023,10,16,Monday,14958.0,Premium / Best Customers,Premium / Best Customers
+10958,5008,2023-08-21,Laptop,1,56910.62,Debit Card,Hyderabad,Telangana,Electronics,56910.62,8,2,2023,8,21,Monday,17073.19,Potential Customers,Potential Customers
+10959,5122,2023-03-18,Camera,2,18484.76,Credit Card,Delhi,Delhi,Electronics,36969.52,2,1,2023,3,18,Saturday,11090.86,Loyal Customers,Loyal Customers
+10960,5348,2023-04-26,Tablet,4,16091.59,COD,Bangalore,Karnataka,Electronics,64366.36,2,3,2023,4,26,Wednesday,19309.91,Premium / Best Customers,Premium / Best Customers
+10961,5676,2023-06-03,Tablet,3,17009.59,UPI,Delhi,Delhi,Electronics,51028.77,8,2,2023,6,3,Saturday,15308.63,Premium / Best Customers,Premium / Best Customers
+10962,5090,2023-04-13,Backpack,2,16879.83,COD,Delhi,Delhi,Accessories,33759.66,7,1,2023,4,13,Thursday,10127.9,Premium / Best Customers,Premium / Best Customers
+10963,5648,2023-07-13,Shirt,4,2445.03,Credit Card,Kolkata,West Bengal,Fashion,9780.12,5,1,2023,7,13,Thursday,2934.04,Loyal Customers,Loyal Customers
+10964,5698,2023-06-15,Watch,3,55636.91,COD,Mumbai,Maharashtra,Accessories,166910.73,7,1,2023,6,15,Thursday,50073.22,Loyal Customers,Loyal Customers
+10965,5316,2023-12-25,Shirt,2,13057.78,UPI,Delhi,Delhi,Fashion,26115.56,9,2,2023,12,25,Monday,7834.67,Loyal Customers,Loyal Customers
+10966,5178,2023-03-31,Camera,4,25374.24,Net Banking,Delhi,Delhi,Electronics,101496.96,6,3,2023,3,31,Friday,30449.09,At Risk / Low Value,At Risk / Low Value
+10967,5540,2023-06-23,Headphones,1,878.31,Credit Card,Kolkata,West Bengal,Electronics,878.31,2,3,2023,6,23,Friday,263.49,At Risk / Low Value,At Risk / Low Value
+10968,5732,2023-05-02,Headphones,1,51519.92,COD,Kolkata,West Bengal,Electronics,51519.92,2,1,2023,5,2,Tuesday,15455.98,Loyal Customers,Loyal Customers
+10969,5869,2023-05-23,Headphones,4,43950.09,Credit Card,Bangalore,Karnataka,Electronics,175800.36,5,2,2023,5,23,Tuesday,52740.11,Loyal Customers,Loyal Customers
+10970,5041,2023-04-16,Backpack,1,56821.34,Net Banking,Kolkata,West Bengal,Accessories,56821.34,2,1,2023,4,16,Sunday,17046.4,Premium / Best Customers,Premium / Best Customers
+10971,5740,2023-11-01,Headphones,4,46962.44,COD,Bangalore,Karnataka,Electronics,187849.76,6,5,2023,11,1,Wednesday,56354.93,Loyal Customers,Loyal Customers
+10972,5704,2023-12-26,Camera,3,19028.28,COD,Chennai,Tamil Nadu,Electronics,57084.84,6,3,2023,12,26,Tuesday,17125.45,Premium / Best Customers,Premium / Best Customers
+10973,5923,2023-11-13,Shoes,4,15098.04,Credit Card,Kolkata,West Bengal,Fashion,60392.16,6,4,2023,11,13,Monday,18117.65,Premium / Best Customers,Premium / Best Customers
+10974,5502,2023-05-03,Watch,3,41953.66,Credit Card,Mumbai,Maharashtra,Accessories,125860.98,3,1,2023,5,3,Wednesday,37758.29,Potential Customers,Potential Customers
+10975,5959,2023-01-09,Camera,2,22037.53,UPI,Delhi,Delhi,Electronics,44075.06,6,5,2023,1,9,Monday,13222.52,Premium / Best Customers,Premium / Best Customers
+10976,5145,2023-09-19,Watch,4,34103.04,Net Banking,Mumbai,Maharashtra,Accessories,136412.16,6,3,2023,9,19,Tuesday,40923.65,Premium / Best Customers,Premium / Best Customers
+10977,5201,2023-03-14,Camera,2,673.57,UPI,Hyderabad,Telangana,Electronics,1347.14,3,2,2023,3,14,Tuesday,404.14,Premium / Best Customers,Premium / Best Customers
+10978,5929,2023-12-25,Headphones,1,3994.58,COD,Kolkata,West Bengal,Electronics,3994.58,7,3,2023,12,25,Monday,1198.37,Premium / Best Customers,Premium / Best Customers
+10979,5724,2023-08-11,Shoes,3,32261.47,Credit Card,Delhi,Delhi,Fashion,96784.41,9,2,2023,8,11,Friday,29035.32,Potential Customers,Potential Customers
+10980,5461,2023-02-10,Tablet,4,34094.48,COD,Mumbai,Maharashtra,Electronics,136377.92,4,2,2023,2,10,Friday,40913.38,Premium / Best Customers,Premium / Best Customers
+10981,5732,2023-07-23,Shirt,2,45161.74,COD,Kolkata,West Bengal,Fashion,90323.48,2,1,2023,7,23,Sunday,27097.04,Loyal Customers,Loyal Customers
+10982,5752,2023-09-21,Jeans,3,8178.33,Debit Card,Kolkata,West Bengal,Fashion,24534.99,6,1,2023,9,21,Thursday,7360.5,Premium / Best Customers,Premium / Best Customers
+10983,5925,2023-11-24,Shoes,3,30937.03,Debit Card,Chennai,Tamil Nadu,Fashion,92811.09,2,3,2023,11,24,Friday,27843.33,Loyal Customers,Loyal Customers
+10984,5909,2023-06-27,Tablet,1,11908.52,COD,Chennai,Tamil Nadu,Electronics,11908.52,5,5,2023,6,27,Tuesday,3572.56,Potential Customers,Potential Customers
+10985,5558,2023-12-14,Laptop,1,5863.81,Credit Card,Delhi,Delhi,Electronics,5863.81,2,3,2023,12,14,Thursday,1759.14,Potential Customers,Potential Customers
+10986,5547,2023-11-14,Camera,3,24806.6,COD,Hyderabad,Telangana,Electronics,74419.8,8,4,2023,11,14,Tuesday,22325.94,Premium / Best Customers,Premium / Best Customers
+10987,5253,2023-03-25,Laptop,3,10051.2,Debit Card,Chennai,Tamil Nadu,Electronics,30153.6,7,2,2023,3,25,Saturday,9046.08,Premium / Best Customers,Premium / Best Customers
+10988,5390,2023-11-14,Tablet,4,13540.38,Credit Card,Chennai,Tamil Nadu,Electronics,54161.52,9,2,2023,11,14,Tuesday,16248.46,Loyal Customers,Loyal Customers
+10989,5594,2023-04-21,Shoes,3,19258.01,COD,Hyderabad,Telangana,Fashion,57774.03,3,1,2023,4,21,Friday,17332.21,At Risk / Low Value,At Risk / Low Value
+10990,5883,2023-09-08,Camera,4,15785.49,Net Banking,Mumbai,Maharashtra,Electronics,63141.96,2,5,2023,9,8,Friday,18942.59,Premium / Best Customers,Premium / Best Customers
+10991,5256,2023-01-07,Jeans,3,5529.2,Net Banking,Chennai,Tamil Nadu,Fashion,16587.6,2,1,2023,1,7,Saturday,4976.28,Loyal Customers,Loyal Customers
+10992,5709,2023-03-25,Headphones,1,5668.0,COD,Bangalore,Karnataka,Electronics,5668.0,2,4,2023,3,25,Saturday,1700.4,Potential Customers,Potential Customers
+10993,5815,2023-07-27,Camera,4,11836.99,Credit Card,Pune,Maharashtra,Electronics,47347.96,4,3,2023,7,27,Thursday,14204.39,Loyal Customers,Loyal Customers
+10994,5921,2023-11-10,Camera,2,3318.38,COD,Pune,Maharashtra,Electronics,6636.76,4,3,2023,11,10,Friday,1991.03,Loyal Customers,Loyal Customers
+10995,5450,2023-01-22,Shoes,1,37699.48,COD,Chennai,Tamil Nadu,Fashion,37699.48,5,5,2023,1,22,Sunday,11309.84,Loyal Customers,Loyal Customers
+10996,5010,2023-01-03,Shoes,4,17453.4,Debit Card,Mumbai,Maharashtra,Fashion,69813.6,3,1,2023,1,3,Tuesday,20944.08,At Risk / Low Value,At Risk / Low Value
+10997,5824,2023-05-07,Tablet,4,17000.83,Net Banking,Kolkata,West Bengal,Electronics,68003.32,2,1,2023,5,7,Sunday,20401.0,Loyal Customers,Loyal Customers
+10998,5798,2023-10-24,Mobile,2,20120.3,Debit Card,Mumbai,Maharashtra,Electronics,40240.6,2,4,2023,10,24,Tuesday,12072.18,Premium / Best Customers,Premium / Best Customers
+10999,5242,2023-07-07,Camera,4,39868.94,Debit Card,Delhi,Delhi,Electronics,159475.76,2,3,2023,7,7,Friday,47842.73,Loyal Customers,Loyal Customers
+11000,5251,2023-12-28,Shirt,3,52276.84,COD,Bangalore,Karnataka,Fashion,156830.52,2,1,2023,12,28,Thursday,47049.16,Loyal Customers,Loyal Customers
+11001,5877,2023-01-14,Camera,2,45617.49,Debit Card,Mumbai,Maharashtra,Electronics,91234.98,4,5,2023,1,14,Saturday,27370.49,Potential Customers,Potential Customers
+11002,5005,2023-01-12,Tablet,1,43733.5,Net Banking,Hyderabad,Telangana,Electronics,43733.5,7,3,2023,1,12,Thursday,13120.05,Premium / Best Customers,Premium / Best Customers
+11003,5119,2023-03-28,Watch,1,29218.15,Debit Card,Bangalore,Karnataka,Accessories,29218.15,7,4,2023,3,28,Tuesday,8765.44,At Risk / Low Value,At Risk / Low Value
+11004,5801,2023-01-12,Laptop,3,41720.19,Net Banking,Pune,Maharashtra,Electronics,125160.57,5,5,2023,1,12,Thursday,37548.17,Premium / Best Customers,Premium / Best Customers
+11005,5374,2023-01-25,Headphones,1,33299.91,Debit Card,Bangalore,Karnataka,Electronics,33299.91,8,2,2023,1,25,Wednesday,9989.97,Premium / Best Customers,Premium / Best Customers
+11006,5065,2023-10-28,Mobile,4,13210.16,Net Banking,Hyderabad,Telangana,Electronics,52840.64,6,4,2023,10,28,Saturday,15852.19,Loyal Customers,Loyal Customers
+11007,5146,2023-08-31,Jeans,4,12752.73,Debit Card,Chennai,Tamil Nadu,Fashion,51010.92,3,5,2023,8,31,Thursday,15303.28,Potential Customers,Potential Customers
+11008,5224,2023-05-02,Jeans,3,17994.6,Debit Card,Hyderabad,Telangana,Fashion,53983.8,7,1,2023,5,2,Tuesday,16195.14,At Risk / Low Value,At Risk / Low Value
+11009,5239,2023-05-27,Jeans,1,54674.92,Credit Card,Hyderabad,Telangana,Fashion,54674.92,8,2,2023,5,27,Saturday,16402.48,Loyal Customers,Loyal Customers
+11010,5177,2023-02-24,Shoes,1,32980.67,Net Banking,Chennai,Tamil Nadu,Fashion,32980.67,9,4,2023,2,24,Friday,9894.2,Loyal Customers,Loyal Customers
+11011,5779,2023-08-26,Jeans,3,44114.15,Net Banking,Chennai,Tamil Nadu,Fashion,132342.45,9,1,2023,8,26,Saturday,39702.74,Premium / Best Customers,Premium / Best Customers
+11012,5853,2023-12-22,Headphones,2,20989.56,Net Banking,Chennai,Tamil Nadu,Electronics,41979.12,2,2,2023,12,22,Friday,12593.74,Premium / Best Customers,Premium / Best Customers
+11013,5282,2023-06-22,Laptop,1,24640.63,UPI,Chennai,Tamil Nadu,Electronics,24640.63,9,3,2023,6,22,Thursday,7392.19,At Risk / Low Value,At Risk / Low Value
+11014,5063,2023-08-09,Jeans,2,7796.27,Debit Card,Chennai,Tamil Nadu,Fashion,15592.54,7,1,2023,8,9,Wednesday,4677.76,Loyal Customers,Loyal Customers
+11015,5217,2023-04-29,Camera,1,10526.31,Net Banking,Hyderabad,Telangana,Electronics,10526.31,5,5,2023,4,29,Saturday,3157.89,Loyal Customers,Loyal Customers
+11016,5854,2023-11-05,Camera,1,49693.19,UPI,Delhi,Delhi,Electronics,49693.19,6,4,2023,11,5,Sunday,14907.96,Premium / Best Customers,Premium / Best Customers
+11017,5827,2023-07-02,Shoes,1,35214.87,Credit Card,Delhi,Delhi,Fashion,35214.87,7,2,2023,7,2,Sunday,10564.46,Potential Customers,Potential Customers
+11018,5795,2023-10-15,Headphones,1,20450.69,Net Banking,Mumbai,Maharashtra,Electronics,20450.69,5,1,2023,10,15,Sunday,6135.21,Premium / Best Customers,Premium / Best Customers
+11019,5689,2023-11-03,Laptop,4,48230.22,Net Banking,Delhi,Delhi,Electronics,192920.88,9,3,2023,11,3,Friday,57876.26,Premium / Best Customers,Premium / Best Customers
+11020,5461,2023-10-27,Mobile,2,15017.24,UPI,Pune,Maharashtra,Electronics,30034.48,4,4,2023,10,27,Friday,9010.34,Premium / Best Customers,Premium / Best Customers
+11021,5929,2023-03-23,Tablet,2,58569.15,Debit Card,Delhi,Delhi,Electronics,117138.3,6,4,2023,3,23,Thursday,35141.49,Premium / Best Customers,Premium / Best Customers
+11022,5610,2023-07-30,Laptop,1,20885.61,Credit Card,Hyderabad,Telangana,Electronics,20885.61,5,1,2023,7,30,Sunday,6265.68,Loyal Customers,Loyal Customers
+11023,5105,2023-05-30,Tablet,1,20437.46,Net Banking,Chennai,Tamil Nadu,Electronics,20437.46,8,3,2023,5,30,Tuesday,6131.24,At Risk / Low Value,At Risk / Low Value
+11024,5099,2023-02-06,Watch,2,18921.14,Debit Card,Chennai,Tamil Nadu,Accessories,37842.28,7,2,2023,2,6,Monday,11352.68,Premium / Best Customers,Premium / Best Customers
+11025,5511,2023-12-18,Tablet,4,7590.06,Credit Card,Kolkata,West Bengal,Electronics,30360.24,4,1,2023,12,18,Monday,9108.07,Premium / Best Customers,Premium / Best Customers
+11026,5385,2023-11-08,Shirt,3,6934.89,COD,Kolkata,West Bengal,Fashion,20804.67,8,2,2023,11,8,Wednesday,6241.4,Premium / Best Customers,Premium / Best Customers
+11027,5405,2023-12-27,Camera,3,38991.87,COD,Kolkata,West Bengal,Electronics,116975.61,5,4,2023,12,27,Wednesday,35092.68,Premium / Best Customers,Premium / Best Customers
+11028,5823,2023-02-28,Headphones,2,52544.55,Credit Card,Hyderabad,Telangana,Electronics,105089.1,5,2,2023,2,28,Tuesday,31526.73,Potential Customers,Potential Customers
+11029,5518,2023-05-11,Backpack,1,47494.07,UPI,Pune,Maharashtra,Accessories,47494.07,9,3,2023,5,11,Thursday,14248.22,Potential Customers,Potential Customers
+11030,5476,2023-07-21,Shoes,1,8724.12,Credit Card,Delhi,Delhi,Fashion,8724.12,8,5,2023,7,21,Friday,2617.24,Loyal Customers,Loyal Customers
+11031,5977,2023-08-31,Shirt,4,32871.25,Credit Card,Hyderabad,Telangana,Fashion,131485.0,7,3,2023,8,31,Thursday,39445.5,Loyal Customers,Loyal Customers
+11032,5709,2023-02-04,Tablet,3,6603.82,UPI,Mumbai,Maharashtra,Electronics,19811.46,6,2,2023,2,4,Saturday,5943.44,Potential Customers,Potential Customers
+11033,5863,2023-04-03,Jeans,4,3004.09,UPI,Chennai,Tamil Nadu,Fashion,12016.36,4,1,2023,4,3,Monday,3604.91,Premium / Best Customers,Premium / Best Customers
+11034,5645,2023-07-26,Headphones,3,39486.24,Debit Card,Kolkata,West Bengal,Electronics,118458.72,9,4,2023,7,26,Wednesday,35537.62,Loyal Customers,Loyal Customers
+11035,5870,2023-12-19,Shirt,2,32248.59,Debit Card,Bangalore,Karnataka,Fashion,64497.18,2,5,2023,12,19,Tuesday,19349.15,Loyal Customers,Loyal Customers
+11036,5771,2023-11-28,Shoes,3,5196.81,UPI,Mumbai,Maharashtra,Fashion,15590.43,3,1,2023,11,28,Tuesday,4677.13,Premium / Best Customers,Premium / Best Customers
+11037,5437,2023-11-01,Camera,4,2385.87,COD,Kolkata,West Bengal,Electronics,9543.48,6,1,2023,11,1,Wednesday,2863.04,Potential Customers,Potential Customers
+11038,5023,2023-12-16,Headphones,4,59388.46,COD,Pune,Maharashtra,Electronics,237553.84,9,3,2023,12,16,Saturday,71266.15,Premium / Best Customers,Premium / Best Customers
+11039,5997,2023-08-01,Shoes,4,2092.27,Credit Card,Mumbai,Maharashtra,Fashion,8369.08,4,2,2023,8,1,Tuesday,2510.72,Premium / Best Customers,Premium / Best Customers
+11040,5565,2023-06-08,Watch,2,26838.34,Net Banking,Hyderabad,Telangana,Accessories,53676.68,8,3,2023,6,8,Thursday,16103.0,Premium / Best Customers,Premium / Best Customers
+11041,5677,2023-01-24,Watch,3,30425.76,Credit Card,Delhi,Delhi,Accessories,91277.28,5,2,2023,1,24,Tuesday,27383.18,Loyal Customers,Loyal Customers
+11042,5714,2023-10-20,Shoes,3,7301.62,Credit Card,Chennai,Tamil Nadu,Fashion,21904.86,8,3,2023,10,20,Friday,6571.46,Loyal Customers,Loyal Customers
+11043,5458,2023-01-04,Shirt,4,10392.99,Net Banking,Pune,Maharashtra,Fashion,41571.96,9,1,2023,1,4,Wednesday,12471.59,At Risk / Low Value,At Risk / Low Value
+11044,5083,2023-08-08,Headphones,3,21302.76,UPI,Pune,Maharashtra,Electronics,63908.28,4,4,2023,8,8,Tuesday,19172.48,Potential Customers,Potential Customers
+11045,5145,2023-12-30,Shirt,1,45772.05,COD,Bangalore,Karnataka,Fashion,45772.05,8,2,2023,12,30,Saturday,13731.62,Premium / Best Customers,Premium / Best Customers
+11046,5085,2023-01-20,Mobile,1,30572.82,Credit Card,Mumbai,Maharashtra,Electronics,30572.82,8,5,2023,1,20,Friday,9171.85,At Risk / Low Value,At Risk / Low Value
+11047,5078,2023-06-01,Tablet,1,38382.74,Net Banking,Bangalore,Karnataka,Electronics,38382.74,3,5,2023,6,1,Thursday,11514.82,Loyal Customers,Loyal Customers
+11048,5457,2023-02-19,Mobile,3,59114.92,Debit Card,Delhi,Delhi,Electronics,177344.76,7,1,2023,2,19,Sunday,53203.43,Loyal Customers,Loyal Customers
+11049,5878,2023-06-26,Watch,2,46149.92,Credit Card,Kolkata,West Bengal,Accessories,92299.84,9,3,2023,6,26,Monday,27689.95,Premium / Best Customers,Premium / Best Customers
+11050,5001,2023-04-06,Camera,2,26231.38,COD,Delhi,Delhi,Electronics,52462.76,3,3,2023,4,6,Thursday,15738.83,Potential Customers,Potential Customers
+11051,5051,2023-04-15,Laptop,2,26952.58,UPI,Kolkata,West Bengal,Electronics,53905.16,9,1,2023,4,15,Saturday,16171.55,Premium / Best Customers,Premium / Best Customers
+11052,5685,2023-09-07,Tablet,2,37240.69,Credit Card,Bangalore,Karnataka,Electronics,74481.38,2,5,2023,9,7,Thursday,22344.41,Loyal Customers,Loyal Customers
+11053,5717,2023-04-27,Watch,1,40022.3,Credit Card,Chennai,Tamil Nadu,Accessories,40022.3,2,5,2023,4,27,Thursday,12006.69,At Risk / Low Value,At Risk / Low Value
+11054,5772,2023-12-20,Shirt,1,30192.44,Net Banking,Delhi,Delhi,Fashion,30192.44,3,3,2023,12,20,Wednesday,9057.73,Premium / Best Customers,Premium / Best Customers
+11055,5446,2023-08-16,Shirt,4,38798.22,Debit Card,Bangalore,Karnataka,Fashion,155192.88,6,2,2023,8,16,Wednesday,46557.86,Loyal Customers,Loyal Customers
+11056,5449,2023-03-07,Shirt,3,1704.89,Debit Card,Mumbai,Maharashtra,Fashion,5114.67,6,4,2023,3,7,Tuesday,1534.4,At Risk / Low Value,At Risk / Low Value
+11057,5881,2023-12-01,Camera,3,25948.48,UPI,Bangalore,Karnataka,Electronics,77845.44,8,2,2023,12,1,Friday,23353.63,Premium / Best Customers,Premium / Best Customers
+11058,5488,2023-09-19,Mobile,2,16952.6,COD,Bangalore,Karnataka,Electronics,33905.2,8,5,2023,9,19,Tuesday,10171.56,Loyal Customers,Loyal Customers
+11059,5800,2023-10-22,Laptop,1,8011.71,UPI,Hyderabad,Telangana,Electronics,8011.71,5,2,2023,10,22,Sunday,2403.51,Loyal Customers,Loyal Customers
+11060,5034,2023-08-31,Shirt,2,6242.93,Credit Card,Delhi,Delhi,Fashion,12485.86,2,4,2023,8,31,Thursday,3745.76,At Risk / Low Value,At Risk / Low Value
+11061,5348,2023-07-05,Backpack,4,36310.57,Credit Card,Chennai,Tamil Nadu,Accessories,145242.28,9,2,2023,7,5,Wednesday,43572.68,Premium / Best Customers,Premium / Best Customers
+11062,5095,2023-09-03,Tablet,3,31558.95,Debit Card,Chennai,Tamil Nadu,Electronics,94676.85,5,2,2023,9,3,Sunday,28403.06,Premium / Best Customers,Premium / Best Customers
+11063,5072,2023-05-05,Headphones,3,15438.97,COD,Hyderabad,Telangana,Electronics,46316.91,2,2,2023,5,5,Friday,13895.07,Loyal Customers,Loyal Customers
+11064,5551,2023-09-25,Backpack,2,28415.72,Net Banking,Kolkata,West Bengal,Accessories,56831.44,3,2,2023,9,25,Monday,17049.43,Premium / Best Customers,Premium / Best Customers
+11065,5154,2023-05-11,Laptop,4,29686.27,COD,Pune,Maharashtra,Electronics,118745.08,6,1,2023,5,11,Thursday,35623.52,Loyal Customers,Loyal Customers
+11066,5250,2023-08-25,Camera,3,11942.04,Credit Card,Kolkata,West Bengal,Electronics,35826.12,8,5,2023,8,25,Friday,10747.84,At Risk / Low Value,At Risk / Low Value
+11067,5674,2023-01-18,Laptop,4,39229.96,Net Banking,Chennai,Tamil Nadu,Electronics,156919.84,6,4,2023,1,18,Wednesday,47075.95,Potential Customers,Potential Customers
+11068,5438,2023-02-09,Headphones,4,46920.89,COD,Bangalore,Karnataka,Electronics,187683.56,3,5,2023,2,9,Thursday,56305.07,Premium / Best Customers,Premium / Best Customers
+11069,5118,2023-01-21,Tablet,2,47550.37,COD,Hyderabad,Telangana,Electronics,95100.74,5,1,2023,1,21,Saturday,28530.22,Potential Customers,Potential Customers
+11070,5771,2023-08-13,Headphones,1,36267.45,Net Banking,Mumbai,Maharashtra,Electronics,36267.45,5,1,2023,8,13,Sunday,10880.23,Premium / Best Customers,Premium / Best Customers
+11071,5891,2023-12-21,Shoes,2,30844.82,Credit Card,Delhi,Delhi,Fashion,61689.64,4,1,2023,12,21,Thursday,18506.89,Premium / Best Customers,Premium / Best Customers
+11072,5306,2023-10-09,Tablet,1,3942.13,COD,Delhi,Delhi,Electronics,3942.13,8,1,2023,10,9,Monday,1182.64,Potential Customers,Potential Customers
+11073,5268,2023-01-08,Laptop,4,17483.53,Net Banking,Delhi,Delhi,Electronics,69934.12,8,2,2023,1,8,Sunday,20980.24,Loyal Customers,Loyal Customers
+11074,5961,2023-04-10,Shirt,1,5868.31,Credit Card,Bangalore,Karnataka,Fashion,5868.31,9,5,2023,4,10,Monday,1760.49,Loyal Customers,Loyal Customers
+11075,5054,2023-08-28,Laptop,4,57840.24,Net Banking,Mumbai,Maharashtra,Electronics,231360.96,8,3,2023,8,28,Monday,69408.29,Premium / Best Customers,Premium / Best Customers
+11076,5236,2023-03-28,Laptop,3,8364.28,Net Banking,Hyderabad,Telangana,Electronics,25092.84,2,4,2023,3,28,Tuesday,7527.85,At Risk / Low Value,At Risk / Low Value
+11077,5389,2023-10-25,Tablet,3,9360.99,COD,Hyderabad,Telangana,Electronics,28082.97,5,1,2023,10,25,Wednesday,8424.89,Potential Customers,Potential Customers
+11078,5990,2023-01-14,Shoes,3,53407.72,Credit Card,Delhi,Delhi,Fashion,160223.16,3,5,2023,1,14,Saturday,48066.95,Loyal Customers,Loyal Customers
+11079,5734,2023-11-30,Laptop,2,56652.52,COD,Mumbai,Maharashtra,Electronics,113305.04,5,1,2023,11,30,Thursday,33991.51,Premium / Best Customers,Premium / Best Customers
+11080,5763,2023-01-02,Backpack,2,46019.99,UPI,Mumbai,Maharashtra,Accessories,92039.98,6,1,2023,1,2,Monday,27611.99,Potential Customers,Potential Customers
+11081,5825,2023-10-20,Watch,4,622.67,UPI,Mumbai,Maharashtra,Accessories,2490.68,2,1,2023,10,20,Friday,747.2,Loyal Customers,Loyal Customers
+11082,5401,2023-11-21,Jeans,3,380.37,Credit Card,Chennai,Tamil Nadu,Fashion,1141.11,8,1,2023,11,21,Tuesday,342.33,Premium / Best Customers,Premium / Best Customers
+11083,5624,2023-02-10,Jeans,2,22872.62,Net Banking,Chennai,Tamil Nadu,Fashion,45745.24,9,1,2023,2,10,Friday,13723.57,Potential Customers,Potential Customers
+11084,5767,2023-11-14,Laptop,3,8860.7,COD,Delhi,Delhi,Electronics,26582.1,9,4,2023,11,14,Tuesday,7974.63,Premium / Best Customers,Premium / Best Customers
+11085,5303,2023-11-12,Backpack,2,1397.65,COD,Mumbai,Maharashtra,Accessories,2795.3,9,5,2023,11,12,Sunday,838.59,Potential Customers,Potential Customers
+11086,5919,2023-04-21,Shirt,1,28004.78,Credit Card,Pune,Maharashtra,Fashion,28004.78,7,1,2023,4,21,Friday,8401.43,At Risk / Low Value,At Risk / Low Value
+11087,5207,2023-01-14,Camera,1,56600.8,Credit Card,Mumbai,Maharashtra,Electronics,56600.8,4,1,2023,1,14,Saturday,16980.24,Potential Customers,Potential Customers
+11088,5229,2023-08-19,Camera,3,19632.03,UPI,Hyderabad,Telangana,Electronics,58896.09,2,1,2023,8,19,Saturday,17668.83,Loyal Customers,Loyal Customers
+11089,5853,2023-03-25,Tablet,4,39770.1,Debit Card,Hyderabad,Telangana,Electronics,159080.4,6,1,2023,3,25,Saturday,47724.12,Premium / Best Customers,Premium / Best Customers
+11090,5910,2023-05-10,Jeans,2,39238.45,Credit Card,Delhi,Delhi,Fashion,78476.9,8,2,2023,5,10,Wednesday,23543.07,Potential Customers,Potential Customers
+11091,5578,2023-08-19,Laptop,2,15289.48,Debit Card,Pune,Maharashtra,Electronics,30578.96,6,2,2023,8,19,Saturday,9173.69,Loyal Customers,Loyal Customers
+11092,5075,2023-11-22,Camera,1,39130.39,Credit Card,Mumbai,Maharashtra,Electronics,39130.39,6,3,2023,11,22,Wednesday,11739.12,Loyal Customers,Loyal Customers
+11093,5435,2023-05-25,Laptop,1,12976.34,Net Banking,Kolkata,West Bengal,Electronics,12976.34,8,1,2023,5,25,Thursday,3892.9,Loyal Customers,Loyal Customers
+11094,5103,2023-12-11,Tablet,4,7583.84,Net Banking,Pune,Maharashtra,Electronics,30335.36,6,3,2023,12,11,Monday,9100.61,Premium / Best Customers,Premium / Best Customers
+11095,5422,2023-01-28,Jeans,4,42172.58,UPI,Delhi,Delhi,Fashion,168690.32,9,4,2023,1,28,Saturday,50607.1,Loyal Customers,Loyal Customers
+11096,5704,2023-03-07,Headphones,4,7072.42,UPI,Hyderabad,Telangana,Electronics,28289.68,3,3,2023,3,7,Tuesday,8486.9,Premium / Best Customers,Premium / Best Customers
+11097,5764,2023-06-12,Watch,3,59815.48,Debit Card,Kolkata,West Bengal,Accessories,179446.44,4,5,2023,6,12,Monday,53833.93,Premium / Best Customers,Premium / Best Customers
+11098,5738,2023-08-17,Watch,1,11252.11,Credit Card,Hyderabad,Telangana,Accessories,11252.11,7,2,2023,8,17,Thursday,3375.63,Potential Customers,Potential Customers
+11099,5806,2023-09-18,Camera,3,35770.27,COD,Chennai,Tamil Nadu,Electronics,107310.81,6,2,2023,9,18,Monday,32193.24,Loyal Customers,Loyal Customers
+11100,5306,2023-06-13,Watch,1,24859.06,UPI,Delhi,Delhi,Accessories,24859.06,6,1,2023,6,13,Tuesday,7457.72,Potential Customers,Potential Customers
+11101,5098,2023-10-28,Headphones,1,7845.27,COD,Delhi,Delhi,Electronics,7845.27,5,1,2023,10,28,Saturday,2353.58,Potential Customers,Potential Customers
+11102,5850,2023-10-30,Laptop,2,1962.28,COD,Mumbai,Maharashtra,Electronics,3924.56,4,4,2023,10,30,Monday,1177.37,Potential Customers,Potential Customers
+11103,5798,2023-10-14,Tablet,1,37477.12,Credit Card,Mumbai,Maharashtra,Electronics,37477.12,2,4,2023,10,14,Saturday,11243.14,Premium / Best Customers,Premium / Best Customers
+11104,5335,2023-01-10,Headphones,1,48463.43,Debit Card,Chennai,Tamil Nadu,Electronics,48463.43,4,5,2023,1,10,Tuesday,14539.03,Loyal Customers,Loyal Customers
+11105,5859,2023-07-14,Tablet,3,50568.33,Credit Card,Kolkata,West Bengal,Electronics,151704.99,4,1,2023,7,14,Friday,45511.5,Loyal Customers,Loyal Customers
+11106,5435,2023-04-28,Tablet,1,29117.99,UPI,Bangalore,Karnataka,Electronics,29117.99,8,1,2023,4,28,Friday,8735.4,Loyal Customers,Loyal Customers
+11107,5447,2023-09-27,Jeans,3,46714.09,COD,Pune,Maharashtra,Fashion,140142.27,8,4,2023,9,27,Wednesday,42042.68,Loyal Customers,Loyal Customers
+11108,5994,2023-03-21,Laptop,4,40468.97,Credit Card,Bangalore,Karnataka,Electronics,161875.88,8,4,2023,3,21,Tuesday,48562.76,Potential Customers,Potential Customers
+11109,5308,2023-04-03,Backpack,1,43538.0,Credit Card,Bangalore,Karnataka,Accessories,43538.0,7,4,2023,4,3,Monday,13061.4,At Risk / Low Value,At Risk / Low Value
+11110,5249,2023-09-23,Watch,1,29708.16,Credit Card,Delhi,Delhi,Accessories,29708.16,9,2,2023,9,23,Saturday,8912.45,Potential Customers,Potential Customers
+11111,5166,2023-11-28,Backpack,3,38114.68,UPI,Pune,Maharashtra,Accessories,114344.04,4,3,2023,11,28,Tuesday,34303.21,Loyal Customers,Loyal Customers
+11112,5481,2023-12-16,Jeans,4,48389.9,Debit Card,Delhi,Delhi,Fashion,193559.6,7,3,2023,12,16,Saturday,58067.88,Premium / Best Customers,Premium / Best Customers
+11113,5984,2023-12-27,Tablet,2,24053.69,Credit Card,Pune,Maharashtra,Electronics,48107.38,6,1,2023,12,27,Wednesday,14432.21,Premium / Best Customers,Premium / Best Customers
+11114,5335,2023-09-14,Camera,4,48416.94,UPI,Hyderabad,Telangana,Electronics,193667.76,8,2,2023,9,14,Thursday,58100.33,Loyal Customers,Loyal Customers
+11115,5542,2023-05-13,Watch,3,35643.41,COD,Delhi,Delhi,Accessories,106930.23,6,4,2023,5,13,Saturday,32079.07,Potential Customers,Potential Customers
+11116,5759,2023-10-03,Watch,4,10204.29,Net Banking,Delhi,Delhi,Accessories,40817.16,8,1,2023,10,3,Tuesday,12245.15,Premium / Best Customers,Premium / Best Customers
+11117,5106,2023-09-21,Laptop,3,1773.64,UPI,Delhi,Delhi,Electronics,5320.92,3,2,2023,9,21,Thursday,1596.28,Premium / Best Customers,Premium / Best Customers
+11118,5563,2023-06-20,Shoes,3,21956.39,Net Banking,Kolkata,West Bengal,Fashion,65869.17,7,5,2023,6,20,Tuesday,19760.75,Loyal Customers,Loyal Customers
+11119,5081,2023-01-01,Mobile,2,32937.77,Credit Card,Chennai,Tamil Nadu,Electronics,65875.54,7,2,2023,1,1,Sunday,19762.66,Premium / Best Customers,Premium / Best Customers
+11120,5133,2023-11-09,Mobile,1,50437.28,Credit Card,Delhi,Delhi,Electronics,50437.28,9,1,2023,11,9,Thursday,15131.18,Loyal Customers,Loyal Customers
+11121,5797,2023-03-05,Mobile,3,7910.9,UPI,Mumbai,Maharashtra,Electronics,23732.7,2,3,2023,3,5,Sunday,7119.81,At Risk / Low Value,At Risk / Low Value
+11122,5900,2023-10-11,Shoes,3,48072.32,Net Banking,Mumbai,Maharashtra,Fashion,144216.96,5,4,2023,10,11,Wednesday,43265.09,Premium / Best Customers,Premium / Best Customers
+11123,5138,2023-05-01,Laptop,2,51821.64,Credit Card,Pune,Maharashtra,Electronics,103643.28,4,5,2023,5,1,Monday,31092.98,Potential Customers,Potential Customers
+11124,5184,2023-04-17,Shoes,3,9296.04,COD,Hyderabad,Telangana,Fashion,27888.12,2,2,2023,4,17,Monday,8366.44,Potential Customers,Potential Customers
+11125,5401,2023-06-24,Mobile,1,51140.18,Debit Card,Chennai,Tamil Nadu,Electronics,51140.18,7,1,2023,6,24,Saturday,15342.05,Premium / Best Customers,Premium / Best Customers
+11126,5330,2023-07-23,Jeans,2,59489.78,Debit Card,Kolkata,West Bengal,Fashion,118979.56,2,1,2023,7,23,Sunday,35693.87,Loyal Customers,Loyal Customers
+11127,5785,2023-06-14,Headphones,1,43692.28,Credit Card,Pune,Maharashtra,Electronics,43692.28,3,4,2023,6,14,Wednesday,13107.68,Loyal Customers,Loyal Customers
+11128,5508,2023-11-01,Tablet,1,47150.75,Net Banking,Mumbai,Maharashtra,Electronics,47150.75,5,1,2023,11,1,Wednesday,14145.22,Loyal Customers,Loyal Customers
+11129,5852,2023-04-30,Shoes,2,59666.59,Credit Card,Chennai,Tamil Nadu,Fashion,119333.18,9,1,2023,4,30,Sunday,35799.95,Premium / Best Customers,Premium / Best Customers
+11130,5984,2023-02-13,Laptop,3,36447.23,Net Banking,Chennai,Tamil Nadu,Electronics,109341.69,7,4,2023,2,13,Monday,32802.51,Premium / Best Customers,Premium / Best Customers
+11131,5069,2023-11-08,Laptop,1,18680.82,COD,Hyderabad,Telangana,Electronics,18680.82,7,5,2023,11,8,Wednesday,5604.25,Premium / Best Customers,Premium / Best Customers
+11132,5546,2023-06-05,Backpack,1,50300.59,Net Banking,Chennai,Tamil Nadu,Accessories,50300.59,4,3,2023,6,5,Monday,15090.18,Loyal Customers,Loyal Customers
+11133,5774,2023-07-26,Headphones,1,36984.8,Credit Card,Delhi,Delhi,Electronics,36984.8,9,3,2023,7,26,Wednesday,11095.44,Potential Customers,Potential Customers
+11134,5053,2023-04-18,Camera,1,34997.37,COD,Chennai,Tamil Nadu,Electronics,34997.37,9,2,2023,4,18,Tuesday,10499.21,Premium / Best Customers,Premium / Best Customers
+11135,5450,2023-09-08,Watch,2,15442.04,UPI,Hyderabad,Telangana,Accessories,30884.08,8,5,2023,9,8,Friday,9265.22,Loyal Customers,Loyal Customers
+11136,5205,2023-11-30,Mobile,2,45453.16,Debit Card,Pune,Maharashtra,Electronics,90906.32,5,2,2023,11,30,Thursday,27271.9,Loyal Customers,Loyal Customers
+11137,5126,2023-05-10,Camera,4,5175.54,Credit Card,Hyderabad,Telangana,Electronics,20702.16,3,3,2023,5,10,Wednesday,6210.65,Loyal Customers,Loyal Customers
+11138,5747,2023-10-20,Backpack,4,55479.94,Credit Card,Kolkata,West Bengal,Accessories,221919.76,6,4,2023,10,20,Friday,66575.93,Loyal Customers,Loyal Customers
+11139,5043,2023-01-20,Mobile,1,19751.66,Credit Card,Hyderabad,Telangana,Electronics,19751.66,2,1,2023,1,20,Friday,5925.5,Potential Customers,Potential Customers
+11140,5752,2023-10-09,Headphones,3,7928.15,COD,Mumbai,Maharashtra,Electronics,23784.45,9,3,2023,10,9,Monday,7135.34,Premium / Best Customers,Premium / Best Customers
+11141,5971,2023-10-12,Backpack,1,26709.28,UPI,Delhi,Delhi,Accessories,26709.28,4,5,2023,10,12,Thursday,8012.78,Premium / Best Customers,Premium / Best Customers
+11142,5883,2023-01-01,Mobile,3,2835.45,Net Banking,Mumbai,Maharashtra,Electronics,8506.35,7,3,2023,1,1,Sunday,2551.91,Premium / Best Customers,Premium / Best Customers
+11143,5111,2023-04-29,Headphones,1,41172.18,UPI,Pune,Maharashtra,Electronics,41172.18,6,5,2023,4,29,Saturday,12351.65,At Risk / Low Value,At Risk / Low Value
+11144,5761,2023-02-04,Shirt,4,54191.52,COD,Bangalore,Karnataka,Fashion,216766.08,3,5,2023,2,4,Saturday,65029.82,Premium / Best Customers,Premium / Best Customers
+11145,5663,2023-07-17,Camera,4,50284.6,Credit Card,Pune,Maharashtra,Electronics,201138.4,5,5,2023,7,17,Monday,60341.52,Premium / Best Customers,Premium / Best Customers
+11146,5183,2023-09-02,Camera,3,7903.96,Debit Card,Delhi,Delhi,Electronics,23711.88,9,2,2023,9,2,Saturday,7113.56,At Risk / Low Value,At Risk / Low Value
+11147,5848,2023-02-28,Watch,1,7838.39,Credit Card,Chennai,Tamil Nadu,Accessories,7838.39,2,4,2023,2,28,Tuesday,2351.52,At Risk / Low Value,At Risk / Low Value
+11148,5095,2023-11-21,Headphones,3,48862.04,Net Banking,Hyderabad,Telangana,Electronics,146586.12,9,3,2023,11,21,Tuesday,43975.84,Premium / Best Customers,Premium / Best Customers
+11149,5971,2023-06-10,Shoes,4,55477.98,Debit Card,Bangalore,Karnataka,Fashion,221911.92,4,4,2023,6,10,Saturday,66573.58,Premium / Best Customers,Premium / Best Customers
+11150,5374,2023-06-28,Shirt,1,27801.99,Credit Card,Delhi,Delhi,Fashion,27801.99,9,1,2023,6,28,Wednesday,8340.6,Premium / Best Customers,Premium / Best Customers
+11151,5912,2023-07-25,Jeans,1,30088.58,Debit Card,Mumbai,Maharashtra,Fashion,30088.58,9,3,2023,7,25,Tuesday,9026.57,Loyal Customers,Loyal Customers
+11152,5520,2023-01-12,Mobile,3,19300.24,UPI,Hyderabad,Telangana,Electronics,57900.72,9,4,2023,1,12,Thursday,17370.22,At Risk / Low Value,At Risk / Low Value
+11153,5900,2023-10-03,Shirt,2,53687.63,COD,Pune,Maharashtra,Fashion,107375.26,7,4,2023,10,3,Tuesday,32212.58,Premium / Best Customers,Premium / Best Customers
+11154,5360,2023-06-30,Headphones,3,38800.7,Credit Card,Mumbai,Maharashtra,Electronics,116402.1,7,1,2023,6,30,Friday,34920.63,Potential Customers,Potential Customers
+11155,5900,2023-08-30,Tablet,4,17508.62,Net Banking,Delhi,Delhi,Electronics,70034.48,6,5,2023,8,30,Wednesday,21010.34,Premium / Best Customers,Premium / Best Customers
+11156,5696,2023-08-04,Mobile,4,18137.34,UPI,Delhi,Delhi,Electronics,72549.36,6,3,2023,8,4,Friday,21764.81,Potential Customers,Potential Customers
+11157,5281,2023-09-08,Laptop,4,53504.64,Credit Card,Pune,Maharashtra,Electronics,214018.56,2,3,2023,9,8,Friday,64205.57,Loyal Customers,Loyal Customers
+11158,5195,2023-10-26,Camera,4,1113.95,UPI,Bangalore,Karnataka,Electronics,4455.8,5,1,2023,10,26,Thursday,1336.74,Premium / Best Customers,Premium / Best Customers
+11159,5864,2023-05-06,Headphones,4,19566.78,Net Banking,Pune,Maharashtra,Electronics,78267.12,3,5,2023,5,6,Saturday,23480.14,Premium / Best Customers,Premium / Best Customers
+11160,5195,2023-08-05,Laptop,2,33395.09,Credit Card,Chennai,Tamil Nadu,Electronics,66790.18,8,3,2023,8,5,Saturday,20037.05,Premium / Best Customers,Premium / Best Customers
+11161,5667,2023-11-02,Watch,1,9148.58,Net Banking,Mumbai,Maharashtra,Accessories,9148.58,5,3,2023,11,2,Thursday,2744.57,Potential Customers,Potential Customers
+11162,5093,2023-10-12,Backpack,3,5798.3,Debit Card,Bangalore,Karnataka,Accessories,17394.9,5,3,2023,10,12,Thursday,5218.47,Potential Customers,Potential Customers
+11163,5672,2023-07-04,Jeans,3,48972.0,Net Banking,Hyderabad,Telangana,Fashion,146916.0,5,5,2023,7,4,Tuesday,44074.8,Premium / Best Customers,Premium / Best Customers
+11164,5946,2023-02-08,Jeans,4,53695.94,Debit Card,Kolkata,West Bengal,Fashion,214783.76,8,1,2023,2,8,Wednesday,64435.13,Premium / Best Customers,Premium / Best Customers
+11165,5061,2023-08-11,Laptop,3,49469.3,Credit Card,Chennai,Tamil Nadu,Electronics,148407.9,2,3,2023,8,11,Friday,44522.37,Potential Customers,Potential Customers
+11166,5634,2023-07-03,Camera,4,53957.64,Debit Card,Bangalore,Karnataka,Electronics,215830.56,8,4,2023,7,3,Monday,64749.17,Premium / Best Customers,Premium / Best Customers
+11167,5051,2023-06-27,Watch,2,33320.78,Credit Card,Kolkata,West Bengal,Accessories,66641.56,2,5,2023,6,27,Tuesday,19992.47,Premium / Best Customers,Premium / Best Customers
+11168,5403,2023-10-21,Tablet,2,48791.81,Credit Card,Kolkata,West Bengal,Electronics,97583.62,8,2,2023,10,21,Saturday,29275.09,Premium / Best Customers,Premium / Best Customers
+11169,5789,2023-12-06,Camera,1,23227.35,COD,Mumbai,Maharashtra,Electronics,23227.35,3,1,2023,12,6,Wednesday,6968.2,Potential Customers,Potential Customers
+11170,5005,2023-05-31,Shirt,2,40076.19,Credit Card,Delhi,Delhi,Fashion,80152.38,9,4,2023,5,31,Wednesday,24045.71,Premium / Best Customers,Premium / Best Customers
+11171,5466,2023-05-06,Jeans,2,59333.48,Debit Card,Hyderabad,Telangana,Fashion,118666.96,5,3,2023,5,6,Saturday,35600.09,Potential Customers,Potential Customers
+11172,5604,2023-10-28,Shirt,1,13775.95,COD,Pune,Maharashtra,Fashion,13775.95,9,2,2023,10,28,Saturday,4132.78,Loyal Customers,Loyal Customers
+11173,5682,2023-11-04,Mobile,3,23577.01,COD,Mumbai,Maharashtra,Electronics,70731.03,2,1,2023,11,4,Saturday,21219.31,Premium / Best Customers,Premium / Best Customers
+11174,5829,2023-12-02,Shoes,4,28958.83,Credit Card,Chennai,Tamil Nadu,Fashion,115835.32,8,5,2023,12,2,Saturday,34750.6,Premium / Best Customers,Premium / Best Customers
+11175,5534,2023-08-22,Headphones,4,8539.52,Net Banking,Kolkata,West Bengal,Electronics,34158.08,3,2,2023,8,22,Tuesday,10247.42,Potential Customers,Potential Customers
+11176,5405,2023-01-08,Watch,3,5138.01,Net Banking,Chennai,Tamil Nadu,Accessories,15414.03,8,2,2023,1,8,Sunday,4624.21,Premium / Best Customers,Premium / Best Customers
+11177,5838,2023-12-07,Camera,1,49834.46,COD,Kolkata,West Bengal,Electronics,49834.46,9,4,2023,12,7,Thursday,14950.34,Premium / Best Customers,Premium / Best Customers
+11178,5513,2023-05-09,Jeans,3,58614.62,Credit Card,Delhi,Delhi,Fashion,175843.86,7,1,2023,5,9,Tuesday,52753.16,Premium / Best Customers,Premium / Best Customers
+11179,5645,2023-09-21,Shirt,2,24462.09,Net Banking,Delhi,Delhi,Fashion,48924.18,3,4,2023,9,21,Thursday,14677.25,Loyal Customers,Loyal Customers
+11180,5233,2023-06-06,Backpack,1,5532.7,Credit Card,Hyderabad,Telangana,Accessories,5532.7,5,4,2023,6,6,Tuesday,1659.81,Premium / Best Customers,Premium / Best Customers
+11181,5524,2023-12-18,Mobile,1,4228.96,Credit Card,Pune,Maharashtra,Electronics,4228.96,4,3,2023,12,18,Monday,1268.69,Potential Customers,Potential Customers
+11182,5346,2023-12-24,Headphones,1,53511.7,COD,Hyderabad,Telangana,Electronics,53511.7,5,5,2023,12,24,Sunday,16053.51,Premium / Best Customers,Premium / Best Customers
+11183,5046,2023-01-05,Headphones,4,27989.71,COD,Delhi,Delhi,Electronics,111958.84,4,2,2023,1,5,Thursday,33587.65,Potential Customers,Potential Customers
+11184,5546,2023-03-27,Camera,3,19405.63,UPI,Delhi,Delhi,Electronics,58216.89,3,1,2023,3,27,Monday,17465.07,Loyal Customers,Loyal Customers
+11185,5945,2023-06-24,Watch,1,28744.74,Net Banking,Chennai,Tamil Nadu,Accessories,28744.74,7,5,2023,6,24,Saturday,8623.42,Potential Customers,Potential Customers
+11186,5078,2023-10-17,Tablet,1,19302.75,Net Banking,Delhi,Delhi,Electronics,19302.75,9,5,2023,10,17,Tuesday,5790.82,Loyal Customers,Loyal Customers
+11187,5730,2023-07-12,Backpack,1,29495.44,Net Banking,Bangalore,Karnataka,Accessories,29495.44,7,1,2023,7,12,Wednesday,8848.63,Loyal Customers,Loyal Customers
+11188,5813,2023-11-07,Camera,3,51615.52,Debit Card,Kolkata,West Bengal,Electronics,154846.56,2,5,2023,11,7,Tuesday,46453.97,Premium / Best Customers,Premium / Best Customers
+11189,5923,2023-04-29,Shirt,4,35660.39,Credit Card,Mumbai,Maharashtra,Fashion,142641.56,7,3,2023,4,29,Saturday,42792.47,Premium / Best Customers,Premium / Best Customers
+11190,5073,2023-08-06,Shoes,2,41770.83,COD,Delhi,Delhi,Fashion,83541.66,6,5,2023,8,6,Sunday,25062.5,Potential Customers,Potential Customers
+11191,5794,2023-04-24,Laptop,4,22070.84,Net Banking,Hyderabad,Telangana,Electronics,88283.36,3,3,2023,4,24,Monday,26485.01,Potential Customers,Potential Customers
+11192,5249,2023-05-25,Tablet,1,44388.8,UPI,Pune,Maharashtra,Electronics,44388.8,9,2,2023,5,25,Thursday,13316.64,Potential Customers,Potential Customers
+11193,5047,2023-01-26,Watch,4,40097.04,Net Banking,Kolkata,West Bengal,Accessories,160388.16,9,2,2023,1,26,Thursday,48116.45,Premium / Best Customers,Premium / Best Customers
+11194,5121,2023-05-16,Mobile,4,7437.85,Credit Card,Kolkata,West Bengal,Electronics,29751.4,2,4,2023,5,16,Tuesday,8925.42,At Risk / Low Value,At Risk / Low Value
+11195,5214,2023-10-30,Tablet,2,34486.78,Credit Card,Pune,Maharashtra,Electronics,68973.56,9,3,2023,10,30,Monday,20692.07,Potential Customers,Potential Customers
+11196,5239,2023-08-20,Jeans,3,15627.59,COD,Pune,Maharashtra,Fashion,46882.77,7,2,2023,8,20,Sunday,14064.83,Loyal Customers,Loyal Customers
+11197,5056,2023-03-17,Watch,3,48304.51,Debit Card,Kolkata,West Bengal,Accessories,144913.53,3,5,2023,3,17,Friday,43474.06,Potential Customers,Potential Customers
+11198,5350,2023-11-24,Shoes,4,25728.48,COD,Bangalore,Karnataka,Fashion,102913.92,5,1,2023,11,24,Friday,30874.18,Premium / Best Customers,Premium / Best Customers
+11199,5107,2023-12-11,Jeans,4,59682.64,Net Banking,Hyderabad,Telangana,Fashion,238730.56,7,1,2023,12,11,Monday,71619.17,Premium / Best Customers,Premium / Best Customers
+11200,5831,2023-10-29,Tablet,3,5822.28,UPI,Bangalore,Karnataka,Electronics,17466.84,8,3,2023,10,29,Sunday,5240.05,Loyal Customers,Loyal Customers
